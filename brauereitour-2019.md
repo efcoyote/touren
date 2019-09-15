@@ -46,3 +46,42 @@ wenn es klappt, dann im [Weisses Rössl](https://www.weisses-roessl-straubing.de
 [Waldkraiburg oder Aschau](https://www.waldkraiburg.de/cdn/uploads/gastgeberverzeichnis-web.pdf)
 
 ## Freitag, 20. September
+
+### Brauereien
+
+### Route
+
+### Übernachtung
+
+## Samstag, 21. September
+
+### Brauereien
+
+### Route
+
+### Übernachtung
+
+## Sonntag, 22. September
+
+### Brauereien
+
+### Route
+
+## Notizen
+
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| Baumer | Bräustübl Baumer, Marktplatz 1, Gars | 10:00 - 20:00 | Samstag & Sonntag Ruhetag |
+| Slossbrauerei Stein | [Gasthof Martini](https://www.steiner-bier.de/index.php?PageID=82), Hauptstr.5, Stein an der Traun | 10:00 - 24:00 | |
+| Klosterbrauerei Baumburg | [Bräustüberl Baumburg](https://www.bräustüberlbaumburg.de/), Baumburg 12, Altenmarkt an der Alz | Montag-Samstag, 10:30 - 22:00, Sonntag,  10:00 - 22:00 | |
+| Weissbräu Schwendl | [Brauereigasthof Weissbräu Schwendl](https://www.weissbraeu-schwendl.de/brauereigasthof/), Schalchener Str. 130, Tacherting | Freitag, ab 14 Uhr, Sonntag 10:00 - 14:00 | auch in diversen Gasthäusern der Umgebung |
+| Stallbauer | Wiesmühl a.d. Alz 12, Engelsberg | Donnerstag - Samstag, 16:00 - 20:00 | nur Verkauf |
+| Leidmann | [Gastwirtschaft Leidmann](https://www.brauerei-leidmann.de/gastwirtschaft), Bräustraße 1, Unterneukirchen | Freitag bis 21:00 Uhr, Wochenende geschlossen | |
+| Bräu im Moos | [Brauereigasthof Bräu im Moos](https://braeuimmoos.de/gasthof/), Bräu im Moos 1, Tüssling | 11:00 - 23:00 | |
+| Graminger Weissbräu| [Graminger Weissbräu](https://www.graminger-weissbraeu.de/), Graming 79, Altötting | ab 11:00 | Urlaub ausgeschlossen |
+| Müllerbräu | [Brauereigaststätte El Loquito](https://www.el-loquito.de/), Burghauser Straße 2, Neuötting | Samstag, 17:00 - 01:00, Sonntag Ruhetag | auch in diversen Gasthäusern der Umgebung |
+| Berger | [Brauereigaststätte Berger](https://brauerei-berger.de/startseite/), Öttinger Str. 3, Reischach | Freitag & Sonntag, ab 17:00, Samstag Ruhetag | |
+| Burghausener Brauwerkstatt | | Samstag, 10:00 - 13:00 | auch in diversen Gasthäusern der Umgebung |
+| Brauda Büchl | [Bräustüberl](https://braudabuechl.de/wirtshaus/), Büchl 5, Ering | Samstag, 17:30 - 23:00 & Sonntag, 15:00 - 21:00 | |
+| Weißbräu Kösslarn | Pizzeria Cipollino, Marktpl. 23, Kößlarn | 11:00 - 14:00 & 17:00 - 23:00 | auch in diversen Gasthäusern der Umgebung |
+| Die Hecke | [Die Hecke](https://www.die-hecke.de/restaurant/), Eitlöd 1, Bad Füssing | Dienstag - Samstag, 11:00 - 23:00 & Sonntag, 9:00 - 23:00 | |
