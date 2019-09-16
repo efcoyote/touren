@@ -4,13 +4,13 @@
 
 ### Anreise
 
-Die Anreise mit dem Zug bis Straubing mit 2 Umstiegen kostet 39 € mit dem Bayern Ticket (ab 18:00 Uhr Bayern Ticket Nacht für 31 €). Es kommt außerdem noch 16,50 € für die Fahrradkarten hinzu.
+Die Anreise mit dem Zug bis Straubing mit 2 Umstiegen kostet 39 € mit dem Bayern Ticket (ab 18:00 Uhr Bayern Ticket Nacht für 31 €). Es kommen außerdem noch 16,50 € für die Fahrradkarten hinzu.
 
-| Abfahrt | Ankunft | Fahrzeit |
-| ------- | ------- | -------- |
-| 16:02   | 18:37   | 2:35     |
-| 17:13   | 20:07   | 2:54     |
-| 18:42   | 21:35   | 2:53     |
+| Abfahrt | Ankunft |
+| ------- | ------- |
+| Erlangen, **17:13**, Gleis 3 | Nürnberg, 17:34, Gleis 14 |
+| Nürnberg, 17:43, Gleis 17 | Regensburg, 19:30, Gleis 101 |
+| Regensburg, 19:39, Gleis 4 | Straubing, **20:07**, Gleis 5 |
 
 ### Brauereien
 
@@ -111,6 +111,3 @@ Die Anreise mit dem Zug bis Straubing mit 2 Umstiegen kostet 39 € mit dem Baye
 | Bräu im Moos | [Brauereigasthof Bräu im Moos](https://braeuimmoos.de/gasthof/), Bräu im Moos 1, Tüssling | 11:00 - 23:00 | |
 | Baumer | Bräustübl Baumer, Marktplatz 1, Gars | 10:00 - 20:00 | Samstag & Sonntag Ruhetag |
 | Berger | [Brauereigaststätte Berger](https://brauerei-berger.de/startseite/), Öttinger Str. 3, Reischach | Freitag & Sonntag, ab 17:00, Samstag Ruhetag | |
-| Brauda Büchl | [Bräustüberl](https://braudabuechl.de/wirtshaus/), Büchl 5, Ering | Samstag, 17:30 - 23:00 & Sonntag, 15:00 - 21:00 | |
-| Weißbräu Kösslarn | Pizzeria Cipollino, Marktpl. 23, Kößlarn | 11:00 - 14:00 & 17:00 - 23:00 | auch in diversen Gasthäusern der Umgebung |
-| Die Hecke | [Die Hecke](https://www.die-hecke.de/restaurant/), Eitlöd 1, Bad Füssing | Dienstag - Samstag, 11:00 - 23:00 & Sonntag, 9:00 - 23:00 | |
