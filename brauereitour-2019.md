@@ -20,7 +20,10 @@ Die Anreise mit dem Zug bis Straubing mit 2 Umstiegen kostet 39 € mit dem Baye
 
 ### Übernachtung
 
-wenn es klappt, dann im [Weisses Rössl](https://www.weisses-roessl-straubing.de/)
+- [Gästehaus Reisinger](http://www.festzelt-reisinger.de/gaestehaus/)
+- 3 x EZ (45 €)
+- inkl. Frühstück
+- **Rückmeldung bei Anreise nach 18:00 Uhr!**
 
 ## Donnerstag, 19. September
 
@@ -34,32 +37,64 @@ wenn es klappt, dann im [Weisses Rössl](https://www.weisses-roessl-straubing.de
 | Kalvarienenbergbräu Poxau | EDEKA Getränkemarkt Ernst, Am Kreisverkehr 7, Reisbach | 07:45 - 20:00 | |
 | Klosterbräu Seemannshausen | [Bierkeller Seemannshausen](https://www.klosterbraeu-seemannshausen.de), Seemannshausen 8, Gangkofen | ab 16:00 | |
 | Erharting | [Sommerkeller Erharting](http://www.sommerkeller-erharting.de/), Vorberg 20, Erharting | ab 15:00 | Panoramablick auf das ganze Chiemgauer Bergmassiv |
-| Unertl Weissbräu | [diverse](https://www.brauerei-unertl.de/wirtschaften.htm) | | |
-| Ametsbichler | [Bräustüberl Ametsbichler](http://www.ametsbichler.de/index.php/braeustueberl.html), Hauptstr. 13, Aschau am Inn | ab 18:00 | |
+| Müllerbräu | [Brauereigaststätte El Loquito](https://www.el-loquito.de/), Burghauser Straße 2, Neuötting | Samstag, 17:00 - 01:00, Sonntag Ruhetag | auch in diversen Gasthäusern der Umgebung |
 
 ### Route
 
-[Route - Tag 1](http://bit.ly/32FEkht)
+[Route - Tag 1, 104 km](http://bit.ly/32II3uC)
 
 ### Übernachtung
 
-[Waldkraiburg oder Aschau](https://www.waldkraiburg.de/cdn/uploads/gastgeberverzeichnis-web.pdf)
+- [Brauereigaststätte El Loquito](https://www.muellerbraeu.de/gastronomie.html#neuoetting)
+- 1 x DZ (89 €), 1 x EZ (46 €)
+- inkl. Frühstück
+- Anreise ab 17:00 Uhr
+
 
 ## Freitag, 20. September
 
 ### Brauereien
 
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| Graminger Weissbräu| [Graminger Weissbräu](https://www.graminger-weissbraeu.de/), Graming 79, Altötting | ab 11:00 | Urlaub ausgeschlossen |
+| Burghausener Brauwerkstatt | | Samstag, 10:00 - 13:00 | auch in diversen Gasthäusern der Umgebung |
+| Leidmann | [Gastwirtschaft Leidmann](https://www.brauerei-leidmann.de/gastwirtschaft), Bräustraße 1, Unterneukirchen | Freitag bis 21:00 Uhr, Wochenende geschlossen | |
+| Stallbauer | Wiesmühl a.d. Alz 12, Engelsberg | Donnerstag - Samstag, 16:00 - 20:00 | nur Verkauf |
+| Weissbräu Schwendl | [Brauereigasthof Weissbräu Schwendl](https://www.weissbraeu-schwendl.de/brauereigasthof/), Schalchener Str. 130, Tacherting | Freitag, ab 14 Uhr, Sonntag 10:00 - 14:00 | auch in diversen Gasthäusern der Umgebung |
+| Klosterbrauerei Baumburg | [Bräustüberl Baumburg](https://www.bräustüberlbaumburg.de/), Baumburg 12, Altenmarkt an der Alz | Montag-Samstag, 10:30 - 22:00, Sonntag,  10:00 - 22:00 | |
+
 ### Route
 
+[Route - Tag 2, 65 km](http://bit.ly/2Lz6gxJ)
+
 ### Übernachtung
+
+*ausstehend*
 
 ## Samstag, 21. September
 
 ### Brauereien
 
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| Schlossbrauerei Stein | [Gasthof Martini](https://www.steiner-bier.de/index.php?PageID=82), Hauptstr. 5, Stein an der Traun | 10:00 - 24:00 | |
+| Camba Bavaria | [Camba Brauerei-Gaststätte](https://www.camba-bavaria.de/truchtlaching-brauereigaststaette/), Mühlweg 2, Truchtlaching | Dienstag - Freitag, 16:00 - 23:00, Samstag - Sonntag, 11:00 - 23:00 | |
+| Schnitzlbaumer | [Brauerei-Ausschank Schnitzlbaumer](https://www.schnitzlbaumer.de/der-brauerei-ausschank/brauerei-ausschank-traunstein/), Taubenmarkt 11a - 13, Traunstein | Samstag - Sonntag, 10:00 - 24:00 | |
+| Hofbräuhaus Traunstein | [Bräustüberl Hofbräuhaus Traunstein ](https://www.braeustueberl-traunstein.de/), Stadtplatz 20, Traunstein | 10:00 - 24:00 | |
+| Wochinger | [Wochinger Brauhaus](https://www.wochinger-brauhaus.com/),  Oswaldstr. 4, Traunstein | 10:00 - 24:00 | |
+| Simsseer | [Salettl](http://www.simsseer-weidefleisch.de/salettl/), Finsterwalderstraße 1, Stephanskirchen | Samstag, 9:30 - 22:00 | |
+| Tante Paula | [Tante Paula](https://www.tantepaula-gasthausbrauerei.de/), Schmettererstraße 20, Rosenheim | ab 10:30 | |
+| Flötzinger | [Flötzinger Bräustüberl](http://floetzinger-braeustueberl.de/), Samerstraße 17, Rosenheim | 11:00 - 24:00 | |
+| Auerbräu | [Miros](http://www.miros-restaurant.de/), Münchener Str. 78, Rosenheim | 11:00 - 22:00 | |
+
 ### Route
 
+[Route - Tag 3, 81 km](http://bit.ly/2LybYQj)
+
 ### Übernachtung
+
+*ausstehend*
 
 ## Sonntag, 22. September
 
@@ -71,17 +106,11 @@ wenn es klappt, dann im [Weisses Rössl](https://www.weisses-roessl-straubing.de
 
 | Brauerei | Quelle | Öffnungszeiten | Bemerkung |
 | -------- | ------ | -------------- | --------- |
-| Baumer | Bräustübl Baumer, Marktplatz 1, Gars | 10:00 - 20:00 | Samstag & Sonntag Ruhetag |
-| Slossbrauerei Stein | [Gasthof Martini](https://www.steiner-bier.de/index.php?PageID=82), Hauptstr.5, Stein an der Traun | 10:00 - 24:00 | |
-| Klosterbrauerei Baumburg | [Bräustüberl Baumburg](https://www.bräustüberlbaumburg.de/), Baumburg 12, Altenmarkt an der Alz | Montag-Samstag, 10:30 - 22:00, Sonntag,  10:00 - 22:00 | |
-| Weissbräu Schwendl | [Brauereigasthof Weissbräu Schwendl](https://www.weissbraeu-schwendl.de/brauereigasthof/), Schalchener Str. 130, Tacherting | Freitag, ab 14 Uhr, Sonntag 10:00 - 14:00 | auch in diversen Gasthäusern der Umgebung |
-| Stallbauer | Wiesmühl a.d. Alz 12, Engelsberg | Donnerstag - Samstag, 16:00 - 20:00 | nur Verkauf |
-| Leidmann | [Gastwirtschaft Leidmann](https://www.brauerei-leidmann.de/gastwirtschaft), Bräustraße 1, Unterneukirchen | Freitag bis 21:00 Uhr, Wochenende geschlossen | |
+| Unertl Weissbräu | [diverse](https://www.brauerei-unertl.de/wirtschaften.htm) | | auch in diversen Gasthäusern der Umgebung |
+| Ametsbichler | [Bräustüberl Ametsbichler](http://www.ametsbichler.de/index.php/braeustueberl.html), Hauptstr. 13, Aschau am Inn | ab 18:00 | |
 | Bräu im Moos | [Brauereigasthof Bräu im Moos](https://braeuimmoos.de/gasthof/), Bräu im Moos 1, Tüssling | 11:00 - 23:00 | |
-| Graminger Weissbräu| [Graminger Weissbräu](https://www.graminger-weissbraeu.de/), Graming 79, Altötting | ab 11:00 | Urlaub ausgeschlossen |
-| Müllerbräu | [Brauereigaststätte El Loquito](https://www.el-loquito.de/), Burghauser Straße 2, Neuötting | Samstag, 17:00 - 01:00, Sonntag Ruhetag | auch in diversen Gasthäusern der Umgebung |
+| Baumer | Bräustübl Baumer, Marktplatz 1, Gars | 10:00 - 20:00 | Samstag & Sonntag Ruhetag |
 | Berger | [Brauereigaststätte Berger](https://brauerei-berger.de/startseite/), Öttinger Str. 3, Reischach | Freitag & Sonntag, ab 17:00, Samstag Ruhetag | |
-| Burghausener Brauwerkstatt | | Samstag, 10:00 - 13:00 | auch in diversen Gasthäusern der Umgebung |
 | Brauda Büchl | [Bräustüberl](https://braudabuechl.de/wirtshaus/), Büchl 5, Ering | Samstag, 17:30 - 23:00 & Sonntag, 15:00 - 21:00 | |
 | Weißbräu Kösslarn | Pizzeria Cipollino, Marktpl. 23, Kößlarn | 11:00 - 14:00 & 17:00 - 23:00 | auch in diversen Gasthäusern der Umgebung |
 | Die Hecke | [Die Hecke](https://www.die-hecke.de/restaurant/), Eitlöd 1, Bad Füssing | Dienstag - Samstag, 11:00 - 23:00 & Sonntag, 9:00 - 23:00 | |
