@@ -34,7 +34,7 @@ wenn es klappt, dann im [Weisses Rössl](https://www.weisses-roessl-straubing.de
 | Kalvarienenbergbräu Poxau | EDEKA Getränkemarkt Ernst, Am Kreisverkehr 7, Reisbach | 07:45 - 20:00 | |
 | Klosterbräu Seemannshausen | [Bierkeller Seemannshausen](https://www.klosterbraeu-seemannshausen.de), Seemannshausen 8, Gangkofen | ab 16:00 | |
 | Erharting | [Sommerkeller Erharting](http://www.sommerkeller-erharting.de/), Vorberg 20, Erharting | ab 15:00 | Panoramablick auf das ganze Chiemgauer Bergmassiv |
-| Uertl Weissbräu | [diverse](https://www.brauerei-unertl.de/wirtschaften.htm) | | |
+| Unertl Weissbräu | [diverse](https://www.brauerei-unertl.de/wirtschaften.htm) | | |
 | Ametsbichler | [Bräustüberl Ametsbichler](http://www.ametsbichler.de/index.php/braeustueberl.html), Hauptstr. 13, Aschau am Inn | ab 18:00 | |
 
 ### Route
