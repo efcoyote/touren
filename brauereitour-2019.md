@@ -16,12 +16,12 @@ Die Anreise mit dem Zug bis Straubing mit 2 Umstiegen kostet 39 € mit dem Baye
 
 | Brauerei | Quelle | Öffnungszeiten | Bemerkung |
 | -------- | ------ | -------------- | --------- |
-| Karmeliten Brauerei | [Goidhaibal](https://www.goidhaibal.de/), Am Hagen 14, Straubing | 17:00 - 23:00 |
+| Brauerei Röhrl | Hotel & Gasthaus DAS RÖHRL | | |
 
 ### Übernachtung
 
 - [Gästehaus Reisinger](http://www.festzelt-reisinger.de/gaestehaus/)
-- 3 x EZ (45 €)
+- 2 x EZ (45 €)
 - inkl. Frühstück
 - **Rückmeldung bei Anreise nach 18:00 Uhr!**
 
@@ -32,8 +32,8 @@ Die Anreise mit dem Zug bis Straubing mit 2 Umstiegen kostet 39 € mit dem Baye
 | Brauerei | Quelle | Öffnungszeiten | Bemerkung |
 | -------- | ------ | -------------- | --------- |
 | Egerer | [Brauereigasthof Egerer](http://www.brauereigasthof-egerer.de/gaststaette.aspx), Dachinger Str. 27, Großköllnbach | ganztägig | Urlaub ausgeschlossen |
-| Brandy Bräu | ??? | | [Web](https://www.brandys-braugarage.de/), [Instagram](https://www.instagram.com/brandybraeu/) |
 | Krieger | [Gasthof Zur Post](http://www.gasthofpost-landau.de/), Hauptstrasse 86, Landau a.d.Isar | 11:00 - 14:00 & 17:30 - 22:00 | |
+| Brandy Bräu | EDEKA Getränkemarkt Ernst, Am Kreisverkehr 7, Reisbach | | [Web](https://www.brandys-braugarage.de/), [Instagram](https://www.instagram.com/brandybraeu/) |
 | Kalvarienenbergbräu Poxau | EDEKA Getränkemarkt Ernst, Am Kreisverkehr 7, Reisbach | 07:45 - 20:00 | |
 | Klosterbräu Seemannshausen | [Bierkeller Seemannshausen](https://www.klosterbraeu-seemannshausen.de), Seemannshausen 8, Gangkofen | ab 16:00 | |
 | Erharting | [Sommerkeller Erharting](http://www.sommerkeller-erharting.de/), Vorberg 20, Erharting | ab 15:00 | Panoramablick auf das ganze Chiemgauer Bergmassiv |
@@ -46,7 +46,7 @@ Die Anreise mit dem Zug bis Straubing mit 2 Umstiegen kostet 39 € mit dem Baye
 ### Übernachtung
 
 - [Brauereigaststätte El Loquito](https://www.muellerbraeu.de/gastronomie.html#neuoetting)
-- 1 x DZ (89 €), 1 x EZ (46 €)
+- 1 x DZ (89 €)
 - inkl. Frühstück
 - Anreise ab 17:00 Uhr
 
@@ -70,7 +70,7 @@ Die Anreise mit dem Zug bis Straubing mit 2 Umstiegen kostet 39 € mit dem Baye
 
 ### Übernachtung
 
-*ausstehend*
+Pension Poschmühle
 
 ## Samstag, 21. September
 
@@ -80,27 +80,33 @@ Die Anreise mit dem Zug bis Straubing mit 2 Umstiegen kostet 39 € mit dem Baye
 | -------- | ------ | -------------- | --------- |
 | Schlossbrauerei Stein | [Gasthof Martini](https://www.steiner-bier.de/index.php?PageID=82), Hauptstr. 5, Stein an der Traun | 10:00 - 24:00 | |
 | Camba Bavaria | [Camba Brauerei-Gaststätte](https://www.camba-bavaria.de/truchtlaching-brauereigaststaette/), Mühlweg 2, Truchtlaching | Dienstag - Freitag, 16:00 - 23:00, Samstag - Sonntag, 11:00 - 23:00 | |
-| Schnitzlbaumer | [Brauerei-Ausschank Schnitzlbaumer](https://www.schnitzlbaumer.de/der-brauerei-ausschank/brauerei-ausschank-traunstein/), Taubenmarkt 11a - 13, Traunstein | Samstag - Sonntag, 10:00 - 24:00 | |
-| Hofbräuhaus Traunstein | [Bräustüberl Hofbräuhaus Traunstein ](https://www.braeustueberl-traunstein.de/), Stadtplatz 20, Traunstein | 10:00 - 24:00 | |
 | Wochinger | [Wochinger Brauhaus](https://www.wochinger-brauhaus.com/),  Oswaldstr. 4, Traunstein | 10:00 - 24:00 | |
-| Simsseer | [Salettl](http://www.simsseer-weidefleisch.de/salettl/), Finsterwalderstraße 1, Stephanskirchen | Samstag, 9:30 - 22:00 | |
-| Tante Paula | [Tante Paula](https://www.tantepaula-gasthausbrauerei.de/), Schmettererstraße 20, Rosenheim | ab 10:30 | |
-| Flötzinger | [Flötzinger Bräustüberl](http://floetzinger-braeustueberl.de/), Samerstraße 17, Rosenheim | 11:00 - 24:00 | |
-| Auerbräu | [Miros](http://www.miros-restaurant.de/), Münchener Str. 78, Rosenheim | 11:00 - 22:00 | |
+| Schnitzlbaumer | [Brauerei-Ausschank Schnitzlbaumer](https://www.schnitzlbaumer.de/der-brauerei-ausschank/brauerei-ausschank-traunstein/), Taubenmarkt 11a - 13, Traunstein | Samstag - Sonntag, 10:00 - 24:00 | |
+| Brauerei Schönram | Bräustüberl Schönram | | |
+| Raggei Bräu | Raggei Bräu | | |
+| Woigartlbräu | Hofgenuss Woigartlbräu | | |
 
 ### Route
 
-[Route - Tag 3, 81 km](http://bit.ly/2LybYQj)
+94 km
 
 ### Übernachtung
 
-*ausstehend*
+Pension Graf
 
 ## Sonntag, 22. September
 
 ### Brauereien
 
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| Brauerei Die HECKE | Füssinger Hecke | | |
+| Brauerei Jos. Baumgartner | Schärdinger Bierfest | | |
+| Löwenbrauerei | Stiftskeller | |
+
 ### Route
+
+81 km
 
 ## Notizen
 
