@@ -1,0 +1,79 @@
+# Deutschlandtour (Flensburg - Mittenwald)
+
+## Freitag, 10. Juli
+
+Flensburg - Schleswig
+
+### Anreise
+
+### Route
+
+### Übernachtung
+
+## Samstag, 11. Juli
+
+Schleswig - Buchholz in der Nordheide
+
+### Route
+
+### Übernachtung
+
+## Sonntag, 12. Juli
+
+Buchholz in der Nordheide - Hannover
+
+### Route
+
+### Übernachtung
+
+## Montag, 13. Juli
+
+Hannover - Bad Sooden-Allendorf
+
+### Route
+
+### Übernachtung
+
+## Dienstag, 14. Juli
+
+Bad Sooden-Allendorf - Jüchsen
+
+### Route
+
+### Übernachtung
+
+## Mittwoch, 15. Juli
+
+Jüchsen - Erlangen
+
+### Route
+
+### Übernachtung
+
+## Donnerstag, 16. Juli
+
+Erlangen - Donauwörth
+
+### Route
+
+[Komoot - Tag 7, 119 km, 830 Hm](https://www.komoot.de/plan/tour/d09AvR_fgCoINc=FyoABJ5IN3P-ZB2c0dYy4Oa4cx2O_35QDtqJ3SCA/@48.7693148,10.9368896,11z)  
+[OpenRouteService - Tag 7, 118 km, 1100 Hm](https://bit.ly/2SXh6AM)
+
+### Übernachtung
+
+## Freitag, 17. Juli
+
+Donauwörth - Murnau am Staffelsee
+
+### Route
+
+### Übernachtung
+
+## Samstag, 18. Juli
+
+Murnau am Staffelsee - Mittenwald
+
+### Route
+
+### Übernachtung
+
