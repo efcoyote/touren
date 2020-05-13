@@ -19,8 +19,14 @@ Schleswig - Buchholz in der Nordheide
 ### Route
 
 ### Übernachtung
-HOTEL FROMMANN
-Harburger Str. 8, 21244 Buchholz / Dibbersen
+
+Steppi
+
+- [Frommanns Landhotel & Privatbrauerei](https://www.hotelfrommann.de/)
+- Harburger Str. 8, 21244 Buchholz / Dibbersen
+- 2 x EZ (73 €), 2x DZ (103 €)
+- inkl. Frühstück
+- Stornierung bis 1 Tag vorher kostenlos
 
 ## Sonntag, 12. Juli
 
