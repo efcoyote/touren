@@ -6,6 +6,14 @@ Flensburg - Schleswig
 
 ### Anreise
 
+ - Steppi, Torsten, Michi, Holger
+ - mit BC 58,80 €, ohne BC 77,90 € von allen bereits beglichen
+
+| Abfahrt | Ankunft |
+| ------- | ------- |
+| Erlangen, **08:19**, Gleis 1 | Hamburg Hbf, 13:24, Gleis 8 |
+| Hamburg Hbf, 13:43, Gleis 6 | Flensburg, **15:40**, Gleis 2 |
+
 ### Route
 
 ### Übernachtung
@@ -61,6 +69,8 @@ Jüchsen - Erlangen
 ### Route
 
 ### Übernachtung
+
+In den heimischen 4 Wänden.
 
 ## Donnerstag, 16. Juli
 
