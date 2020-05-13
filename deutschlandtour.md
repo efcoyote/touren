@@ -32,7 +32,7 @@ Steppi
 
 - [Frommanns Landhotel & Privatbrauerei](https://www.hotelfrommann.de/)
 - Harburger Str. 8, 21244 Buchholz / Dibbersen
-- 2 x EZ (73 €), 2x DZ (103 €)
+- 2 x EZ (73 €), 2 x DZ (103 €)
 - inkl. Frühstück
 - Stornierung bis 1 Tag vorher kostenlos
 
@@ -90,6 +90,9 @@ Michi
 Donauwörth - Murnau am Staffelsee
 
 ### Route
+
+[Komoot - Tag 8, 136 km, 710 Hm](https://www.komoot.de/plan/tour/d09AudekwCkgeY=FyoABJtle4sYXp7qhZ0jIf_jSREAG_P4ymKj1f2EORDi38IYOveKqR-ae3rInK17MUIA/@48.2063713,11.8048096,9z)  
+[OpenRouteService - Tag 8, 137 km, 908 Hm](https://bit.ly/3dIJw9P)
 
 ### Übernachtung
 
