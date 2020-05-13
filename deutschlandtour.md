@@ -52,6 +52,8 @@ Hannover - Bad Sooden-Allendorf
 
 ### Übernachtung
 
+Björn
+
 ## Dienstag, 14. Juli
 
 Bad Sooden-Allendorf - Jüchsen
