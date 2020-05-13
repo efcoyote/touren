@@ -42,6 +42,8 @@ Bad Sooden-Allendorf - Jüchsen
 
 ### Übernachtung
 
+Jan
+
 ## Mittwoch, 15. Juli
 
 Jüchsen - Erlangen
@@ -61,6 +63,8 @@ Erlangen - Donauwörth
 
 ### Übernachtung
 
+Michi
+
 ## Freitag, 17. Juli
 
 Donauwörth - Murnau am Staffelsee
@@ -69,11 +73,13 @@ Donauwörth - Murnau am Staffelsee
 
 ### Übernachtung
 
+Holger
+
 ## Samstag, 18. Juli
 
 Murnau am Staffelsee - Mittenwald
 
 ### Route
 
-### Übernachtung
+### Rückreise
 
