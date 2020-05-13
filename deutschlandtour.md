@@ -104,5 +104,8 @@ Murnau am Staffelsee - Mittenwald
 
 ### Route
 
+[Komoot - Tag 9, 51 km, 460 Hm](https://www.komoot.de/plan/tour/d09AteItwCq6mU=FzmABP_0r_diQAEn_Hk6R6q9SBAYj-rnCmTy0q7H-2OKJmA=/@47.5515062,11.4154816,11z)  
+[OpenRouteService - Tag 9, 51 km, 621 Hm](https://bit.ly/2YVtcym)
+
 ### Rückreise
 
