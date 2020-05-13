@@ -19,6 +19,8 @@ Schleswig - Buchholz in der Nordheide
 ### Route
 
 ### Übernachtung
+HOTEL FROMMANN
+Harburger Str. 8, 21244 Buchholz / Dibbersen
 
 ## Sonntag, 12. Juli
 
