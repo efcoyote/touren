@@ -53,6 +53,12 @@ Hannover - Bad Sooden-Allendorf
 ### Übernachtung
 
 Björn
+ - http://www.hotel-hilgenfeld.de/
+ - 50 EZ
+ - 80 DZ
+ - Fruehstueck inclusive
+ - https://goo.gl/maps/WDxKPGqquf9QT1Rj7
+
 
 ## Dienstag, 14. Juli
 
