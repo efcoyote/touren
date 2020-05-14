@@ -54,6 +54,7 @@ Hannover - Bad Sooden-Allendorf
 
 Björn
  - http://www.hotel-hilgenfeld.de/
+ - Freiherr-vom-Stein-Straße 23, 37242 Bad Sooden-Allendorf
  - 50 EZ
  - 80 DZ
  - Fruehstueck inclusive
