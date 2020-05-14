@@ -58,6 +58,7 @@ Björn
  - 80 DZ
  - Fruehstueck inclusive
  - https://goo.gl/maps/WDxKPGqquf9QT1Rj7
+ - Stornierung jederzeit kostenlos
 
 
 ## Dienstag, 14. Juli
