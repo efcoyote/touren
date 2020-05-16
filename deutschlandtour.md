@@ -1,5 +1,21 @@
 # Deutschlandtour (Flensburg - Mittenwald)
 
+
+## Donnerstag, 9. Juli
+
+- Nur Jan , Bjoern
+- Tickets hat Jan
+
+### Übernachtung
+
+Bjoern
+
+- Seemansheim Hotel Flensburg
+- 40 Schiffbrücke Hinterhof
+  24939 Flensburg
+  Deutschland
+- 2 EZ
+
 ## Freitag, 10. Juli
 
 Flensburg - Schleswig
@@ -124,4 +140,18 @@ Murnau am Staffelsee - Mittenwald
 [OpenRouteService - Tag 9, 51 km, 621 Hm](https://bit.ly/2YVtcym)
 
 ### Rückreise
+
+
+## Sonntag, 19. Juli
+
+- Nur Jan, Bjoern
+
+### Übernachtung
+
+Bjoern
+- Post Hotel, Mittenwald
+- Karwendelstraße 14
+82481 Mittenwald
+Deutschland
+- 2 EZ
 
