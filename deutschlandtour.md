@@ -18,7 +18,7 @@ Flensburg - Schleswig
 
 ### Übernachtung
 
-- [Hotel Hohenzollern] (https://www.hotel-hohenzollern.de)
+- [Hotel Hohenzollern](https://www.hotel-hohenzollern.de)
 - Moltkestr. 41, Schleswig, 24837, Deutschland 
 - 2 x EZ (69 €), 2 x DZ (99 €)
 - inkl. Frühstück
