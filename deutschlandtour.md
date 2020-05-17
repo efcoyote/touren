@@ -11,9 +11,7 @@
 Bjoern
 
 - Seemansheim Hotel Flensburg
-- 40 Schiffbrücke Hinterhof
-  24939 Flensburg
-  Deutschland
+- Schiffsbrücke 40 Hinterhof, 24939 Flensburg
 - 2 EZ
 
 ## Freitag, 10. Juli
@@ -75,11 +73,11 @@ Hannover - Bad Sooden-Allendorf
 ### Übernachtung
 
 Björn
- - http://www.hotel-hilgenfeld.de/
+
+ - [Haus Hilgenfeld](http://www.hotel-hilgenfeld.de/)
  - Freiherr-vom-Stein-Straße 23, 37242 Bad Sooden-Allendorf
- - 50 EZ
- - 80 DZ
- - Fruehstueck inclusive
+ - 2x EZ (50 €), 2 x ZBZ (80 €)
+ - Frühstück inklusive
  - https://goo.gl/maps/WDxKPGqquf9QT1Rj7
  - Stornierung jederzeit kostenlos
 
@@ -93,6 +91,11 @@ Bad Sooden-Allendorf - Jüchsen
 ### Übernachtung
 
 Jan
+
+- [Hotel am Rosenhügel](https://www.hotelamrosenhuegel.de/)
+- Aroldshäuser Straße 2, 98631 Jüchsen
+- 2 x EZ (48 €), 2 x ZBZ (58 €)
+- Frühstück kostet 6,80 € pro Person extra
 
 ## Mittwoch, 15. Juli
 
@@ -149,9 +152,8 @@ Murnau am Staffelsee - Mittenwald
 ### Übernachtung
 
 Bjoern
+
 - Post Hotel, Mittenwald
-- Karwendelstraße 14
-82481 Mittenwald
-Deutschland
+- Karwendelstraße 14, 82481 Mittenwald
 - 2 EZ
 
