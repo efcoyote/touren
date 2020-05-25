@@ -123,7 +123,7 @@ Michi
 - Johannes-Traber-Str. 5, 86609 Donauwörth
 - 1 x EZ (38 €), 1 x DZ mit Einzelnutzung (50 €), 1 x ZBZ (60 €), 1 x DZ mit Bad (68 €)
 - Frühstück unklar
-- Stornierung bis 14. Juli kostenlos
+- Stornierung bis einschließlich 13. Juli kostenlos
 
 ## Freitag, 17. Juli
 
