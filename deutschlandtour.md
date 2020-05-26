@@ -138,6 +138,11 @@ Donauwörth - Murnau am Staffelsee
 
 Holger
 
+- [Zum Beinhofer Murnau](https://www.beinhofer-murnau.de)
+- Seidlstraße 30, 82418 Murnau 
+- 1 x DZ (81 €), 1 x DZ (89,50 €), 1 x DZ (98 €)
+- ohne Frühstück
+
 ## Samstag, 18. Juli
 
 Murnau am Staffelsee - Mittenwald
