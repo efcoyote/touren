@@ -64,6 +64,13 @@ Buchholz in der Nordheide - Hannover
 
 ### Übernachtung
 
+Jeder selbst
+
+- [BoxHotel Hannover](https://www.boxhotel.de/boxhotel-hannover-city/)
+- Herschelstraße 19 (Ecke Nikolaistraße), 30159 Hannover
+- EZ ab 26,99 €
+- ohne Frühstück
+
 ## Montag, 13. Juli
 
 Hannover - Bad Sooden-Allendorf
