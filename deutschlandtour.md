@@ -29,6 +29,7 @@ Flensburg - Schleswig
 | Hamburg Hbf, 13:43, Gleis 6 | Flensburg, **15:40**, Gleis 2 |
 
 ### Route
+[Komoot - Tag 1, 49 km, 210 Hm](https://www.komoot.de/tour/198752425?ref=wtd) 
 
 ### Übernachtung
 
@@ -45,6 +46,7 @@ Torsten
 Schleswig - Buchholz in der Nordheide
 
 ### Route
+[Komoot - Tag 2, 151 km, 600 Hm](https://www.komoot.de/tour/198755444?ref=wtd) 
 
 ### Übernachtung
 
@@ -61,6 +63,7 @@ Steppi
 Buchholz in der Nordheide - Hannover
 
 ### Route
+[Komoot - Tag 3, 130 km, 450 Hm](https://www.komoot.de/tour/198756869?ref=wtd) 
 
 ### Übernachtung
 
@@ -76,6 +79,7 @@ Jeder selbst
 Hannover - Bad Sooden-Allendorf
 
 ### Route
+[Komoot - Tag 4, 147 km, 1.070 Hm](https://www.komoot.de/tour/198760200?ref=wtd) 
 
 ### Übernachtung
 
@@ -94,6 +98,7 @@ Björn
 Bad Sooden-Allendorf - Jüchsen
 
 ### Route
+[Komoot - Tag 5, 121 km, 710 Hm](https://www.komoot.de/tour/198802715?ref=wtd) 
 
 ### Übernachtung
 
@@ -109,6 +114,7 @@ Jan
 Jüchsen - Erlangen
 
 ### Route
+[Komoot - Tag 6, 125 km, 610 Hm](https://www.komoot.de/tour/198804580?ref=wtd) 
 
 ### Übernachtung
 
