@@ -85,7 +85,9 @@ Jeder selbst
 Hannover - Bad Sooden-Allendorf
 
 ### Route
-[Komoot - Tag 4, 147 km, 1.070 Hm](https://www.komoot.de/tour/198760200?ref=wtd) 
+
+[Komoot - Tag 4, 155 km, 790 Hm](https://www.komoot.de/plan/tour/d09Ax9H_wCUg9I=FyoABP5Sn7M6Rt0_eBQ_1yf0Rh_0Z-zJCcAVxUNE_bbEBIIuT_2SCSsffUy0ioK-2Kpu1--KPCT51eBTlOfrJV5OMIPtvuA=/@51.9425718,10.6677246,8z?similar=198760200)  
+[OpenRouteService - Tag 4, 155 km, 1000 Hm](https://bit.ly/3dT6zPJ)
 
 ### Übernachtung
 
