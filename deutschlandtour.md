@@ -29,7 +29,9 @@ Flensburg - Schleswig
 | Hamburg Hbf, 13:43, Gleis 6 | Flensburg, **15:40**, Gleis 2 |
 
 ### Route
-[Komoot - Tag 1, 49 km, 210 Hm](https://www.komoot.de/tour/198752425?ref=wtd) 
+
+[Komoot - Tag 1, 47 km, 200 Hm](https://www.komoot.de/plan/tour/d09A0PKAQCP_hg=FynsBPJlQYE5aUCA9wgEXlKU6jrGaRDX6-dFEKMb8qZFe4MiXOMcunA=/@54.6750221,9.7956848,10z?similar=198752425)  
+[OpenRouteService - Tag 1, 47 km, 251 Hm](https://bit.ly/3cSRqfK)
 
 ### Übernachtung
 
@@ -46,6 +48,7 @@ Torsten
 Schleswig - Buchholz in der Nordheide
 
 ### Route
+
 [Komoot - Tag 2, 151 km, 600 Hm](https://www.komoot.de/tour/198755444?ref=wtd) 
 
 ### Übernachtung
@@ -63,6 +66,7 @@ Steppi
 Buchholz in der Nordheide - Hannover
 
 ### Route
+
 [Komoot - Tag 3, 130 km, 450 Hm](https://www.komoot.de/tour/198756869?ref=wtd) 
 
 ### Übernachtung
