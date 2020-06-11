@@ -196,16 +196,16 @@ Bjoern
 
 ## Streckenzusammenfassung
 
-| Tag | Strecke | Höhenmeter (Komoot) | Höhenmeter (ORS) |
-| --- | ------- | ------------------- | ---------------- |
-| 1 | 47 | 200 | 251 |
-| 2 | 155 | 600 | 732 |
-| 3 | 128 | 450 | 550 |
-| 4 | 155 | 790 | 1.000 |
-| 5 | 126 | 790 | 1.000 |
-| 6 | 127 | 570 | 758 |
-| 7 | 119 | 830 | 1.100 |
-| 8 | 137 | 710 | 908 |
-| 9 | 51 | 460 | 621 |
+| Tag | Strecke | Entfernung | Höhenmeter (Komoot) | Höhenmeter (ORS) |
+| --- | ------- | ---------- | ------------------- | ---------------- |
+| 1 | Flensburg - Schleswig | 47 | 200 | 251 |
+| 2 | Schleswig - Buchholz in der Nordheide | 155 | 600 | 732 |
+| 3 | Buchholz in der Nordheide - Hannover | 128 | 450 | 550 |
+| 4 | Hannover - Bad Sooden-Allendorf | 155 | 790 | 1.000 |
+| 5 | Bad Sooden-Allendorf - Jüchsen | 126 | 790 | 1.000 |
+| 6 | Jüchsen - Erlangen | 127 | 570 | 758 |
+| 7 | Erlangen - Donauwörth | 119 | 830 | 1.100 |
+| 8 | Donauwörth - Murnau am Staffelsee | 137 | 710 | 908 |
+| 9 | Murnau am Staffelsee - Mittenwald | 51 | 460 | 621 |
 |  | **1045** | **5400** | **6920** |
 
