@@ -124,7 +124,9 @@ Jan
 Jüchsen - Erlangen
 
 ### Route
-[Komoot - Tag 6, 125 km, 610 Hm](https://www.komoot.de/tour/198804580?ref=wtd) 
+
+[Komoot - Tag 6, 127 km, 570 Hm](https://www.komoot.de/plan/tour/d09AwI9rQCgLUU=FymABJHRnCNcrHMTaiSRUH7aQLKnW7-UieLfW2Cv6xcRHIAMPgcI_3A_pKD9b7_eVIlkHsBshUA_bbC6uPicfP83P7iYi-zeIWT4uZuz4O5XvHR0grB_WTgA/@50.0650733,11.6317749,9z?similar=198804580)  
+[OpenRouteService - Tag 6, 127 km, 758 Hm](https://bit.ly/30uPdos)
 
 ### Übernachtung
 
