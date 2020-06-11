@@ -68,7 +68,8 @@ Buchholz in der Nordheide - Hannover
 
 ### Route
 
-[Komoot - Tag 3, 130 km, 450 Hm](https://www.komoot.de/tour/198756869?ref=wtd) 
+[Komoot - Tag 3, 128 km, 450 Hm](https://www.komoot.de/plan/tour/d09Ay5OrQCWqrM=FyrsExbul56Zm4WYh-EW8M-pAue__kR_gq_yXxk3btnXIA==/@52.9031042,10.1019287,9z?similar=198756869)  
+[OpenRouteService - Tag 3, 128 km, 550 Hm](https://bit.ly/2ApKqtN)
 
 ### Übernachtung
 
