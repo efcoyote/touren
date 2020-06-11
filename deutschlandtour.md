@@ -106,7 +106,9 @@ Björn
 Bad Sooden-Allendorf - Jüchsen
 
 ### Route
-[Komoot - Tag 5, 121 km, 710 Hm](https://www.komoot.de/tour/198802715?ref=wtd) 
+
+[Komoot - Tag 5, 125 km, 790 Hm](https://www.komoot.de/plan/tour/d09Aw5g8gCX9Qo=FzmABIV8L8gqQR7v-IQgffaAr5B0u7Owip1l3K_kX7V138KRr2CjcQuUPfGElilct24A/@50.4826883,10.5182076,13z?similar=198802715)  
+[OpenRouteService - Tag 5, 126 km, 1000 Hm](https://bit.ly/3cUBeL0)
 
 ### Übernachtung
 
