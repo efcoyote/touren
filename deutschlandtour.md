@@ -87,7 +87,7 @@ Hannover - Bad Sooden-Allendorf
 ### Route
 
 [Komoot - Tag 4, 155 km, 790 Hm](https://www.komoot.de/plan/tour/d09Ax9H_wCUg9I=FyoABP5Sn7M6Rt0_eBQ_1yf0Rh_0Z-zJCcAVxUNE_bbEBIIuT_2SCSsffUy0ioK-2Kpu1--KPCT51eBTlOfrJV5OMIPtvuA=/@51.9425718,10.6677246,8z?similar=198760200)  
-[OpenRouteService - Tag 4, 155 km, 1000 Hm](https://bit.ly/3dT6zPJ)
+[OpenRouteService - Tag 4, 155 km, 1.000 Hm](https://bit.ly/3dT6zPJ)
 
 ### Übernachtung
 
@@ -108,7 +108,7 @@ Bad Sooden-Allendorf - Jüchsen
 ### Route
 
 [Komoot - Tag 5, 125 km, 790 Hm](https://www.komoot.de/plan/tour/d09Aw5g8gCX9Qo=FzmABIV8L8gqQR7v-IQgffaAr5B0u7Owip1l3K_kX7V138KRr2CjcQuUPfGElilct24A/@50.4826883,10.5182076,13z?similar=198802715)  
-[OpenRouteService - Tag 5, 126 km, 1000 Hm](https://bit.ly/3cUBeL0)
+[OpenRouteService - Tag 5, 126 km, 1.000 Hm](https://bit.ly/3cUBeL0)
 
 ### Übernachtung
 
@@ -139,7 +139,7 @@ Erlangen - Donauwörth
 ### Route
 
 [Komoot - Tag 7, 119 km, 830 Hm](https://www.komoot.de/plan/tour/d09AvR_fgCoINc=FyoABJ5IN3P-ZB2c0dYy4Oa4cx2O_35QDtqJ3SCA/@48.7693148,10.9368896,11z)  
-[OpenRouteService - Tag 7, 118 km, 1100 Hm](https://bit.ly/2SXh6AM)
+[OpenRouteService - Tag 7, 118 km, 1.100 Hm](https://bit.ly/2SXh6AM)
 
 ### Übernachtung
 
@@ -180,6 +180,7 @@ Murnau am Staffelsee - Mittenwald
 ### Rückreise
 
 
+
 ## Sonntag, 19. Juli
 
 - Nur Jan, Bjoern
@@ -191,4 +192,20 @@ Bjoern
 - Post Hotel, Mittenwald
 - Karwendelstraße 14, 82481 Mittenwald
 - 2 EZ
+
+
+## Streckenzusammenfassung
+
+| Tag | Strecke | Höhenmeter (Komoot) | Höhenmeter (ORS) |
+| --- | ------- | ------------------- | ---------------- |
+| 1 | 47 | 200 | 251 |
+| 2 | 155 | 600 | 732 |
+| 3 | 128 | 450 | 550 |
+| 4 | 155 | 790 | 1.000 |
+| 5 | 126 | 790 | 1.000 |
+| 6 | 127 | 570 | 758 |
+| 7 | 119 | 830 | 1.100 |
+| 8 | 137 | 710 | 908 |
+| 9 | 51 | 460 | 621 |
+|  | **1045** | **5400** | **6920** |
 
