@@ -207,5 +207,5 @@ Bjoern
 | 7 | Erlangen - Donauwörth | 119 | 830 | 1.100 |
 | 8 | Donauwörth - Murnau am Staffelsee | 137 | 710 | 908 |
 | 9 | Murnau am Staffelsee - Mittenwald | 51 | 460 | 621 |
-|  | **1045** | **5400** | **6920** |
+|  |  | **1045** | **5400** | **6920** |
 
