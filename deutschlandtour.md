@@ -49,7 +49,8 @@ Schleswig - Buchholz in der Nordheide
 
 ### Route
 
-[Komoot - Tag 2, 151 km, 600 Hm](https://www.komoot.de/tour/198755444?ref=wtd) 
+[Komoot - Tag 2, 155 km, 600 Hm](https://www.komoot.de/plan/tour/d09Az_tmwCR03I=FypsBKmd-wSQWlrchiori1W-kxPR476Xj1hX6RYnnvz29jIS-vr-QfmIfio0g2rdoSJCE8_lwCMtF2oon0VD3ubIEYHuOdOrQvxqjFu6XgA=/@53.4365373,10.6951904,9z?similar=198755444)  
+OpenRouteService - Tag 2, 154 km, 732 Hm ([Teil 1](https://bit.ly/2UxUKXC)) ([Teil 2](https://bit.ly/3f6m2w2))
 
 ### Übernachtung
 
