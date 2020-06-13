@@ -1,6 +1,5 @@
 # Deutschlandtour (Flensburg - Mittenwald)
 
-
 ## Donnerstag, 9. Juli
 
 - Nur Jan , Bjoern
@@ -71,6 +70,12 @@ Buchholz in der Nordheide - Hannover
 [Komoot - Tag 3, 128 km, 450 Hm](https://www.komoot.de/plan/tour/d09Ay5OrQCWqrM=FyrsExbul56Zm4WYh-EW8M-pAue__kR_gq_yXxk3btnXIA==/@52.9031042,10.1019287,9z?similar=198756869)  
 [OpenRouteService - Tag 3, 128 km, 550 Hm](https://bit.ly/2ApKqtN)
 
+### Brauereien
+
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| Brauhaus Joh. Albrecht | [Brauhaus Joh. Albrecht Soltau](https://www.brauhaus-joh-albrecht.de/soltau/), Winsener Str. 34d, 29614 Soltau | ab 12:00 | |
+
 ### Übernachtung
 
 Jeder selbst
@@ -89,6 +94,13 @@ Hannover - Bad Sooden-Allendorf
 [Komoot - Tag 4, 155 km, 790 Hm](https://www.komoot.de/plan/tour/d09Ax9H_wCUg9I=FyoABP5Sn7M6Rt0_eBQ_1yf0Rh_0Z-zJCcAVxUNE_bbEBIIuT_2SCSsffUy0ioK-2Kpu1--KPCT51eBTlOfrJV5OMIPtvuA=/@51.9425718,10.6677246,8z?similar=198760200)  
 [OpenRouteService - Tag 4, 155 km, 1.000 Hm](https://bit.ly/3dT6zPJ)
 
+### Brauereien
+
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| [Einbecker Brauhaus](https://www.einbecker.de/) | [Brodhaus Einbeck](https://www.brodhaus-einbeck.de/), ​Marktplatz 13, 37574 Einbeck | 12:00 - 21:00 | |
+| [Scholar](https://www.scholarbier.de/) | [Nautibar](https://www.facebook.com/NAUTIBARGOETTINGEN/), Theaterstraße 8, 37073 Göttingen | ab 18:00 | eventuell in 2 Läden |
+
 ### Übernachtung
 
 Björn
@@ -99,7 +111,6 @@ Björn
  - Frühstück inklusive
  - https://goo.gl/maps/WDxKPGqquf9QT1Rj7
  - Stornierung jederzeit kostenlos
-
 
 ## Dienstag, 14. Juli
 
@@ -141,6 +152,12 @@ Erlangen - Donauwörth
 [Komoot - Tag 7, 119 km, 830 Hm](https://www.komoot.de/plan/tour/d09AvR_fgCoINc=FyoABJ5IN3P-ZB2c0dYy4Oa4cx2O_35QDtqJ3SCA/@48.7693148,10.9368896,11z)  
 [OpenRouteService - Tag 7, 118 km, 1.100 Hm](https://bit.ly/2SXh6AM)
 
+### Brauereien
+
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| Strauß | [Wettelsheimer Keller](http://www.wettelsheimer-keller.de/), Treuchtlingerstr. 26, 91757 Treuchtlingen | ab 10:00 | |
+
 ### Übernachtung
 
 Michi
@@ -158,6 +175,12 @@ Donauwörth - Murnau am Staffelsee
 
 [Komoot - Tag 8, 136 km, 710 Hm](https://www.komoot.de/plan/tour/d09AudekwCkgeY=FyoABJtle4sYXp7qhZ0jIf_jSREAG_P4ymKj1f2EORDi38IYOveKqR-ae3rInK17MUIA/@48.2063713,11.8048096,9z)  
 [OpenRouteService - Tag 8, 137 km, 908 Hm](https://bit.ly/3dIJw9P)
+
+### Brauereien
+
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| Hartl's Hausbrauerei | [Gasthof Hartl "Zum Unterwirt"](https://gasthofhartl.de/), Duringstrasse. 5, 82299 Türkenfeld | ab 10:00 | |
 
 ### Übernachtung
 
