@@ -149,8 +149,8 @@ Erlangen - Donauwörth
 
 ### Route
 
-[Komoot - Tag 7, 119 km, 830 Hm](https://www.komoot.de/plan/tour/d09AvR_fgCoINc=FyoABJ5IN3P-ZB2c0dYy4Oa4cx2O_35QDtqJ3SCA/@48.7693148,10.9368896,11z)  
-[OpenRouteService - Tag 7, 118 km, 1.100 Hm](https://bit.ly/2SXh6AM)
+[Komoot - Tag 7, 119 km, 810 Hm](https://www.komoot.de/plan/tour/d09AvR_fgCoINc=FymABI0nGMA0kSE2J8jIOzNHWMuDlcOY7Hf35QDtqJukEAA=/@49.4179532,11.0567093,13z)  
+[OpenRouteService - Tag 7, 118 km, 1.100 Hm](https://bit.ly/2MWVHEy)
 
 ### Brauereien
 
@@ -227,8 +227,8 @@ Bjoern
 | 4 | Hannover - Bad Sooden-Allendorf | 155 | 790 | 1.000 |
 | 5 | Bad Sooden-Allendorf - Jüchsen | 126 | 790 | 1.000 |
 | 6 | Jüchsen - Erlangen | 127 | 570 | 758 |
-| 7 | Erlangen - Donauwörth | 119 | 830 | 1.100 |
+| 7 | Erlangen - Donauwörth | 119 | 810 | 1.100 |
 | 8 | Donauwörth - Murnau am Staffelsee | 137 | 710 | 908 |
 | 9 | Murnau am Staffelsee - Mittenwald | 51 | 460 | 621 |
-|  |  | **1045** | **5400** | **6920** |
+|  |  | **1045** | **5380** | **6920** |
 
