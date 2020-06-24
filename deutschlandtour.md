@@ -107,7 +107,7 @@ Björn
 
  - [Haus Hilgenfeld](http://www.hotel-hilgenfeld.de/)
  - Freiherr-vom-Stein-Straße 23, 37242 Bad Sooden-Allendorf
- - 2x EZ (50 €), 2 x ZBZ (80 €)
+ - 2 x EZ (50 €), 2 x ZBZ (80 €)
  - Frühstück inklusive
  - https://goo.gl/maps/WDxKPGqquf9QT1Rj7
  - Stornierung jederzeit kostenlos
@@ -188,7 +188,7 @@ Holger
 
 - [Zum Beinhofer Murnau](https://www.beinhofer-murnau.de)
 - Seidlstraße 30, 82418 Murnau 
-- 1 x DZ (81 €), 1 x DZ (89,50 €), 1 x DZ (98 €)
+- 2 x EZ (48 €), 1 x DZ (88 €), 1 x DZ (98 €)
 - ohne Frühstück
 
 ## Samstag, 18. Juli
