@@ -32,6 +32,12 @@ Flensburg - Schleswig
 [Komoot - Tag 1, 47 km, 200 Hm](https://www.komoot.de/plan/tour/d09A0PKAQCP_hg=FynsBPJlQYE5aUCA9wgEXlKU6jrGaRDX6-dFEKMb8qZFe4MiXOMcunA=/@54.6750221,9.7956848,10z?similar=198752425)  
 [OpenRouteService - Tag 1, 47 km, 251 Hm](https://bit.ly/3cSRqfK)
 
+### Brauereien
+
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| Hansens Brauerei | [Hansens Gasthaus](http://www.hansensbrauerei.de/), Schiffbrücke 16, 24939 Flensburg | ab 11:30 | |
+
 ### Übernachtung
 
 Torsten
