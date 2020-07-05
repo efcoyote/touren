@@ -24,8 +24,8 @@ Flensburg - Schleswig
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
-| Erlangen, **08:19**, Gleis 1 | Hamburg Hbf, 13:24, Gleis 8 |
-| Hamburg Hbf, 13:43, Gleis 6 | Flensburg, **15:40**, Gleis 2 |
+| Erlangen, **08:19**, Gleis 1 | Hamburg Hbf, 13:42, Gleis 8 |
+| Hamburg Hbf, 14:43, Gleis 12C-F | Flensburg, **16:42**, Gleis 2 |
 
 ### Route
 
