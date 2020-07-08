@@ -63,7 +63,7 @@ Steppi
 
 - [Frommanns Landhotel & Privatbrauerei](https://www.hotelfrommann.de/)
 - Harburger Str. 8, 21244 Buchholz / Dibbersen
-- 2 x EZ (73 €), 2 x DZ (103 €)
+- 3 x EZ (73 €), 1 x DZ (103 €)
 - inkl. Frühstück
 - Stornierung bis 1 Tag vorher kostenlos
 
@@ -196,7 +196,7 @@ Holger
 
 - [Zum Beinhofer Murnau](https://www.beinhofer-murnau.de)
 - Seidlstraße 30, 82418 Murnau 
-- 2 x EZ (48 €), 1 x DZ (88 €), 1 x DZ (98 €)
+- 1 x EZ (48 €), 1 x DZ (88 €), 1 x DZ (98 €)
 - ohne Frühstück
 
 ## Samstag, 18. Juli
