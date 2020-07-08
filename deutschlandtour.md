@@ -117,6 +117,8 @@ Björn
  - Frühstück inklusive
  - https://goo.gl/maps/WDxKPGqquf9QT1Rj7
  - Stornierung jederzeit kostenlos
+ - Umgebucht auf 5 Personen
+ - Anruf erbeten bei Ankunft nach 20 Uhr
 
 ## Dienstag, 14. Juli
 
