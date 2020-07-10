@@ -44,7 +44,7 @@ Torsten
 
 - [Hotel Hohenzollern](https://www.hotel-hohenzollern.de)
 - Moltkestr. 41, Schleswig, 24837, Deutschland 
-- 2 x EZ (69 €), 2 x DZ (99 €)
+- 3 x EZ (69 €), 1 x DZ (99 €)
 - inkl. Frühstück
 - Bis 18:00 Uhr am Tag der Anreise können Sie kostenfrei stornieren
 
