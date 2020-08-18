@@ -72,12 +72,40 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 
 - in Klatovy eventuell schwierig, aber 6 km weiter in Myslovice
 
-## Notizen
+## Samstag, 22. August
+
+### Brauereien
+
+| Brauerei | Quelle | Öffnungszeiten | Bemerkung |
+| -------- | ------ | -------------- | --------- |
+| Farmářský pivovar Zlatá kráva | [Zlatá kráva](https://www.zlatakrava.cz), Zlatá kráva, Nám. Augustina Němejce 416, Nepomuk | 12:00–22:00 | |
+| Zhůřák | [Pivovar Zhůřák](http://www.pivovarzhurak.cz/), Zhůř 138, 335 01 Chocenice | 16:00 - 21:00 | gibt es auch im [Pivstro in Plzeň](https://brewhemian.eu/cs/pivstro) |
+| Akciový Letiny | [Akciový pivovar Letiny](https://www.pivovarletiny.cz/), Letiny 66, 33601 Letiny | 11:00 - 24:00 | Küche 11:00 - 14:00, auch in Caffe Emily & Host n Host in Plzeň |
+| U Přeška | [Restaurace a pivovar U Přeška](https://www.pivovarupreska.cz/), Masarykovo nám. 311, 334 01 Přeštice | 11:00 - 23:00 | Küche 11:00 - 13:00 |
+| Modrá Hvězda | [Pivovar Modrá Hvězda](http://pivovarmodrahvezda.cz/), Nám. T. G. M. 159, 334 41 Dobřany | 11:00 - 0:00 | eventuell derzeit geschlossen |
+| Bizon | [Pivovar Bizon](https://www.facebook.com/PivovarBizon/), 332 09 Čižice | 12:00 - 22:00 | |
+| U Šenkýřů | [Šťáhlavický Pivovar U Šenkýřů](https://www.facebook.com/pivovarusenkyru/), Šťáhlavice 150, 332 03 Sťáhlavice | | am Schloss |
+
+### Route
+
+[Route - Tag 3, 90 km](https://bit.ly/3hadG7U)
+
+### Übernachtung
+
+- in Pilsen
+
+## Sonntag, 23. August
+
+### Brauereien
 
 | Brauerei | Quelle | Öffnungszeiten | Bemerkung |
 | -------- | ------ | -------------- | --------- |
 |  | []() |  | |
-|  | []() |  | |
-|  | []() |  | |
-|  | []() |  | |
-|  | []() |  | |
+
+## Abreise
+
+| Abfahrt | Ankunft |
+| ------- | ------- |
+| Plzeň, **15:10** | Schwandorf, 17:04, Gleis 2 |
+| Schwandorf, 17:07, Gleis 3 | Nürnberg, 18:14, Gleis 16 |
+| Nürnberg, 18:38, Gleis 4 | Erlangen, **18:52**, Gleis 1 |
