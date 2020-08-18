@@ -30,6 +30,10 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 - Check-in bis 19:00 Uhr
 - Mittwoch Ruhetag
 
+### Route
+
+[Route - Tag 0, 29 km](https://bit.ly/2Q3R3Gj) (Falls man vor Freudenberg einchecken muss)
+
 ## Donnerstag, 20. August
 
 ### Brauereien
