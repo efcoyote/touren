@@ -32,7 +32,7 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 
 ### Route
 
-[Route - Tag 1, 29 km](https://bit.ly/2Q3R3Gj) (Falls man vor Freudenberg einchecken muss)
+[Route - Tag 1, 29 km](https://bit.ly/2Q3R3Gj) (Falls man vor Freudenberg einchecken muss)  
 [Route - Tag 1, 21 km](https://bit.ly/34bldzD) (im besten Fall)
 
 ## Donnerstag, 20. August
@@ -58,7 +58,7 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 - [Pension Käsbauer](https://www.pension-kaesbauer.de/pension)
 - Forstamtstraße 7, Cham
 - 1 x DZ
-- Anteise bis 21:00 Uhr
+- Anreise bis 21:00 Uhr
 - Küche im angeschlossenen Gasthof bis 19:30 Uhr geöffnet
 
 ## Freitag, 21. August
