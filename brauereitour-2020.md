@@ -32,7 +32,8 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 
 ### Route
 
-[Route - Tag 0, 29 km](https://bit.ly/2Q3R3Gj) (Falls man vor Freudenberg einchecken muss)
+[Route - Tag 1, 29 km](https://bit.ly/2Q3R3Gj) (Falls man vor Freudenberg einchecken muss)
+[Route - Tag 1, 21 km](https://bit.ly/34bldzD) (im besten Fall)
 
 ## Donnerstag, 20. August
 
@@ -50,7 +51,7 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 
 ### Route
 
-[Route - Tag 1, 91 km](https://bit.ly/319B7ZI)
+[Route - Tag 2, 109 km](https://bit.ly/3gg1rFS)
 
 ### Übernachtung
 
@@ -76,11 +77,11 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 
 ### Route
 
-[Route - Tag 2, 100 km](https://bit.ly/2Y9p1gX)
+[Route - Tag 3, 100 km](https://bit.ly/2Y9p1gX)
 
 ### Übernachtung
 
-- in Klatovy eventuell schwierig, aber 6 km weiter in Myslovice
+- in Klatovy eventuell schwierig, aber 6 km weiter in Myslovice geht wohl
 
 ## Samstag, 22. August
 
@@ -98,7 +99,7 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 
 ### Route
 
-[Route - Tag 3, 90 km](https://bit.ly/3hadG7U)
+[Route - Tag 4, 90 km](https://bit.ly/3hadG7U)
 
 ### Übernachtung
 
