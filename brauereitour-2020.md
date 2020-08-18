@@ -58,13 +58,26 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 | -------- | ------ | -------------- | --------- |
 | Mühlbauer | [Brauerei Mühlbauer](https://www.facebook.com/brauerei.muehlbauer/), Further Str. 10, D-93473 Arnschwang | | |
 | Dimpflbräu | [Dimpfl Bräu Strauß](https://dimpfl-bier.de/), Bräuhausstraße 34, 93437 Furth im Wald | | |
+| Městský pivovar Domažlice | [Pivovar Domažlice](https://www.pivovardomazlice.cz/), Pivovarská 10, 344 01 Domažlice | 14:00 - 22:00 | |
+| KH Gurmán | [Pivovar KH Gurmán](https://www.hotel-gurman.cz/), Nám. Republiky 2, 34601 Horšovský Týn | 11:00 – 22:00 | |
+| Stará Škola | [Pivovar a restaurace Stará Škola](https://www.facebook.com/PivovarARestauraceStaraSkola), Mírové nám. 42, 339 01 Chudenice | 11:00 - 23:00 | |
+| Bezděkovský | [Bezděkovský pivovar](http://www.bezdekovsky-pivovar.cz/de/pivovar/), Bezděkov 75, 339 01  Bezděkov | 11:00 - 23:00 | |
+| Klatovy | [Měšťansky Pivovar Klatovy](http://www.klatovskepivo.cz/), Budovcova 833, Klatovy | 14:00 - 23:00 | |
 
 ### Route
 
+[Route - Tag 2, 100 km](https://bit.ly/2Y9p1gX)
+
 ### Übernachtung
+
+- in Klatovy eventuell schwierig, aber 6 km weiter in Myslovice
 
 ## Notizen
 
 | Brauerei | Quelle | Öffnungszeiten | Bemerkung |
 | -------- | ------ | -------------- | --------- |
+|  | []() |  | |
+|  | []() |  | |
+|  | []() |  | |
+|  | []() |  | |
 |  | []() |  | |
