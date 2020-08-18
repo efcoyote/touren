@@ -23,6 +23,12 @@ Die Anreise mit dem Zug bis Amberg kostet 20,30 € mit dem Tages Ticket Plus.
 
 ### Übernachtung
 
+- [HÖGERS Restaurant](https://www.restaurant-hoegers.de/)
+- Hauptstraße 61, 92242 Hirschau
+- 1 x DZ (67,50€)
+- Frühstück optional 9,50€ p. P.
+- Check-in bis 19:00 Uhr
+- Mittwoch Ruhetag
 
 ## Donnerstag, 20. August
 
