@@ -1,6 +1,6 @@
 # Brauereitour 2021
 
-## Datum, Tag 1
+## Mittwoch, Tag 1
 
 ### Anreise
 
@@ -24,7 +24,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 [Route - Tag 1, 46 km](https://bit.ly/3q6o455)
 
-## Datum, Tag 2
+## Donnerstag, Tag 2
 
 ### Brauereien
 
@@ -44,7 +44,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Übernachtung
 
-## Datum, Tag 3
+## Freitag, Tag 3
 
 ### Brauereien
 
@@ -68,7 +68,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Übernachtung
 
-## Datum, Tag 4
+## Samstag, Tag 4
 
 ### Brauereien
 
@@ -88,7 +88,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Übernachtung
 
-## Datum, Tag 5
+## Sonntag, Tag 5
 
 ### Brauereien
 
