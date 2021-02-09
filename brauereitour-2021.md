@@ -61,20 +61,10 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 | [BernardiBräu](https://www.bernardibraeu.de/fachgeschaumlfte.html) | [Kranzegger Jagdhütte](https://kranzegger.de/jagdhuette/biergarten/), Sonthofener Str. 15, 87549 Rettenberg-Kranzegg | ab 10:30 | höchstgelegene Privatbrauerei Deutschlands (wie auch die Enzianhütte s.u.) |
 | [Zötler](https://www.zoetler.de/) | [Brauerei-Gasthof Adler-Post](http://www.brauereigasthof-adler-post.de/), Burgberger Straße 8, 87549 Rettenberg im Allgäu | 11:30 - 22:30 | |
 | Engelbräu | [Brauereigasthof Engel](https://www.engelbraeu.de/brauerei/brauereigasthof-engel/), Burgberger Straße 9, 87549 Rettenberg | 11:30 - 22:00 (Mi - So) | |
-| Der Hirschbräu | [Brauereigasthof Hirsch](https://brauereigasthof-hirsch.com/brauereigaststaette), Hirschstraße 2, 87527 Sonthofen | 10:00 - 24:00 (Mi - Mo) | |
-| Sonne Imberg | [Berggasthof Sonne](https://www.berggasthof-sonne.de/), Imberg 12, 87527 Sonthofen | 16:00 - 22:00 (Mo - Fr), 12:00 - 22:00 (Sa, So) | |
-| Der Bergbauernwirt | [Bergbauernwirt](https://www.derbergbauernwirt.com/alles-ums-bier/),  Sonderdorf 18, 87538 Bolsterlang | ? (derzeit abweichend) | |
-| Obersdorfer Dampfbierbrauerei | [Obersdorfer Dampfbierbrauerei](https://www.dampfbierbrauerei.de/gastraeume.html), Bahnhofplatz 8, 87561 Oberstdorf | ? (derzeit abweichend) | |
-| Klier Bier | [Klier Bier-Biermanufaktur Ettensberg](http://www.klier-bier.de/), Reuteweg 23a, 87544 Blaichach/Ettensberg | | Existenz fraglich |
-| Enzianhütte | [Enzianhütte](https://www.enzianhuette-oberstdorf.de/einkehren/), Fuße des Linkerskopf, 1.804 m | | höchstgelegene Privatbrauerei Europas |
-| Schäffler | [Brauereigasthof Schäffler](https://brauereigasthof-schaeffler.de/), Hauptstraße 15, 87547 Missen | ab 10:00 | |
-| Aktienbrauerei Simmerberg | [diverse](https://simmerberger.de/gastronomie-handel/) | | |
-| Postbrauerei Weiler | [diverse](https://www.post-brauerei.de/unser-bier/bezugsquellen/) | | |
-| [Meckatzer](https://www.meckatzer.de/) | [Meckatzer Bräustüble](https://www.meckatzer-braeustueble.de/de/startseite.html), Meckatz 8, 88178 Heimenkirch | ? (derzeit abweichend) | |
 
 ### Route
 
-[Route - Tag 3,  km]()
+[Route - Tag 3, 93 km](https://bit.ly/3tK8Epm)
 
 ### Übernachtung
 
@@ -84,14 +74,17 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 | Brauerei | Quelle | Öffnungszeiten | Bemerkung |
 | -------- | ------ | -------------- | --------- |
-|  | [](),  | | |
-|  | [](),  | | |
-|  | [](),  | | |
-|  | [](),  | | |
+| Der Hirschbräu | [Brauereigasthof Hirsch](https://brauereigasthof-hirsch.com/brauereigaststaette), Hirschstraße 2, 87527 Sonthofen | 10:00 - 24:00 (Mi - Mo) | |
+| Sonne Imberg | [Berggasthof Sonne](https://www.berggasthof-sonne.de/), Imberg 12, 87527 Sonthofen | 16:00 - 22:00 (Mo - Fr), 12:00 - 22:00 (Sa, So) | |
+| Der Bergbauernwirt | [Bergbauernwirt](https://www.derbergbauernwirt.com/alles-ums-bier/),  Sonderdorf 18, 87538 Bolsterlang | ? (derzeit abweichend) | |
+| Obersdorfer Dampfbierbrauerei | [Obersdorfer Dampfbierbrauerei](https://www.dampfbierbrauerei.de/gastraeume.html), Bahnhofplatz 8, 87561 Oberstdorf | ? (derzeit abweichend) | |
+| Klier Bier | [Klier Bier-Biermanufaktur Ettensberg](http://www.klier-bier.de/), Reuteweg 23a, 87544 Blaichach/Ettensberg | ? | |
+| ~~Enzianhütte~~ | [Enzianhütte](https://www.enzianhuette-oberstdorf.de/einkehren/), Fuße des Linkerskopf, 1.804 m | egal | höchstgelegene Privatbrauerei Europas |
+| Schäffler | [Brauereigasthof Schäffler](https://brauereigasthof-schaeffler.de/), Hauptstraße 15, 87547 Missen | ab 10:00 | |
 
 ### Route
 
-[Route - Tag 4,  km]()
+[Route - Tag 4, 70 km](https://bit.ly/3q4HXJO)
 
 ### Übernachtung
 
@@ -101,14 +94,13 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 | Brauerei | Quelle | Öffnungszeiten | Bemerkung |
 | -------- | ------ | -------------- | --------- |
-|  | [](),  | | |
-|  | [](),  | | |
-|  | [](),  | | |
-|  | [](),  | | |
+| Aktienbrauerei Simmerberg | [diverse](https://simmerberger.de/gastronomie-handel/) | | |
+| Postbrauerei Weiler | [diverse](https://www.post-brauerei.de/unser-bier/bezugsquellen/) | | |
+| [Meckatzer](https://www.meckatzer.de/) | [Meckatzer Bräustüble](https://www.meckatzer-braeustueble.de/de/startseite.html), Meckatz 8, 88178 Heimenkirch | ? (derzeit abweichend) | |
 
 ### Route
 
-[Route - Tag 4,  km]()
+[Route - Tag 5,  km]()
 
 
 ## Abreise
