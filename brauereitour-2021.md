@@ -8,8 +8,8 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
-| Erlangen, **??:??**, Gleis ? | Nürnberg, ??:??, Gleis ? |
-| Nürnberg, ??:??, Gleis ? | Otting-Weilheim, **??:??**, Gleis 3 |
+| Erlangen, **16:13**, Gleis 3 | Nürnberg, 16:33, Gleis ? |
+| Nürnberg, 16:39, Gleis ? | Otting-Weilheim, **17:43**, Gleis ? |
 
 ### Brauereien
 
