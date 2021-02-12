@@ -97,6 +97,8 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 | Aktienbrauerei Simmerberg | [diverse](https://simmerberger.de/gastronomie-handel/) | | |
 | Postbrauerei Weiler | [diverse](https://www.post-brauerei.de/unser-bier/bezugsquellen/) | | |
 | [Meckatzer](https://www.meckatzer.de/) | [Meckatzer Bräustüble](https://www.meckatzer-braeustueble.de/de/startseite.html), Meckatz 8, 88178 Heimenkirch | ? (derzeit abweichend) | |
+| Schöre | [Brauereigasthof Schöre](https://www.schoere.de/biergarten/), Dietmannsweiler 2, 88069 Tettnang | ab 10:00 (Sa - So) | |
+| Max & Moritz | [Gasthaus-Brauerei Max&Moritz](https://www.maxmoritz-bier.de/das-gasthaus/), Weinbichl 6, 88079 Kressbronn / Berg | ab 11:30 | |
 
 ### Route
 
@@ -105,5 +107,9 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ## Abreise
 
+Es gibt im Allgäu-Franken-Express offiziell keine Fahrradmitnahme, daher rechtzeitig da sein!
+
 | Abfahrt | Ankunft |
 | ------- | ------- |
+| Lindau-Insel, **17:25**, Gleis ? | Nürnberg, 20:57, Gleis ? |
+| Nürnberg, 21:11, Gleis ? | Erlangen, **21:36**, Gleis 2 |
