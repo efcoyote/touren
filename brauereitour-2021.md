@@ -94,7 +94,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 | Brauerei | Quelle | Öffnungszeiten | Bemerkung |
 | -------- | ------ | -------------- | --------- |
-| Aktienbrauerei Simmerberg | [diverse](https://simmerberger.de/gastronomie-handel/) | | |
+| [Aktienbrauerei Simmerberg](https://simmerberger.de/gastronomie-handel/) | [Landgasthof Post](https://www.post-roethenbach.de/biergarten/), Lindauerstr. 1, 88167 Röthenbach | ab 10:00 | |
 | Postbrauerei Weiler | [diverse](https://www.post-brauerei.de/unser-bier/bezugsquellen/) | | |
 | [Meckatzer](https://www.meckatzer.de/) | [Meckatzer Bräustüble](https://www.meckatzer-braeustueble.de/de/startseite.html), Meckatz 8, 88178 Heimenkirch | ? (derzeit abweichend) | |
 | Schöre | [Brauereigasthof Schöre](https://www.schoere.de/biergarten/), Dietmannsweiler 2, 88069 Tettnang | ab 10:00 (Sa - So) | |
@@ -102,7 +102,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Route
 
-[Route - Tag 5,  km]()
+[Route - Tag 5, 69 km](https://bit.ly/3b7cPmL)
 
 
 ## Abreise
