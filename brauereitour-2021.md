@@ -1,6 +1,10 @@
 # Brauereitour 2021
 
-## Mittwoch, Tag 1
+Donauwörth - Wertingen - Mindelheim - Kaufbeuren - Marktoberdorf - Sonthofen - Oberstdorf - Immenstadt i. Allgäu - Lindau
+
+![Übersichtskarte](brauereitour-2021-gesamt.jpg)
+
+## Mittwoch, 1. September
 
 ### Anreise
 
@@ -22,9 +26,9 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Route
 
-[Route - Tag 1, 46 km](https://bit.ly/3q6o455)
+[Route - Tag 1, 46 km, 290 Hm](https://bit.ly/3q6o455)
 
-## Donnerstag, Tag 2
+## Donnerstag, 2. September
 
 ### Brauereien
 
@@ -40,11 +44,11 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Route
 
-[Route - Tag 2, 85 km](https://bit.ly/36XJBFI) (noch ohne Häpfenbräu)
+[Route - Tag 2, 85 km, 690 Hm](https://bit.ly/36XJBFI) (noch ohne Häpfenbräu)
 
 ### Übernachtung
 
-## Freitag, Tag 3
+## Freitag, 3. September
 
 ### Brauereien
 
@@ -64,11 +68,11 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Route
 
-[Route - Tag 3, 93 km](https://bit.ly/3tK8Epm)
+[Route - Tag 3, 93 km, 1100 Hm](https://bit.ly/3tK8Epm)
 
 ### Übernachtung
 
-## Samstag, Tag 4
+## Samstag, 4. September
 
 ### Brauereien
 
@@ -84,11 +88,11 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Route
 
-[Route - Tag 4, 70 km](https://bit.ly/3q4HXJO)
+[Route - Tag 4, 70 km, 860 Hm](https://bit.ly/3q4HXJO)
 
 ### Übernachtung
 
-## Sonntag, Tag 5
+## Sonntag, 5. September
 
 ### Brauereien
 
@@ -102,8 +106,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Route
 
-[Route - Tag 5, 69 km](https://bit.ly/3b7cPmL)
-
+[Route - Tag 5, 69 km, 590 Hm](https://bit.ly/3b7cPmL)
 
 ## Abreise
 
