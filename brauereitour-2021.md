@@ -8,12 +8,12 @@ Donauwörth - Wertingen - Mindelheim - Kaufbeuren - Marktoberdorf - Sonthofen - 
 
 ### Anreise
 
-Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticket Plus.
+Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Plus).
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
-| Erlangen, **16:13**, Gleis 3 | Nürnberg, 16:33, Gleis ? |
-| Nürnberg, 16:39, Gleis ? | Otting-Weilheim, **17:43**, Gleis ? |
+| Erlangen, **16:13**, Gleis 3 | Nürnberg, 16:33, Gleis 9 |
+| Nürnberg, 16:39, Gleis 5 | Otting-Weilheim, **17:43**, Gleis 3 |
 
 ### Brauereien
 
@@ -55,11 +55,11 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 | Brauerei | Quelle | Öffnungszeiten | Bemerkung |
 | -------- | ------ | -------------- | --------- |
 | Irseer Klosterbräu | [Irseer Braugasthof](https://irsee.com/), Klosterring 1-3, 87660 Irsee/Allgäu | 10.00 - 23.00 | |
-| Aktienbrauerei Kaufbeuren | | | Großbrauerei |
+| ~~Aktienbrauerei Kaufbeuren~~ | | | Großbrauerei |
 | [Dein Bier](https://www.deinbier-allgäu.de/verkauf) | [Mein Buffet](http://www.mein-buffet.com/), Bahnhofstr. 1, 87665 Mauerstetten | 06:00 - 18:00 | oder [Reisach Früchtegarten](https://www.reisach-fruechtegarten.de/), Alpenweg 16, Mauerstetten |
 | Apfeltranger Bier | [Landgasthof Hubertus](https://www.hubertus-apfeltrang.de/restaurant/), Wenglinger Str. 2, 87674 Apfeltrang | ganztägig, Küche 11:30 - 13:30 | |
 | Kirnachtaler Bier | [Kirnachstuben](https://www.kirnachstuben.de/brauerei/), Hauptstr. 38, 87674 Ruderatshofen | ? (derzeit abweichend) | |
-| Allgäuer Brauhaus | | | Großbrauerei |
+| ~~Allgäuer Brauhaus~~ | | | Großbrauerei |
 | Berghof Babel | [Bräustüberl](https://www.berghof-babel.de/restaurant/braeustueberl.html), Nesselwanger Str. 44, 87616 Wald im Ostallgäu | 11:30 - 23:00 (Fr), 09:00 - 18:00 (Sa) | |
 | [Braumanufactur Allgäu](https://brau-manufactur-allgaeu.de/) | Hauptstr. 25, 87484 Nesselwang | | evtl. Getränkemarkt |
 | [BernardiBräu](https://www.bernardibraeu.de/fachgeschaumlfte.html) | [Kranzegger Jagdhütte](https://kranzegger.de/jagdhuette/biergarten/), Sonthofener Str. 15, 87549 Rettenberg-Kranzegg | ab 10:30 | höchstgelegene Privatbrauerei Deutschlands (wie auch die Enzianhütte s.u.) |
@@ -68,9 +68,16 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ### Route
 
-[Route - Tag 3, 93 km, 1100 Hm](https://bit.ly/3tK8Epm)
+[Route - Tag 3, 89 km, 1000 Hm](https://bit.ly/3kxRDL6)
 
 ### Übernachtung
+
+- Pension Jägerwinkl
+- Kirchstraße 4, Rettenberg
+- 2 x DZ (83,50 €), 1 x DZ Deluxe (90,50 €)
+- Anreise bis 21:00 Uhr
+- kostenlose Stornierung bis 19. August
+- Frühstück inbegriffen
 
 ## Samstag, 4. September
 
@@ -110,7 +117,8 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 20,30 € mit dem Tages Ticke
 
 ## Abreise
 
-Es gibt im Allgäu-Franken-Express offiziell keine Fahrradmitnahme, daher rechtzeitig da sein!
+Es gibt im Allgäu-Franken-Express offiziell keine Fahrradmitnahme, daher rechtzeitig da sein!  
+Die Rückfahrt kostet 49 € (Bayern-Ticket + 3 Mitfahrer) + 24 € (4 Fahrrad-Tageskarten Bayern).
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
