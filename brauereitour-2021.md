@@ -99,6 +99,12 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 
 ### Übernachtung
 
+- Landhotel Albrecht
+- Hauptstraße 26, 87547 Missen-Wilhams
+- 1 x Twinbettzimmer (96,20 €), 2 x DZ (69,20 €)
+- kostenlose Stornierung bis 7. August
+- Frühstück inbegriffen
+
 ## Sonntag, 5. September
 
 ### Brauereien
