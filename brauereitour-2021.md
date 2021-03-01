@@ -38,13 +38,13 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 | Usterbacher | [Bräustüble](http://www.ustersbacher-braeustueble.com/), Hauptstraße 40, 86514 Ustersbach | ab 10:00 | |
 | Staudenbräu | [Staudenbräu](https://staudenbraeu.de/), Grimoldsrieder Str. 2, 86877 Walkertshofen | 09:00 – 17:00 (Mo – Fr) | Biergarten/Wirtsstube nach persönlicher Vereinbarung geöffnet |
 | Storchenbräu | [Bräustüble Pfaffenhausen](http://www.storchenbraeu.de/braeustueble-pfaffenhausen-wieder-geoeffnet/), Kirchpl. 5, 87772 Pfaffenhausen | 10:00 - 14:00, 16:30 – 22:00 (Do - So) | |
-| Lindenbrauerei | [Gasthaus Drei König](https://lindenbrauerei.net/drei-koenig/), Memminger Str. 1, 87719 Mindelheim | ab 17:00 | |
 | Häpfenbräu | [Braustadl Häpfenbräu](http://www.braustadel-rammingen.de/), Am Bahnhof 4, 86871 Rammingen | 17.00 - 23.00 (Mi - Fr) | |
+| Lindenbrauerei | [Gasthaus Drei König](https://lindenbrauerei.net/drei-koenig/), Memminger Str. 1, 87719 Mindelheim | ab 17:00 | |
 | Hirschbräu | Hirschbräu, Mühlbachstraße 14, 87742 Dirlewang | | eventuell Supermarkt Mindelheim |
 
 ### Route
 
-[Route - Tag 2, 85 km, 690 Hm](https://bit.ly/36XJBFI) (noch ohne Häpfenbräu)
+[Route - Tag 2, 92 km, 788 Hm](https://bit.ly/3dUdvPq)
 
 ### Übernachtung
 
