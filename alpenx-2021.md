@@ -59,8 +59,8 @@ individuell
 
 | Tag | Strecke | Entfernung | Höhenmeter |
 | --- | ------- | ---------- | ---------- |
-| 1 | Kinding - Höhenkirchen-Siegertsbrunn | 137 | 643  |
-| 2 | Höhenkirchen-Siegertsbrunn - Lans    | 124 | 1071 |
-| 3 | Lans - Leifers                       | 132 | 1090 |
-| 4 | Leifers - Riva del Garda             | 101 | 246  |
-|   |                                 | **494** | **3050** |
+| 1 | Kinding - Straßlach      | 137 | 643  |
+| 2 | Straßlach - Lans         | 124 | 1071 |
+| 3 | Lans - Leifers           | 132 | 1090 |
+| 4 | Leifers - Riva del Garda | 101 | 246  |
+|   |                       | **494** | **3050** |
