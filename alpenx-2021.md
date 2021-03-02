@@ -2,7 +2,7 @@
 
 ## Donnerstag, 22. Juli
 
-Kinding - Höhenkirchen-Siegertsbrunn
+Kinding - Straßlach
 
 ### Anreise
 
@@ -13,17 +13,17 @@ Kinding - Höhenkirchen-Siegertsbrunn
 
 ### Route
 
-[Tag 1, 137 km, 577 Hm - BRouter](http://brouter.de/brouter-web/#map=9/48.4768/12.3431/osm-mapnik-german_style&lonlats=11.375999,48.993059;11.415224,48.821954;11.42621,48.804049;11.508093,48.536784;11.576672,48.351116;11.734385,48.148474;11.716897,48.080774;11.711447,48.019339&profile=fastbike-lowtraffic)
+[Tag 1, 137 km, 643 Hm - BRouter](http://brouter.de/brouter-web/#map=9/48.4895/12.5491/osm-mapnik-german_style&lonlats=11.375967,48.993101;11.414881,48.821897;11.427026,48.806382;11.50805,48.536187;11.576929,48.351373;11.642933,48.244204;11.625091,48.194086;11.609631,48.163765;11.595876,48.146629;11.588119,48.132541;11.559774,48.107402;11.551523,48.090752;11.514208,48.004855&profile=fastbike-lowtraffic)
 
 ### Übernachtung
 
 ## Freitag, 23. Juli
 
-Höhenkirchen-Siegertsbrunn - Lans
+Straßlach - Lans
 
 ### Route
 
-[Tag 2, 128 km, 1169 Hm - BRouter](http://brouter.de/brouter-web/#map=11/47.3546/11.3997/osm-mapnik-german_style&lonlats=11.711082,48.019439;11.745157,47.781154;11.706448,47.532197;11.705589,47.506853;11.714516,47.460519;11.744084,47.374262;11.577916,47.301541;11.433635,47.238453&profile=fastbike-lowtraffic)
+[Tag 2, 124 km, 1071 Hm - BRouter](http://brouter.de/brouter-web/#map=9/47.5081/12.0575/osm-mapnik-german_style&lonlats=11.514015,48.004395;11.706448,47.532197;11.705589,47.506853;11.714516,47.460519;11.744084,47.374262;11.577916,47.301541;11.433635,47.238453&profile=fastbike-lowtraffic)
 
 ### Übernachtung
 
@@ -59,8 +59,8 @@ individuell
 
 | Tag | Strecke | Entfernung | Höhenmeter |
 | --- | ------- | ---------- | ---------- |
-| 1 | Kinding - Höhenkirchen-Siegertsbrunn | 134 | 577  |
-| 2 | Höhenkirchen-Siegertsbrunn - Lans    | 128 | 1169 |
+| 1 | Kinding - Höhenkirchen-Siegertsbrunn | 137 | 643  |
+| 2 | Höhenkirchen-Siegertsbrunn - Lans    | 124 | 1071 |
 | 3 | Lans - Leifers                       | 132 | 1090 |
 | 4 | Leifers - Riva del Garda             | 101 | 246  |
-|   |                                 | **495** | **3082** |
+|   |                                 | **494** | **3050** |
