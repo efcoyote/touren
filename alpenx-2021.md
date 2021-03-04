@@ -17,6 +17,8 @@ Kinding - Straßlach
 
 ### Übernachtung
 
+- für Björn, Jan, Torsten, Michi, Eni, Holger
+
 ## Freitag, 23. Juli
 
 Straßlach - Lans
@@ -26,6 +28,8 @@ Straßlach - Lans
 [Tag 2, 124 km, 1071 Hm - BRouter](http://brouter.de/brouter-web/#map=9/47.5081/12.0575/osm-mapnik-german_style&lonlats=11.514015,48.004395;11.706448,47.532197;11.705589,47.506853;11.714516,47.460519;11.744084,47.374262;11.577916,47.301541;11.433635,47.238453&profile=fastbike-lowtraffic)
 
 ### Übernachtung
+
+- für Björn, Jan, Torsten, Michi, Eni, Holger
 
 ## Samstag, 24. Juli
 
@@ -37,6 +41,8 @@ Lans - Leifers
 
 ### Übernachtung
 
+- für Regine, Steppi, Björn, Jan, Torsten, Michi, Eni, Holger
+
 ## Sonntag, 25. Juli
 
 Leifers - Riva del Garda
@@ -47,13 +53,15 @@ Leifers - Riva del Garda
 
 ### Übernachtung
 
+- für Regine, Steppi, Björn, Jan, Torsten, Michi, Eni, Holger
+
 ## Montag, 26. Juli
 
-individuell
+- Rückreise von Torsten und Eni
 
 ## Dienstag, 27. Juli
 
-individuell
+- Rückreise von Holger
 
 ## Streckenzusammenfassung
 
