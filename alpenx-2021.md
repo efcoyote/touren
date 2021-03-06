@@ -17,7 +17,7 @@ Kinding - Straßlach
 
 ### Übernachtung
 
-- für Björn, Jan, Torsten, Michi, Eni, Holger
+- für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
 
 ## Freitag, 23. Juli
 
@@ -29,7 +29,7 @@ Straßlach - Lans
 
 ### Übernachtung
 
-- für Björn, Jan, Torsten, Michi, Eni, Holger
+- für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
 
 ## Samstag, 24. Juli
 
@@ -41,7 +41,7 @@ Lans - Leifers
 
 ### Übernachtung
 
-- für Regine, Steppi, Björn, Jan, Torsten, Michi, Eni, Holger
+- für Regine, Steppi, Björn, Jan, Torsten, Michi, Eni, Sören, Holger
 
 ## Sonntag, 25. Juli
 
@@ -53,15 +53,20 @@ Leifers - Riva del Garda
 
 ### Übernachtung
 
-- für Regine, Steppi, Björn, Jan, Torsten, Michi, Eni, Holger
+- für Regine, Steppi, Björn, Jan, Torsten, Michi, Eni, Sören, Holger
 
 ## Montag, 26. Juli
 
-- Rückreise von Torsten und Eni
+- Rückreise von Torsten, Eni und Sören
 
 ## Dienstag, 27. Juli
 
 - Rückreise von Holger
+
+| Abfahrt | Ankunft |
+| ------- | ------- |
+| Rovereto, **13:43**, Gleis ? | München, 18:27, Gleis ? |
+| München, 18:53, Gleis ? | Erlangen, **20:17**, Gleis 1 |
 
 ## Streckenzusammenfassung
 
