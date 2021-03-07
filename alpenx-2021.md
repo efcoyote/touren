@@ -57,7 +57,7 @@ Leifers - Riva del Garda
 
 ## Montag, 26. Juli
 
-- Rückreise von Torsten, Eni und Sören
+- Rückreise von Torsten, Eni, Sören und Jan
 
 ## Dienstag, 27. Juli
 
