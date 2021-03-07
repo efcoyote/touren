@@ -61,7 +61,7 @@ Leifers - Riva del Garda
 
 ## Dienstag, 27. Juli
 
-- Rückreise von Holger
+- Rückreise von Björn und Holger
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
