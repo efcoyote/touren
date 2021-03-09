@@ -57,11 +57,13 @@ Leifers - Riva del Garda
 
 ## Montag, 26. Juli
 
-- Rückreise von Torsten, Eni, Sören und Jan
+- Rückreise von Torsten, Eni, Sören, Jan
 
 ## Dienstag, 27. Juli
 
-- Rückreise von Björn und Holger
+- Rückreise von Björn, Holger
+- 37,90 € (Super Sparpreis EU)
+- 12,00 € (Fahrradkarte International)
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
