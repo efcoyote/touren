@@ -61,7 +61,7 @@ Leifers - Riva del Garda
 
 ## Dienstag, 27. Juli
 
-- Rückreise von Björn, Holger
+- Rückreise von Regine, Steppi, Björn, Holger
 - 37,90 € (Super Sparpreis EU)
 - 12,00 € (Fahrradkarte International)
 
