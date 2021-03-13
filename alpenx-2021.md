@@ -6,6 +6,8 @@
 
 ## Donnerstag, 22. Juli
 
+#### ![#008992](https://via.placeholder.com/15/008992/000000?text=+) Team
+
 Kinding - Straßlach
 
 ### Anreise
@@ -21,11 +23,22 @@ Kinding - Straßlach
 
 ### Übernachtung
 
-Torsten
-
+- Verantwortlich: Torsten
 - für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
 
+#### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
+
+Lengries - Jenbach
+
+### Übernachtung
+
+- Verantwortlich: Steppi
+- [Jenbacher Hof](https://www.jenbacherhof.at/de/Home)
+- Postgasse 22, 6200 Jenbach, Österreich
+
 ## Freitag, 23. Juli
+
+#### ![#008992](https://via.placeholder.com/15/008992/000000?text=+) Team
 
 Straßlach - Lans
 
@@ -37,9 +50,19 @@ Straßlach - Lans
 
 - für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
 
+#### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
+
+Jenbach - Brennerbad
+
+### Übernachtung
+
+- Verantwortlich: Steppi
+- [Gashof Silbergasser](https://silbergasser.it/)
+- Brennerbad 5, 39041 Brenner, Italien
+
 ## Samstag, 24. Juli
 
-Lans - Leifers
+Lans / Brennerbad - Leifers
 
 ### Route
 
@@ -77,6 +100,8 @@ Leifers - Riva del Garda
 | München, 18:53, Gleis ? | Erlangen, **20:17**, Gleis 1 |
 
 ## Streckenzusammenfassung
+
+#### ![#018a92](https://via.placeholder.com/15/018a92/000000?text=+) Team
 
 | Tag | Strecke | Entfernung | Höhenmeter |
 | --- | ------- | ---------- | ---------- |
