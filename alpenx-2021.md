@@ -26,6 +26,12 @@ Kinding - Straßlach
 - Verantwortlich: Torsten
 - für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
 
+Hotel Seidl Straßlach (https://www.seidl-gastro.de/)
+- Standard Doppelzimmer (2 Personen; 73,80 €) Storno bis 16. Juli 2021 23:59
+- Apartement (3 Personen; 126 €) Storno bis 20. Juli 2021 23:59
+- Einzelzimmer (Eni; 55,35 €) Storno bis 16. Juli 2021 23:59
+- Einzelzimmer (Torsten; 55,35 €) Storno bis 16. Juli 2021 23:59 
+
 ### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
 
 Lengries - Jenbach
