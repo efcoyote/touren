@@ -23,9 +23,9 @@ Kinding - Straßlach
 
 #### Übernachtung
 
+- [Hotel Seidl Straßlach](https://www.seidl-gastro.de/)
 - Verantwortlich: Torsten
 - für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
-- [Hotel Seidl Straßlach](https://www.seidl-gastro.de/)
 - Deisenhofenerstrasse 1, 82064 Großdingharting
 - Standard Doppelzimmer (2 Personen; 73,80 €) Storno bis 16. Juli 2021 23:59
 - Apartement (3 Personen; 126 €) Storno bis 20. Juli 2021 23:59
@@ -42,8 +42,8 @@ Lengries - Jenbach
 
 #### Übernachtung
 
-- Verantwortlich: Steppi
 - [Jenbacher Hof](https://www.jenbacherhof.at/de/Home)
+- Verantwortlich: Steppi
 - Postgasse 22, 6200 Jenbach, Österreich
 
 ## Freitag, 23. Juli
@@ -58,9 +58,9 @@ Straßlach - Tulfes
 
 #### Übernachtung
 
+- [Gasthof Neuwirt](http://www.neuwirt-tulfes.at/)
 - Verantwortlich: Eni
 - für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
-- [Gasthof Neuwirt](http://www.neuwirt-tulfes.at/)
 - Milchgasse 4, 6075 Tulfes, Österreich
 - 2x Einzelzimmer (61,00 €)
 - 1x Doppelzimmer (99,00 €)
@@ -78,8 +78,8 @@ Jenbach - Brennerbad
 
 #### Übernachtung
 
-- Verantwortlich: Steppi
 - [Gashof Silbergasser](https://silbergasser.it/)
+- Verantwortlich: Steppi
 - Brennerbad 5, 39041 Brenner, Italien
 
 ## Samstag, 24. Juli
