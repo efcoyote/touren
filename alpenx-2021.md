@@ -25,8 +25,8 @@ Kinding - Straßlach
 
 - Verantwortlich: Torsten
 - für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
-
-Hotel Seidl Straßlach (https://www.seidl-gastro.de/)
+- [Hotel Seidl Straßlach](https://www.seidl-gastro.de/)
+- Deisenhofenerstrasse 1, 82064 Großdingharting
 - Standard Doppelzimmer (2 Personen; 73,80 €) Storno bis 16. Juli 2021 23:59
 - Apartement (3 Personen; 126 €) Storno bis 20. Juli 2021 23:59
 - Einzelzimmer (Eni; 55,35 €) Storno bis 16. Juli 2021 23:59
@@ -36,7 +36,7 @@ Hotel Seidl Straßlach (https://www.seidl-gastro.de/)
 
 Lengries - Jenbach
 
-### Route
+#### Route
 
 [Tag 1, 47 km, 410 Hm - Komoot](https://www.komoot.de/plan/tour/d08AteLTwCwmi0=FzpsBjB-655L6ca64A==/@47.5369059,11.6613007,11z)
 
@@ -50,15 +50,23 @@ Lengries - Jenbach
 
 ### ![#008992](https://via.placeholder.com/15/008992/000000?text=+) Team
 
-Straßlach - Lans
+Straßlach - Tulfes
 
 #### Route
 
-[Tag 2, 124 km, 1071 Hm - BRouter](http://brouter.de/brouter-web/#map=9/47.5081/12.0575/osm-mapnik-german_style&lonlats=11.514015,48.004395;11.706448,47.532197;11.705589,47.506853;11.714516,47.460519;11.744084,47.374262;11.577916,47.301541;11.433635,47.238453&profile=fastbike-lowtraffic)
+[Tag 2, 118 km, 1130 Hm - BRouter](http://brouter.de/brouter-web/#map=9/47.5320/11.4944/osm-mapnik-german_style&lonlats=11.514015,48.004395;11.706448,47.532197;11.705589,47.506853;11.714516,47.460519;11.744084,47.374262;11.577916,47.301541;11.530269,47.256944&profile=fastbike-lowtraffic)
 
 #### Übernachtung
 
+- Verantwortlich: Eni
 - für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
+- [Gasthof Neuwirt](http://www.neuwirt-tulfes.at/)
+- Milchgasse 4, 6075 Tulfes, Österreich
+- 2x Einzelzimmer (61,00 €)
+- 1x Doppelzimmer (99,00 €)
+- 1x Dreibettzimmer (112,00 €)
+- Frühstück inklusive
+- Stornierung bis 19. Juli
 
 ### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
 
@@ -76,11 +84,11 @@ Jenbach - Brennerbad
 
 ## Samstag, 24. Juli
 
-Lans / Brennerbad - Leifers
+Tulfes / Brennerbad - Leifers
 
 #### Route
 
-![#008992](https://via.placeholder.com/15/008992/000000?text=+) [Tag 3, 132 km, 1090 Hm - BRouter](http://brouter.de/brouter-web/#map=13/47.2002/11.4266/osm-mapnik-german_style&lonlats=11.432798,47.238496;11.450307,46.950892;11.444664,46.937649;11.640369,46.686962;11.623503,46.680912;11.578496,46.644722;11.569462,46.642104;11.567037,46.641021;11.566029,46.638771;11.551716,46.63052;11.5238,46.582742;11.490004,46.526066;11.451895,46.499602;11.400992,46.492823;11.384314,46.494611;11.344296,46.439417;11.333449,46.423615&profile=fastbike-lowtraffic)  
+![#008992](https://via.placeholder.com/15/008992/000000?text=+) [Tag 3, 141 km, 1144 Hm - BRouter](http://brouter.de/brouter-web/#map=10/47.0898/11.3063/osm-mapnik-german_style&lonlats=11.530167,47.256911;11.450307,46.950892;11.444664,46.937649;11.640369,46.686962;11.623503,46.680912;11.578496,46.644722;11.569462,46.642104;11.567037,46.641021;11.566029,46.638771;11.551716,46.63052;11.5238,46.582742;11.490004,46.526066;11.451895,46.499602;11.400992,46.492823;11.384314,46.494611;11.344296,46.439417;11.333449,46.423615&profile=fastbike-lowtraffic)  
 ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) [Tag 3, 97 km, 360 Hm - Komoot](https://www.komoot.de/plan/tour/d08AszYlQCvQnA=FzrsExU7cxtXD3hKkA==/@46.7243297,11.5672302,10z)
 
 #### Übernachtung
@@ -121,10 +129,10 @@ Leifers - Riva del Garda
 | Tag | Strecke | Entfernung | Höhenmeter |
 | --- | ------- | ---------- | ---------- |
 | 1 | Kinding - Straßlach      | 137 | 643  |
-| 2 | Straßlach - Lans         | 124 | 1071 |
-| 3 | Lans - Leifers           | 132 | 1090 |
+| 2 | Straßlach - Tulfes       | 118 | 1130 |
+| 3 | Tulfes - Leifers         | 141 | 1144 |
 | 4 | Leifers - Riva del Garda | 101 | 246  |
-|   |                       | **494** | **3050** |
+|   |                       | **497** | **3163** |
 
 ### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
 
