@@ -24,9 +24,9 @@ Kinding - Straßlach
 #### Übernachtung
 
 - [Hotel Seidl Straßlach](https://www.seidl-gastro.de/)
+- Deisenhofenerstrasse 1, 82064 Großdingharting
 - Verantwortlich: Torsten
 - für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
-- Deisenhofenerstrasse 1, 82064 Großdingharting
 - Standard Doppelzimmer (2 Personen; 73,80 €) Storno bis 16. Juli 2021 23:59
 - Apartement (3 Personen; 126 €) Storno bis 20. Juli 2021 23:59
 - Einzelzimmer (Eni; 55,35 €) Storno bis 16. Juli 2021 23:59
@@ -43,8 +43,8 @@ Lengries - Jenbach
 #### Übernachtung
 
 - [Jenbacher Hof](https://www.jenbacherhof.at/de/Home)
-- Verantwortlich: Steppi
 - Postgasse 22, 6200 Jenbach, Österreich
+- Verantwortlich: Steppi
 
 ## Freitag, 23. Juli
 
@@ -59,14 +59,14 @@ Straßlach - Tulfes
 #### Übernachtung
 
 - [Gasthof Neuwirt](http://www.neuwirt-tulfes.at/)
+- Milchgasse 4, 6075 Tulfes, Österreich
 - Verantwortlich: Eni
 - für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
-- Milchgasse 4, 6075 Tulfes, Österreich
 - 2x Einzelzimmer (61,00 €)
 - 1x Doppelzimmer (99,00 €)
 - 1x Dreibettzimmer (112,00 €)
 - Frühstück inklusive
-- Stornierung bis 19. Juli
+- Stornierung bis 19. Juli 2021
 
 ### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
 
@@ -79,8 +79,8 @@ Jenbach - Brennerbad
 #### Übernachtung
 
 - [Gashof Silbergasser](https://silbergasser.it/)
-- Verantwortlich: Steppi
 - Brennerbad 5, 39041 Brenner, Italien
+- Verantwortlich: Steppi
 
 ## Samstag, 24. Juli
 
@@ -93,7 +93,14 @@ Tulfes / Brennerbad - Leifers
 
 #### Übernachtung
 
+- [Business Resort Parkhotel Werth](http://www.hotelwerth.com/de/)
+- Pfarrhofstrasse 19, 39100 Bozen, Italien
+- Verantwortlich: Jan
 - für Regine, Steppi, Björn, Jan, Torsten, Michi, Eni, Sören, Holger
+- 1x Einzelzimmer (82,00 €)
+- 4x Doppelzimmer (111,00 €)
+- Frühstück inklusive
+- Stornierung bis 16. Juli 2021
 
 ## Sonntag, 25. Juli
 
