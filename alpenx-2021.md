@@ -84,12 +84,12 @@ Jenbach - Brennerbad
 
 ## Samstag, 24. Juli
 
-Tulfes / Brennerbad - Leifers
+Tulfes / Brennerbad - Bozen
 
 #### Route
 
-![#008992](https://via.placeholder.com/15/008992/000000?text=+) [Tag 3, 141 km, 1144 Hm - BRouter](http://brouter.de/brouter-web/#map=10/47.0898/11.3063/osm-mapnik-german_style&lonlats=11.530167,47.256911;11.450307,46.950892;11.444664,46.937649;11.640369,46.686962;11.623503,46.680912;11.578496,46.644722;11.569462,46.642104;11.567037,46.641021;11.566029,46.638771;11.551716,46.63052;11.5238,46.582742;11.490004,46.526066;11.451895,46.499602;11.400992,46.492823;11.384314,46.494611;11.344296,46.439417;11.333449,46.423615&profile=fastbike-lowtraffic)  
-![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) [Tag 3, 97 km, 360 Hm - Komoot](https://www.komoot.de/plan/tour/d08AszYlQCvQnA=FzrsExU7cxtXD3hKkA==/@46.7243297,11.5672302,10z)
+![#008992](https://via.placeholder.com/15/008992/000000?text=+) [Tag 3, 135 km, 1120 Hm - BRouter](http://brouter.de/brouter-web/#map=10/46.8717/11.2871/osm-mapnik-german_style&lonlats=11.530167,47.256911;11.450307,46.950892;11.444664,46.937649;11.640369,46.686962;11.623503,46.680912;11.578496,46.644722;11.569462,46.642104;11.567037,46.641021;11.566029,46.638771;11.551716,46.63052;11.5238,46.582742;11.490004,46.526066;11.451895,46.499602;11.400992,46.492823;11.384314,46.494611;11.333993,46.465508&profile=fastbike-lowtraffic)  
+![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) [Tag 3, 92 km, 360 Hm - Komoot](https://www.komoot.de/plan/tour/d08AszYlQCvQnA=Fzp4EGKnbmlrvyClNtu0wjA=/@46.7266831,11.4697266,10z)
 
 #### Übernachtung
 
@@ -104,11 +104,11 @@ Tulfes / Brennerbad - Leifers
 
 ## Sonntag, 25. Juli
 
-Leifers - Riva del Garda
+Bozen - Riva del Garda
 
 #### Route
 
-[Tag 4, 103 km, 246 Hm - BRouter](http://brouter.de/brouter-web/#map=10/46.1675/10.9245/osm-mapnik-german_style&lonlats=11.333427,46.423689;11.314802,46.412092;11.208125,46.245104;11.152174,46.224638;11.136703,46.202644;11.114666,46.183708;11.101727,46.15968;11.075678,46.142768;11.078382,46.132988;11.086535,46.129232;11.086085,46.116354;11.111362,46.051283;11.122327,46.012299;11.122842,46.001964;11.103959,45.950299;11.051774,45.921586;11.016326,45.890306;11.008666,45.866853;10.994364,45.851873;10.842025,45.886483&profile=fastbike-lowtraffic)
+[Tag 4, 108 km, 265 Hm - BRouter](http://brouter.de/brouter-web/#map=10/46.1551/11.1209/osm-mapnik-german_style&lonlats=11.333953,46.465481;11.334565,46.444304;11.314802,46.412092;11.208125,46.245104;11.152174,46.224638;11.136703,46.202644;11.114666,46.183708;11.101727,46.15968;11.075678,46.142768;11.078382,46.132988;11.086535,46.129232;11.086085,46.116354;11.111362,46.051283;11.122327,46.012299;11.122842,46.001964;11.103959,45.950299;11.051774,45.921586;11.016326,45.890306;11.008666,45.866853;10.994364,45.851873;10.875156,45.871545;10.842025,45.886483&profile=fastbike-lowtraffic)
 
 #### Übernachtung
 
@@ -137,9 +137,9 @@ Leifers - Riva del Garda
 | --- | ------- | ---------- | ---------- |
 | 1 | Kinding - Straßlach      | 137 | 643  |
 | 2 | Straßlach - Tulfes       | 118 | 1130 |
-| 3 | Tulfes - Leifers         | 141 | 1144 |
-| 4 | Leifers - Riva del Garda | 101 | 246  |
-|   |                       | **497** | **3163** |
+| 3 | Tulfes - Bozen           | 135 | 1120 |
+| 4 | Bozen - Riva del Garda   | 108 | 265  |
+|   |                       | **498** | **3158** |
 
 ### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
 
@@ -147,6 +147,6 @@ Leifers - Riva del Garda
 | --- | ------- | ---------- | ---------- |
 | 1 | Lengries - Jenbach       | 47  | 410  |
 | 2 | Jenbach - Brennerbad     | 72  | 1190 |
-| 3 | Brennerbad - Leifers     | 97  | 360  |
-| 4 | Leifers - Riva del Garda | 101 | 246  |
-|   |                       | **317** | **2206** |
+| 3 | Brennerbad - Bozen       | 92  | 360  |
+| 4 | Bozen - Riva del Garda   | 108 | 265  |
+|   |                       | **319** | **2225** |
