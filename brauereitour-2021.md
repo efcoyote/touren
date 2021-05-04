@@ -8,7 +8,7 @@ Donauwörth - Wertingen - Mindelheim - Kaufbeuren - Marktoberdorf - Sonthofen - 
 
 ### Anreise
 
-Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Plus).
+Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Plus) + 11,43 € (Einzelfahrt).
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
@@ -47,6 +47,12 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 [Route - Tag 2, 92 km, 788 Hm](https://bit.ly/3dUdvPq)
 
 ### Übernachtung
+
+- [MN Hotel](https://mnhotel.de/)
+- Rubihornstraße 4-6, Mindelheim
+- 3 x Deluxe DZ (43,00 €)
+- kostenlose Stornierung bis 29. August
+- ohne Frühstück
 
 ## Freitag, 3. September
 
@@ -99,7 +105,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 
 ### Übernachtung
 
-- Landhotel Albrecht
+- [Landhotel Albrecht](https://www.landhotel-albrecht.de/)
 - Hauptstraße 26, 87547 Missen-Wilhams
 - 1 x Twinbettzimmer (96,20 €), 2 x EZ (69,20 €)
 - kostenlose Stornierung bis 7. August
@@ -124,7 +130,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 ## Abreise
 
 Es gibt im Allgäu-Franken-Express offiziell keine Fahrradmitnahme, daher rechtzeitig da sein!  
-Die Rückfahrt kostet 49 € (Bayern-Ticket + 3 Mitfahrer) + 24 € (4 Fahrrad-Tageskarten Bayern).
+Die Rückfahrt kostet 57,00 € (Bayern-Ticket + 4 Mitfahrer) + 30,00 € (5 Fahrrad-Tageskarten Bayern).
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
