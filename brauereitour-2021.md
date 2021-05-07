@@ -53,6 +53,7 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 - 3 x Deluxe DZ (43,00 €)
 - kostenlose Stornierung bis 29. August
 - ohne Frühstück
+- bereits mit Kreditkarte bezahlt
 
 ## Freitag, 3. September
 
