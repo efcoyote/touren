@@ -112,7 +112,8 @@ Bozen - Riva del Garda
 
 #### Übernachtung
 
-- für Regine, Steppi, Björn, Jan, Torsten, Michi, Eni, Sören, Holger
+- für Regine, Steppi, Björn, Jan, Torsten, Eni, Sören, Holger
+- Michi bucht selbst
 
 ## Montag, 26. Juli
 
