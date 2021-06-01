@@ -112,7 +112,17 @@ Bozen - Riva del Garda
 
 #### Übernachtung
 
-- für Regine, Steppi, Björn, Jan, Torsten, Eni, Sören, Holger
+- [Garni Hotello Sport And Relax ](https://www.garnihotello.it/?lang=de)
+- via Negrelli, 3/A, Riva del Garda, Italien
+- Verantwortlich: Steppi
+- für Regine, Steppi, Holger und 2 Nächte
+- 1x Einzelzimmer (132,00 €)
+- 1x Doppelzimmer (244,00 €)
+- Frühstück inklusive
+- Stornierung bis 11. Juli 2021
+
+Ausstehend
+- für Björn, Jan, Torsten, Eni, Sören
 - Michi bucht selbst
 
 ## Montag, 26. Juli
