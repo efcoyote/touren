@@ -112,17 +112,27 @@ Bozen - Riva del Garda
 
 #### Übernachtung
 
+1 Nacht
+- [Hotel La Perla](http://www.hotellaperla.com/de)
+- Viale Rovereto, 67/69, Riva del Garda, Italien
+- Verantwortlich: Sören
+- für Jan, Torsten, Eni, Sören
+- 2x Einzelzimmer (65,00 €)
+- 1x Doppelzimmer (130,00 €)
+- Frühstück inklusive
+- Stornierung bis 19. Juli 2021
+
+2 Nächte
 - [Garni Hotello Sport And Relax ](https://www.garnihotello.it/?lang=de)
 - via Negrelli, 3/A, Riva del Garda, Italien
 - Verantwortlich: Steppi
-- für Regine, Steppi, Holger und 2 Nächte
+- für Regine, Steppi, Holger
 - 1x Einzelzimmer (132,00 €)
 - 1x Doppelzimmer (244,00 €)
 - Frühstück inklusive
 - Stornierung bis 11. Juli 2021
 
-Ausstehend
-- für Björn, Jan, Torsten, Eni, Sören
+Länger
 - Michi bucht selbst
 
 ## Montag, 26. Juli
@@ -131,7 +141,7 @@ Ausstehend
 
 ## Dienstag, 27. Juli
 
-- Rückreise von Regine, Steppi, Björn, Holger
+- Rückreise von Regine, Steppi, Holger
 - 37,90 € (Super Sparpreis EU)
 - 12,00 € (Fahrradkarte International)
 
