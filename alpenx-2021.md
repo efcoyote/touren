@@ -26,11 +26,10 @@ Kinding - Straßlach
 - [Hotel Seidl Straßlach](https://www.seidl-gastro.de/)
 - Deisenhofenerstrasse 1, 82064 Großdingharting
 - Verantwortlich: Torsten
-- für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
-- Standard Doppelzimmer (2 Personen; 73,80 €) Storno bis 16. Juli 2021 23:59
-- Apartement (3 Personen; 126 €) Storno bis 20. Juli 2021 23:59
-- Einzelzimmer (Eni; 55,35 €) Storno bis 16. Juli 2021 23:59
-- Einzelzimmer (Torsten; 55,35 €) Storno bis 16. Juli 2021 23:59 
+- für Jan, Torsten, Michi, Eni, Sören, Holger
+- Standard Doppelzimmer (2 Personen; 73,80 €) Storno bis 16. Juli 2021
+- Apartement (3 Personen; 126 €) Storno bis 20. Juli 2021
+- Einzelzimmer (Eni; 55,35 €) Storno bis 16. Juli 2021
 
 ### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
 
@@ -61,10 +60,9 @@ Straßlach - Tulfes
 - [Gasthof Neuwirt](http://www.neuwirt-tulfes.at/)
 - Milchgasse 4, 6075 Tulfes, Österreich
 - Verantwortlich: Eni
-- für Björn, Jan, Torsten, Michi, Eni, Sören, Holger
+- für Jan, Torsten, Michi, Eni, Sören, Holger
 - 2x Einzelzimmer (61,00 €)
-- 1x Doppelzimmer (99,00 €)
-- 1x Dreibettzimmer (112,00 €)
+- 2x Doppelzimmer (99,00 €)
 - Frühstück inklusive
 - Stornierung bis 19. Juli 2021
 
