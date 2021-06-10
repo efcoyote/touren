@@ -130,8 +130,15 @@ Bozen - Riva del Garda
 - Frühstück inklusive
 - Stornierung bis 11. Juli 2021
 
-Länger
-- Michi bucht selbst
+3 Nächte
+- [Hotel Rolly](https://www.albergorolly.it/)
+- Via S. Tomaso, 39, 38066 Riva del Garda TN, Italien
+- Verantwortlicher: Michi
+- für Michi und Mascha
+- 1x Doppelzimmer (243,00 €)
+- Frühstück inklusive
+- Parkplatz inklusive
+- Stornierung bis 17. Juli
 
 ## Montag, 26. Juli
 
@@ -147,6 +154,20 @@ Länger
 | ------- | ------- |
 | Rovereto, **13:43**, Gleis ? | München, 18:27, Gleis ? |
 | München, 18:53, Gleis ? | Erlangen, **20:17**, Gleis 1 |
+
+## Mittwoch, 28. Juli
+
+- Rückreise Michi, Mascha
+- Polo 1.6 TDI "Sport"
+- ca. 27 l Diesel
+- 9,50 € Brenner Steckenmaut
+- ggf. Autobahngebühren Italien
+
+
+| Abfahrt | Ankunft |
+| ------- | ------- |
+| Riva del Garda, **12:30** | Baiersdorf, **22:00** |
+
 
 ## Streckenzusammenfassung
 
