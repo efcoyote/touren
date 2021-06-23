@@ -94,9 +94,11 @@ Tulfes / Brennerbad - Bozen
 - [Business Resort Parkhotel Werth](http://www.hotelwerth.com/de/)
 - Pfarrhofstrasse 19, 39100 Bozen, Italien
 - Verantwortlich: Jan
-- für Regine, Steppi, Björn, Jan, Torsten, Michi, Eni, Sören, Holger
-- 1x Einzelzimmer (82,00 €)
-- 4x Doppelzimmer (111,00 €)
+- für Regine, Steppi, Jan, Torsten, Michi, Eni, Sören, Holger
+- 1x Einzelzimmer (81,60 €)
+- 1x Einzelzimmer (91,60 €)
+- 2x Zweibettzimmer (111,20 €)
+- 1x Doppelzimmer (111,20 €)
 - Frühstück inklusive
 - Stornierung bis 16. Juli 2021
 
@@ -166,7 +168,6 @@ Bozen - Riva del Garda
 | Abfahrt | Ankunft |
 | ------- | ------- |
 | Riva del Garda, **12:30** | Baiersdorf, **22:00** |
-
 
 ## Streckenzusammenfassung
 
