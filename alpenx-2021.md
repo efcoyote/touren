@@ -152,8 +152,8 @@ Bozen - Riva del Garda
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
-| Rovereto, **13:43**, Gleis ? | München, 18:27, Gleis ? |
-| München, 18:53, Gleis ? | Erlangen, **20:17**, Gleis 1 |
+| Rovereto, **13:43**, Gleis ? | München, 18:27, Gleis 11 |
+| München, 18:53, Gleis 23 | Erlangen, **20:17**, Gleis 1 |
 
 ## Mittwoch, 28. Juli
 
@@ -162,7 +162,6 @@ Bozen - Riva del Garda
 - ca. 27 l Diesel
 - 9,50 € Brenner Steckenmaut
 - ggf. Autobahngebühren Italien
-
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
