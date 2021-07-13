@@ -6,10 +6,10 @@
 
 ## Gruppenausrüstung
 
-- 3x Fahrradschlösser (Holger, ?, ?)
-- 2x Luftpumpen (Michi, ?)
+- 3x Fahrradschlösser (Jan, Torsten, Eni, Steppi)
+- 2x Luftpumpen (Michi, Sören)
 - 1x Kettenöl (Jan)
-- 2x Flickzeug + Reifenheber
+- 2x Flickzeug + Reifenheber (Holger, ?)
 - Ersatzschläuche individuell
 
 ## Corona-Bestimmungen
