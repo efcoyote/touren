@@ -4,6 +4,32 @@
 
 ![Übersichtskarte](alpenx-2021-gesamt.jpg)
 
+## Gruppenausrüstung
+
+- 3x Fahrradschlösser (Holger, ?, ?)
+- 2x Luftpumpen (Michi, ?)
+- 1x Kettenöl (Jan)
+- 2x Flickzeug + Reifenheber
+- Ersatzschläuche individuell
+
+## Corona-Bestimmungen
+
+### Deutschland
+
+- Testnachweis für Nicht-Vollständig-Geimpfte im Hotel
+- diverse Teststationen in München
+
+### Österreich
+
+- Testnachweis für Nicht-Geimpfte bei Einreise und im Hotel
+- [Anmeldung](https://entry.ptc.gv.at/) nur bei Einreise ohne Testnachweis
+- [Teststation in Schwaz](https://www.tirol.gv.at/gesundheit-vorsorge/infekt/coronavirus-covid-19-informationen/tirol-testet/screeningstrassen-teststationen/#c233106)
+
+### Italien
+
+- [Anmeldung](https://app.euplf.eu/) für alle bei Einreise nach Italien
+- Testnachweis für Nicht-Vollständig-Geimpfte bei Einreise
+
 ## Donnerstag, 22. Juli
 
 ### ![#008992](https://via.placeholder.com/15/008992/000000?text=+) Team
@@ -144,11 +170,11 @@ Bozen - Riva del Garda
 
 ## Montag, 26. Juli
 
-- Rückreise von Torsten, Eni, Sören, Jan
+- Rückreise von Torsten, Eni, Sören
 
 ## Dienstag, 27. Juli
 
-- Rückreise von Regine, Steppi, Holger
+- Rückreise von Regine, Steppi, Jan, Holger
 - 37,90 € (Super Sparpreis EU)
 - 12,00 € (Fahrradkarte International)
 
