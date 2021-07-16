@@ -40,7 +40,10 @@ Kinding - Straßlach
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
-| Erlangen, **08:29**, Gleis 4 | Nürnberg Hbf, 08:48, Gleis 14 |
+| Hirschaid, **08:11**, Gleis 1 | |
+| Forchheim, **08:19**, Gleis 1 | |
+| Erlangen, **8:29**, Gleis 4 | |
+| Fürth, **8:41**, Gleis 3 | Nürnberg Hbf, 08:48, Gleis 14 |
 | Nürnberg Hbf, 09:08, Gleis 12 | Kinding, **09:36**, Gleis 4 |
 
 #### Route
