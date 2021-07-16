@@ -45,7 +45,7 @@ Kinding - Straßlach
 
 #### Route
 
-[Tag 1, 137 km, 643 Hm - BRouter](http://brouter.de/brouter-web/#map=9/48.4895/12.5491/osm-mapnik-german_style&lonlats=11.375967,48.993101;11.414881,48.821897;11.427026,48.806382;11.50805,48.536187;11.576929,48.351373;11.642933,48.244204;11.625091,48.194086;11.609631,48.163765;11.595876,48.146629;11.588119,48.132541;11.559774,48.107402;11.551523,48.090752;11.514208,48.004855&profile=fastbike-lowtraffic)
+[Tag 1, 140 km, 675 Hm - BRouter](http://brouter.de/brouter-web/#map=12/47.9628/11.6156/osm-mapnik-german_style&lonlats=11.375967,48.993101;11.414881,48.821897;11.427026,48.806382;11.509069,48.529985;11.576929,48.351373;11.642933,48.244204;11.625091,48.194086;11.609631,48.163765;11.595876,48.146629;11.588119,48.132541;11.559774,48.107402;11.551523,48.090752;11.521429,47.980655&profile=fastbike-lowtraffic)
 
 #### Übernachtung
 
@@ -79,7 +79,7 @@ Straßlach - Tulfes
 
 #### Route
 
-[Tag 2, 118 km, 1130 Hm - BRouter](http://brouter.de/brouter-web/#map=9/47.5320/11.4944/osm-mapnik-german_style&lonlats=11.514015,48.004395;11.706448,47.532197;11.705589,47.506853;11.714516,47.460519;11.744084,47.374262;11.577916,47.301541;11.530269,47.256944&profile=fastbike-lowtraffic)
+[Tag 2, 116 km, 1106 Hm - BRouter](http://brouter.de/brouter-web/#map=10/47.7500/11.6029/osm-mapnik-german_style&lonlats=11.521418,47.980666;11.505947,47.961191;11.706448,47.532197;11.705589,47.506853;11.714516,47.460519;11.744084,47.374262;11.577916,47.301541;11.530269,47.256944&profile=fastbike-lowtraffic)
 
 #### Übernachtung
 
@@ -201,11 +201,11 @@ Bozen - Riva del Garda
 
 | Tag | Strecke | Entfernung | Höhenmeter |
 | --- | ------- | ---------- | ---------- |
-| 1 | Kinding - Straßlach      | 137 | 643  |
-| 2 | Straßlach - Tulfes       | 118 | 1130 |
+| 1 | Kinding - Straßlach      | 140 | 675  |
+| 2 | Straßlach - Tulfes       | 116 | 1106 |
 | 3 | Tulfes - Bozen           | 135 | 1120 |
 | 4 | Bozen - Riva del Garda   | 108 | 265  |
-|   |                       | **498** | **3158** |
+|   |                       | **499** | **3166** |
 
 ### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
 
