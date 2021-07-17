@@ -202,13 +202,13 @@ Bozen - Riva del Garda
 
 ### ![#008992](https://via.placeholder.com/15/008992/000000?text=+) Team
 
-| Tag | Strecke | Entfernung | Höhenmeter |
-| --- | ------- | ---------- | ---------- |
-| 1 | Kinding - Straßlach      | 140 | 675  |
-| 2 | Straßlach - Tulfes       | 116 | 1106 |
-| 3 | Tulfes - Bozen           | 135 | 1120 |
-| 4 | Bozen - Riva del Garda   | 108 | 265  |
-|   |                       | **499** | **3166** |
+| Tag | Strecke | Entfernung | Höhenmeter | Höhenmeter (komoot) |
+| --- | ------- | ---------- | ---------- | ---------- |
+| 1 | Kinding - Straßlach      | 140 | 675  | 860 |
+| 2 | Straßlach - Tulfes       | 116 | 1106 | 1140 |
+| 3 | Tulfes - Bozen           | 135 | 1120 | 1130 |
+| 4 | Bozen - Riva del Garda   | 108 | 265  | 300 |
+|   |                       | **499** | **3166** | **3430** |
 
 ### ![#b46100](https://via.placeholder.com/15/b46100/000000?text=+) Team
 
