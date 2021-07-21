@@ -6,7 +6,7 @@
 
 ## Gruppenausrüstung
 
-- 3x Fahrradschlösser (Jan, Torsten, Eni, Steppi)
+- 3x Fahrradschlösser (Jan, Torsten, Eni)
 - 2x Luftpumpen (Michi, Sören)
 - 1x Kettenöl (Jan)
 - 2x Flickzeug + Reifenheber (Holger, ?)
