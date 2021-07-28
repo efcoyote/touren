@@ -24,6 +24,12 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 
 ### Übernachtung
 
+- [Waldgasthof Bergfried](http://www.waldgasthof-krebs.de/)
+- Am Judenberg 1, 86637 Wertingen
+- 5 x EZ (max. 55,00 €)
+- inkl. Frühstück
+- bei Barzahlung evtl. noch Rabatt
+
 ### Route
 
 [Route - Tag 1, 46 km, 290 Hm](https://bit.ly/3q6o455)
