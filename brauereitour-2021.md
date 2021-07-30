@@ -32,7 +32,8 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 
 ### Route
 
-[Route - Tag 1, 46 km, 290 Hm](https://bit.ly/3q6o455)
+[Route - Tag 1, 47 km, 290 Hm (ORS)](https://bit.ly/3ibjTmV)  
+[Route - Tag 1, 47 km, 220 Hm (Brouter)](http://brouter.de/brouter-web/#map=11/48.7248/10.8092/osm-mapnik-german_style&lonlats=10.819516,48.880959;10.786815,48.799402;10.778875,48.765187;10.711884,48.61209;10.704246,48.599403;10.687391,48.569579;10.65809,48.56255)
 
 ## Donnerstag, 2. September
 
@@ -50,7 +51,8 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 
 ### Route
 
-[Route - Tag 2, 92 km, 788 Hm](https://bit.ly/3dUdvPq)
+[Route - Tag 2, 94 km, 768 Hm (ORS)](https://bit.ly/3zOaXKk)  
+[Route - Tag 2, 94 km, 530 Hm (Brouter)](http://brouter.de/brouter-web/#map=13/48.4445/10.5543/osm-mapnik-german_style&lonlats=10.65809,48.562667;10.669098,48.558645;10.599403,48.41993;10.590048,48.347693;10.653477,48.309867;10.634851,48.286905;10.604124,48.26277;10.598803,48.250455;10.589533,48.233529;10.591958,48.226517;10.596228,48.216751;10.501921,48.150598;10.458512,48.121815;10.455229,48.12059;10.564384,48.06454;10.542154,48.074413;10.498853,48.056211;10.484905,48.046788;10.486643,48.044536;10.48939,48.043115;10.495505,48.036256;10.503584,48.033567)
 
 ### Übernachtung
 
@@ -81,7 +83,8 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 
 ### Route
 
-[Route - Tag 3, 89 km, 1000 Hm](https://bit.ly/3kxRDL6)
+[Route - Tag 3, 89 km, 1000 Hm (ORS)](https://bit.ly/3BWtmGB)  
+[Route - Tag 3, 89 km, 860 Hm (Brouter)](http://brouter.de/brouter-web/#map=10/47.7833/10.2324/osm-mapnik-german_style&lonlats=10.503531,48.033503;10.499754,48.011114;10.514603,47.974181;10.539815,47.945212;10.575929,47.909165;10.63365,47.918368;10.658755,47.89583;10.670042,47.892765;10.591593,47.820791;10.612192,47.780461;10.610089,47.776828;10.55357,47.711148;10.53679,47.6553;10.416348,47.602069;10.333371,47.589192;10.294586,47.574796;10.291454,47.574933)
 
 ### Übernachtung
 
@@ -108,7 +111,8 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 
 ### Route
 
-[Route - Tag 4, 70 km, 860 Hm](https://bit.ly/3q4HXJO)
+[Route - Tag 4, 71 km, 860 Hm (ORS)](https://bit.ly/3q4HXJO)  
+[Route - Tag 4, 71 km, 750 Hm (Brouter)](http://brouter.de/brouter-web/#map=12/47.5084/10.2060/osm-mapnik-german_style&lonlats=10.291539,47.575028;10.286443,47.571474;10.294039,47.514897;10.313973,47.49801;10.291808,47.511765;10.28007,47.512107;10.278933,47.504518;10.277281,47.428667;10.274856,47.425866;10.277152,47.410519;10.259943,47.425443;10.241575,47.419521;10.231512,47.454646;10.236683,47.45572;10.265865,47.460303;10.228475,47.557392;10.224323,47.561382;10.221555,47.561092;10.218444,47.561628;10.215998,47.561237;10.127667,47.597605)
 
 ### Übernachtung
 
@@ -132,7 +136,8 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 
 ### Route
 
-[Route - Tag 5, 69 km, 590 Hm](https://bit.ly/3b7cPmL)
+[Route - Tag 5, 69 km, 590 Hm (ORS)](https://bit.ly/3b7cPmL)  
+[Route - Tag 5, 69 km, 400 Hm (Brouter)](http://brouter.de/brouter-web/#map=11/47.6291/9.7140/osm-mapnik-german_style&lonlats=10.127635,47.597627;9.994726,47.619225;9.954665,47.61791;9.948013,47.622507;9.915376,47.624981;9.906256,47.62783;9.902608,47.629015;9.856796,47.656921;9.687452,47.656904;9.651715,47.656405;9.595871,47.618313;9.606771,47.606715;9.601429,47.593922;9.603446,47.589494;9.637413,47.569193;9.681423,47.544521)
 
 ## Abreise
 
