@@ -28,7 +28,6 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 - Am Judenberg 1, 86637 Wertingen
 - 5 x EZ (max. 55,00 €)
 - inkl. Frühstück
-- bei Barzahlung evtl. noch Rabatt
 
 ### Route
 
@@ -88,11 +87,20 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 
 ### Übernachtung
 
+#### Alle außer Jan
+
 - Pension Jägerwinkl
 - Kirchstraße 4, Rettenberg
 - 2 x DZ (83,50 €), 1 x DZ Deluxe (90,50 €)
 - Anreise bis 21:00 Uhr
 - kostenlose Stornierung bis 19. August
+- Frühstück inbegriffen
+
+#### Jan
+
+- Ferienwohnung Prokop
+- Am Widdum 4, Rettenberg
+- 1 x Übernachtung (57,00 €)
 - Frühstück inbegriffen
 
 ## Samstag, 4. September
