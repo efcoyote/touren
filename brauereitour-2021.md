@@ -8,12 +8,20 @@ Donauwörth - Wertingen - Mindelheim - Kaufbeuren - Marktoberdorf - Sonthofen - 
 
 ### Anreise
 
-Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Plus) + 11,43 € (Einzelfahrt).
+Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Plus).
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
 | Erlangen, **16:13**, Gleis 3 | Nürnberg, 16:33, Gleis 9 |
 | Nürnberg, 16:39, Gleis 5 | Otting-Weilheim, **17:43**, Gleis 3 |
+
+Magnus fährt direkt bis Donauwörth
+
+| Abfahrt | Ankunft |
+| ------- | ------- |
+| Köln, **11:17**, Gleis 7 | Stuttgart, 14:46, Gleis 15 |
+| Stuttgart, 15:20, Gleis 15 | Aalen, 16:20, Gleis 2 |
+| Aalen, 16:35, Gleis 5 | Donauwörth, **17:53**, Gleis 6 |
 
 ### Brauereien
 
@@ -151,9 +159,11 @@ Die Anreise mit dem Zug bis Otting-Weilheim kostet 40,60 € (2x Tages Ticket Pl
 ## Abreise
 
 Es gibt im Allgäu-Franken-Express offiziell keine Fahrradmitnahme, daher rechtzeitig da sein!  
-Die Rückfahrt kostet 57,00 € (Bayern-Ticket + 4 Mitfahrer) + 30,00 € (5 Fahrrad-Tageskarten Bayern).
+Die Rückfahrt kostet 49,00 € (Bayern-Ticket + 3 Mitfahrer) + 24,00 € (5 Fahrrad-Tageskarten Bayern).
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
 | Lindau-Insel, **17:25**, Gleis ? | Nürnberg, 20:57, Gleis ? |
 | Nürnberg, 21:11, Gleis ? | Erlangen, **21:36**, Gleis 2 |
+
+Die Rückfahrt von Magnus ist bereits um **15:05** ab Lindau-Insel.
