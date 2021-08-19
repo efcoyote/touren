@@ -65,7 +65,7 @@ Magnus fährt direkt bis Donauwörth
 
 - [MN Hotel](https://mnhotel.de/)
 - Rubihornstraße 4-6, Mindelheim
-- 3 x Deluxe DZ (43,00 €)
+- 3 x Deluxe DZ (46,00 €)
 - kostenlose Stornierung bis 29. August
 - ohne Frühstück
 - bereits mit Kreditkarte bezahlt
