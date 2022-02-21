@@ -8,6 +8,17 @@ Füssen - Umhausen
 
 [Tag 1, 97 km, 1733 Hm - BRouter](http://brouter.de/brouter-web/#map=11/47.1909/11.0577/osm-mapnik-german_style&lonlats=10.697916,47.570142;10.643005,47.286216;10.794196,47.210153;10.927545,47.139775&profile=fastbike)
 
+### Übernachtung
+
+- [Explorer Hotel Ötztal](https://www.explorer-hotels.com/oetztal/)
+- Gscheat 14, 6441 Umhausen
+- Verantwortlich: Torsten
+- für Björn, Eni, Holger, Jan, Sören, Torsten
+- 2x Einzelzimmer (84,00 €)
+- 2x Doppelzimmer (128,00 €)
+- inkl. Frühstück
+- stornierbar bis 13. Juni
+
 ## Freitag, 15. Juli
 
 Umhausen - Meran
@@ -29,7 +40,7 @@ Umhausen - Meran
 
 ## Samstag, 16. Juli
 
-Meran - Taio
+Meran - Cles
 
 ### Route
 
@@ -49,7 +60,17 @@ Meran - Taio
 
 ## Sonntag, 17. Juli
 
-Taio - Riva del Garda
+Cles - Riva del Garda
+
+### Übernachtung
+
+- [Hotel La Perla](http://www.hotellaperla.com/de)
+- Viale Rovereto, 67/69, Riva del Garda
+- Verantwortlich: Sören
+- für Björn, Eni, Holger, Jan, Sören, Torsten
+- 2x Einzelzimmer (70,00 €)
+- 2x Doppelzimmer (139,00 €)
+- Stornierung bis 11. Juli 2021
 
 ### Route
 
