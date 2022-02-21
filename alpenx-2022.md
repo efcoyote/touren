@@ -16,6 +16,17 @@ Umhausen - Meran
 
 [Tag 2, 98 km, 2233 Hm - BRouter](http://brouter.de/brouter-web/#map=10/46.8344/11.3667/osm-mapnik-german_style&lonlats=10.927534,47.139771;10.966244,47.061995;11.16389,46.662115&profile=fastbike)
 
+#### Übernachtung
+
+- [Albergo Cavallino s'Rössl](https://www.booking.com/hotel/it/albergo-cavallino-s-rossl.de.html)
+- Via delle Palade 105, 39012 Meran
+- Verantwortlich: Eni
+- für Björn, Eni, Holger, Jan, Sören, Torsten
+- 2x Doppelzimmer (110,00 €)
+- 2x Einzelzimmer (69,00 €)
+- inkl. Frühstück
+- stornierbar bis 1 Tag vor Anreise
+
 ## Samstag, 16. Juli
 
 Meran - Taio
