@@ -16,14 +16,14 @@ Umhausen - Meran
 
 [Tag 2, 98 km, 2233 Hm - BRouter](http://brouter.de/brouter-web/#map=10/46.8344/11.3667/osm-mapnik-german_style&lonlats=10.927534,47.139771;10.966244,47.061995;11.16389,46.662115&profile=fastbike)
 
-#### Übernachtung
+### Übernachtung
 
 - [Albergo Cavallino s'Rössl](https://www.booking.com/hotel/it/albergo-cavallino-s-rossl.de.html)
 - Via delle Palade 105, 39012 Meran
 - Verantwortlich: Eni
 - für Björn, Eni, Holger, Jan, Sören, Torsten
-- 2x Doppelzimmer (110,00 €)
 - 2x Einzelzimmer (69,00 €)
+- 2x Doppelzimmer (110,00 €)
 - inkl. Frühstück
 - stornierbar bis 1 Tag vor Anreise
 
@@ -34,6 +34,18 @@ Meran - Taio
 ### Route
 
 [Tag 3, 74 km, 1314 Hm - BRouter](http://brouter.de/brouter-web/#map=11/46.4111/11.2438/osm-mapnik-german_style&lonlats=11.16389,46.662115;11.172066,46.641072;11.180112,46.628206;11.298409,46.476497;11.257553,46.427674;11.23601,46.410844;11.23498,46.410226;11.195798,46.414337;11.162109,46.419014;11.154943,46.428661;11.066966,46.32112&profile=fastbike)  
+
+### Übernachtung
+
+- [Antica Trattoria](http://www.anticatrattoriacles.com/)
+- Via Roma, 13, 38023 Cles 
+- Verantwortlich: Holger
+- für Björn, Eni, Holger, Jan, Sören, Torsten
+- 1x Einzelzimmer (54,00 €)
+- 1x Zweibettzimmer (84,00 €)
+- 1x Deluxe-Doppelzimmer mit 3 Betten (126,00 €)
+- inkl. Frühstück
+- stornierbar bis 14. Juli
 
 ## Sonntag, 17. Juli
 
