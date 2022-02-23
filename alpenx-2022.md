@@ -8,6 +8,28 @@
 
 Füssen - Umhausen
 
+### Anreise
+
+| Abfahrt | Ankunft |
+| ------- | ------- |
+| Hirschaid, **06:45**, Gleis 1 | |
+| Forchheim, **06:53**, Gleis 1 | |
+| Erlangen, **07:02**, Gleis 4 | |
+| Fürth, **07:13**, Gleis ? | Nürnberg Hbf, 07:19, Gleis 4 |
+| Nürnberg Hbf, 07:32, Gleis 12 | München Hbf, 09:01, Gleis ? |
+| München Hbf, 09:36, Gleis ? | Füssen, **11:41**, Gleis 3 |
+
+oder
+
+| Abfahrt | Ankunft |
+| ------- | ------- |
+| Hirschaid, **07:46**, Gleis 1 | |
+| Forchheim, **07:54**, Gleis 1 | |
+| Erlangen, **08:03**, Gleis 4 | |
+| Fürth, **08:13**, Gleis ? | Nürnberg Hbf, 08:19, Gleis 4 |
+| Nürnberg Hbf, 08:39, Gleis 5 | Augsburg Hbf, 10:28, Gleis 8 |
+| Augsburg Hbf, 10:48, Gleis 12 | Füssen, **12:41**, Gleis 3 |
+
 ### Route
 
 [Tag 1, 97 km, 1733 Hm - BRouter](http://brouter.de/brouter-web/#map=11/47.1909/11.0577/osm-mapnik-german_style&lonlats=10.697916,47.570142;10.643005,47.286216;10.794196,47.210153;10.927545,47.139775&profile=fastbike)
