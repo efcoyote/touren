@@ -2,6 +2,8 @@
 
 Schnelldorf - Crailsheim - Ellwangen - Gaildorf - Murrhardt - Backnang - Winnenden - Esslingen - Kirchheim unter Teck - Echterdingen - Böblingen - Pforzheim - Ludwigsburg - Stuttgart
 
+![Übersichtskarte](brauereitour-2022-gesamt.avif)
+
 ## Donnerstag, 8. September
 
 Schnelldorf - Gaildorf
