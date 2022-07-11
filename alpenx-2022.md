@@ -12,23 +12,10 @@ Füssen - Umhausen
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
-| Hirschaid, **06:45**, Gleis 1 | |
-| Forchheim, **06:53**, Gleis 1 | |
-| Erlangen, **07:02**, Gleis 4 | |
-| Fürth, **07:13**, Gleis ? | Nürnberg Hbf, 07:19, Gleis 4 |
-| Nürnberg Hbf, 07:32, Gleis 12 | München Hbf, 09:01, Gleis ? |
-| München Hbf, 09:36, Gleis ? | Füssen, **11:41**, Gleis 3 |
-
-oder
-
-| Abfahrt | Ankunft |
-| ------- | ------- |
-| Hirschaid, **07:46**, Gleis 1 | |
-| Forchheim, **07:54**, Gleis 1 | |
-| Erlangen, **08:03**, Gleis 4 | |
-| Fürth, **08:13**, Gleis ? | Nürnberg Hbf, 08:19, Gleis 4 |
-| Nürnberg Hbf, 08:39, Gleis 5 | Augsburg Hbf, 10:28, Gleis 8 |
-| Augsburg Hbf, 10:48, Gleis 12 | Füssen, **12:41**, Gleis 3 |
+| Erfurt, **06:31**, Gleis 1 | |
+| Bamberg, **07:28**, Gleis 3 | |
+| Erlangen, **07:53**, Gleis 4 | München Hbf, 9:17, Gleis 21 |
+| München Hbf, 09:36, Gleis 30 | Füssen, **11:41**, Gleis 3 |
 
 ### Route
 
@@ -58,9 +45,9 @@ Umhausen - Meran
 - [Albergo Cavallino s'Rössl](https://www.booking.com/hotel/it/albergo-cavallino-s-rossl.de.html)
 - Via delle Palade 105, 39012 Meran
 - Verantwortlich: Eni
-- für Björn, Eni, Holger, Jan, Sören, Torsten
+- für Eni, Holger, Sören, Torsten
 - 2x Einzelzimmer (69,00 €)
-- 2x Doppelzimmer (110,00 €)
+- 1x Doppelzimmer (110,00 €)
 - inkl. Frühstück
 - stornierbar bis 1 Tag vor Anreise
 
@@ -77,9 +64,8 @@ Meran - Cles
 - [Antica Trattoria](http://www.anticatrattoriacles.com/)
 - Via Roma, 13, 38023 Cles 
 - Verantwortlich: Holger
-- für Björn, Eni, Holger, Jan, Sören, Torsten
+- für Eni, Holger, Sören, Torsten
 - 1x Einzelzimmer (54,00 €)
-- 1x Zweibettzimmer (84,00 €)
 - 1x Deluxe-Doppelzimmer mit 3 Betten (126,00 €)
 - inkl. Frühstück
 - stornierbar bis 14. Juli
@@ -93,8 +79,8 @@ Cles - Riva del Garda
 - [Hotel La Perla](http://www.hotellaperla.com/de)
 - Viale Rovereto, 67/69, Riva del Garda
 - Verantwortlich: Sören
-- für Björn, Eni, Holger, Jan, Sören, Torsten
-- 2x Einzelzimmer (70,00 €)
+- für Eni, Holger, Sören, Torsten
+- 1x Einzelzimmer (70,00 €)
 - 2x Doppelzimmer (139,00 €)
 - Stornierung bis 11. Juli 2021
 
