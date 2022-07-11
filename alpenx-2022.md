@@ -13,8 +13,8 @@ Füssen - Umhausen
 | Abfahrt | Ankunft |
 | ------- | ------- |
 | Erfurt, **06:31**, Gleis 1 | |
-| Bamberg, **07:28**, Gleis 3 | |
-| Erlangen, **07:53**, Gleis 4 | München Hbf, 9:17, Gleis 21 |
+| Erlangen, **07:53**, Gleis 4 | |
+| Nürnberg, **08:12**, Gleis 8 | München Hbf, 9:17, Gleis 21 |
 | München Hbf, 09:36, Gleis 30 | Füssen, **11:41**, Gleis 3 |
 
 ### Route
@@ -94,8 +94,10 @@ Cles - Riva del Garda
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
-| Rovereto, **13:43**, Gleis ? | München, 18:27, Gleis ? |
-| München, 18:56, Gleis ? | Erlangen, **21:26**, Gleis ? |
+| Rovereto, **13:43**, Gleis ? | München, 18:27, Gleis 11 |
+| München, 18:56, Gleis 23 | Nürnberg, **20:04**, Gleis 6 |
+| | Erlangen, **20:17**, Gleis 1 |
+| | Erfurt, **21:26**, Gleis 9 |
 
 ## Streckenzusammenfassung
 
