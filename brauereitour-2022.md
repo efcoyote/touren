@@ -60,6 +60,13 @@ Gaildorf - Kirchheim unter Teck
 
 ### Übernachtung
 
+- Hotel Württembergischer Hof
+- Paradiesstraße 54, DE-73230 Kirchheim unter Teck
+- 07021 754 23
+- 3x EZ (65 €), 1x DZ (99 €)
+- ohne Frühstück
+- kostenlose Stornierung bis 08.09.2022
+
 ## Samstag, 10. September
 
 Kirchheim unter Teck - Pforzheim
@@ -84,6 +91,12 @@ Kirchheim unter Teck - Pforzheim
 [Route - Tag 3, 92 km, 509 Hm](http://brouter.de/brouter-web/#map=12/48.7448/8.8758/osm-mapnik-german_style&lonlats=9.44949,48.648845;9.368206,48.674442;9.334302,48.629633;9.327221,48.634489;9.218012,48.679465;9.168836,48.691945;9.103203,48.71461;9.094362,48.716794;9.022104,48.687078;9.016213,48.685833;9.0038,48.68975;8.876438,48.75145;8.862791,48.758054;8.853049,48.766345;8.84378,48.78371;8.834682,48.796574;8.823652,48.802596;8.811421,48.806694;8.780179,48.833369;8.744044,48.843565;8.704594,48.891513)
 
 ### Übernachtung
+
+- Hotel Gute Hoffnung
+- Dillsteiner Strasse 9-11, 75173 Pforzheim
+- +49 72 3192290
+- 3x EZ (54 €), 1x DZ (74€)
+- ohne Frühstück
 
 ## Sonntag, 11. September
 
