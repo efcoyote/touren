@@ -36,7 +36,11 @@ Die Anreise mit dem Zug bis Schnelldorf kostet 21,50 € pro 2 Personen (TagesTi
 ### Übernachtung
 
 - [Metzgerei Wieland](https://www.metzgerei-wieland.de/de/standorte/gaildorf/uebernachtung)
-- Karlstraße 29, 74405 Gaildorf 
+- Karlstraße 29, 74405 Gaildorf
+- 07971 6341
+- 3x EZ (35 €), 1x DZ (70 €)
+- inkl. Frühstück
+- Anreise bis 19:00 Uhr
 
 ## Freitag, 9. September
 
