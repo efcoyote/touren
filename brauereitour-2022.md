@@ -25,7 +25,7 @@ Die Anreise mit dem Zug bis Schnelldorf kostet 21,50 € pro 2 Personen (TagesTi
 | Engel | Brauereigasthof Engel-Keller, Haller Str. 29, 74564 Crailsheim | 7:30 - 17:00 (außer Sa, So; Brauerei) | Fehlende Homepage |
 | Rotochsen | [Brauereigasthof Roter Ochsen](https://www.roter-ochsen-ellwangen.de/gasthof/), Schmiedstraße 16, 73479 Ellwangen | 7:00 – 0:00 (außer So, Mo) | |
 | Ladenburger | [Landgasthof Bieg](https://www.landgasthof-bieg.de/), Hauptstrasse 16, 73491 Neuler | 11:00 - 14:00, 17:00 - 21:30 (Di - Sa) | |
-| Wielands Bierbrauerei | [Wielands Bierbrauerei](http://wielands-bier.de/), Dewanger Str. 1a, 73453 Abtsgmünd | 14:00 - 18:00 (Di, Fr), 9:00 - 13:00 (Sa) | |
+| Wielands Bierbrauerei | [Wielands Bierbrauerei](http://wielands-bier.de/), Dewanger Str. 1a, 73453 Abtsgmünd | 14:00 - 18:00 (Di, Fr), 9:00 - 13:00 (Sa) | evtl. Do geschlossen |
 | Lamm-Bräu | [Brauereigasthof Lammbräu](https://www.lammbrauerei.de/gasthof/unser-gasthof/), Haller Straße 2, 73453 Untergröningen | 11:00 - 0:00 (Mi - So) | |
 | Brauerei Häberlen | [Brauerei Eugen Häberlen](https://www.brauerei-haeberlen.de/de/startseite/), Karlstraße 66, 74405 Gaildorf | | diverse im Ort |
 
@@ -38,7 +38,7 @@ Die Anreise mit dem Zug bis Schnelldorf kostet 21,50 € pro 2 Personen (TagesTi
 - [Metzgerei Wieland](https://www.metzgerei-wieland.de/de/standorte/gaildorf/uebernachtung)
 - Karlstraße 29, 74405 Gaildorf
 - 07971 6341
-- 3x EZ (35 €), 1x DZ (70 €)
+- 4x EZ (35 €)
 - inkl. Frühstück
 - Anreise bis 19:00 Uhr
 
@@ -67,7 +67,7 @@ Gaildorf - Kirchheim unter Teck
 - Hotel Württembergischer Hof
 - Paradiesstraße 54, DE-73230 Kirchheim unter Teck
 - 07021 754 23
-- 3x EZ (65 €), 1x DZ (99 €)
+- 2x EZ (65 €), 1x DZ (99 €)
 - ohne Frühstück
 - kostenlose Stornierung bis 08.09.2022
 
@@ -81,7 +81,7 @@ Kirchheim unter Teck - Pforzheim
 | -------- | ------ | -------------- | --------- |
 | Schlachthof Bräu | [Schlachthof Bräu](https://www.schlachthofbraeu.de/), Mühlstr. 15, 72622 Nürtingen | 11:30 – 23:00 (außer Do) | |
 | Schwanen-Bräu | [Schwanen-Bräu](https://www.schwanen-braeu.de/), Bernhäuser Hauptstraße 36, 70794 Bernhausen | 16:30 - 0:00 (Mo - Do), 11:30 - 0:00 (Fr - So) | |
-| Echterdinger Brauhaus | [Parkhotel Stuttgart Messe-Airport](https://www.parkhotel-stuttgart.de/de/gastronomie/hausbrauerei-mit-biergarten), Filderbahnstraße 2, 70771 Leinfelden-Echterdingen | 17:00 - 23:00 (Mo - Fr), 15:00 - 23:00 (Sa - So) | |
+| Echterdinger Brauhaus | [Parkhotel Stuttgart Messe-Airport](https://www.parkhotel-stuttgart.de/de/gastronomie/hausbrauerei-mit-biergarten), Filderbahnstraße 2, 70771 Leinfelden-Echterdingen | 17:00 - 23:00 (Mo - Fr), 15:00 - 23:00 (Sa - So) | Urlaub bis 11.09. |
 | Schönbuch Braumanufaktur | [Brauhaus Schönbuch](https://www.brauhaus-schoenbuch.de/boeblingen/brauhaus), Postplatz 6, 71032 Böblingen | 11:00 - 0:00 | |
 | Landgasthof 1610 | [Landgasthof 1610](https://www.landgasthof-1610.de/), Kirchgrabenstraße 6, 71263 Weil der Stadt | 12:00 - 14:00 (außer Mo, Sa), 17:00 - 21:00 (außer Mo) | |
 | Hausbrauerei Mönchwasen | [Hausbrauerei Mönchwasen](https://www.moenchwasen.com/), Im Mönchgraben 30, 75397 Simmozheim | 16:00 - 23:00 (Sa), 11:00 - 22:00 (So) | abseits der Route |
@@ -99,7 +99,7 @@ Kirchheim unter Teck - Pforzheim
 - Hotel Gute Hoffnung
 - Dillsteiner Strasse 9-11, 75173 Pforzheim
 - +49 72 3192290
-- 3x EZ (54 €), 1x DZ (74€)
+- 2x EZ (54 €), 1x DZ (74€)
 - ohne Frühstück
 
 ## Sonntag, 11. September
@@ -123,9 +123,8 @@ Pforzheim - Stuttgart
 
 ## Abreise
 
-Aller 2 Stunden fährt ein Intercity, der relativ viele Fahrradstellplätze hat, den man aber vorher buchen muss.
+Der IC 2161 ist gebucht (40,40 € mit BC25, 49,40 € ohne BC pro Person).
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
-| Stuttgart, **18:09**, Gleis ? | Nürnberg, 20:18, Gleis 15 |
-| Nürnberg, 20:38, Gleis 4 | Erlangen, **20:53**, Gleis 1 |
+| Stuttgart, **16:09**, Gleis 15 | Erlangen, **18:37**, Gleis 1 |
