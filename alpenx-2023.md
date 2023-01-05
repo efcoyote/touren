@@ -6,7 +6,7 @@
 
 ## Donnerstag, 29. Juni
 
-Freilassing - Zeller See
+Freilassing - **Hirschbichl (1183 m)** - Zeller See
 
 ### Anreise
 
@@ -26,7 +26,7 @@ Freilassing - Zeller See
 
 ## Freitag, 30. Juni
 
-Zeller See - Lienz
+Zeller See - **Großglockner-Hochalpenstraße (2504 m)** - **Iselsbergpass (1204 m)** - Lienz
 
 ### Route
 
@@ -37,33 +37,31 @@ Zeller See - Lienz
 
 ## Samstag, 1. Juli
 
-Lienz - Hermagor
+Lienz - **Gailbergsattel (982 m)** - **Plöckenpass (1357 m)** - Tolmezzo
 
 ### Route
 
-[Tag 3, 111 km, 1608 Hm](http://brouter.de/brouter-web/#map=11/46.6228/13.3676/osm-mapnik-german_style&lonlats=12.770576,46.829429;12.532053,46.718765;13.369803,46.626338&profile=fastbike)  
+[Tag 3, 84 km, 1196 Hm](http://brouter.de/brouter-web/#map=10/46.5972/13.0030/osm-mapnik-german_style&lonlats=12.770576,46.829429;12.945671,46.595395;13.010366,46.406128;13.014894,46.402489)  
 
 ### Übernachtung
 
 
 ## Sonntag, 2. Juli
 
-Hermagor - Wörther See
+Tolmezzo - Villach
 
 ### Übernachtung
 
 
 ### Route
 
-[Tag 4, 120 km, 793 Hm](http://brouter.de/brouter-web/#map=9/46.6655/13.8345/osm-mapnik-german_style&lonlats=13.369803,46.626338;13.216295,46.739859;13.761234,46.661749;14.042072,46.614043)
+[Tag 4, 97 km, 928 Hm](http://brouter.de/brouter-web/#map=10/46.5659/13.4150/osm-mapnik-german_style&lonlats=13.014894,46.402489;13.800373,46.559801;13.819835,46.572316;13.827281,46.585545;13.833611,46.598609;13.850584,46.618288)
 
 ## Montag, 3. Juli
 
-Die Fahrt an dem Tag ist optional, da der Zug entgegen kommt und überall hält.
+Es gibt in der Gegend viele Seen und man müsste ggf. vom See noch nach Villach oder einem anderen der vielen Haltepunkte des Zuges fahren.
 
 ### Route
-
-[Tag 5, 24,5 km, 30 Hm](http://brouter.de/brouter-web/#map=11/46.6237/14.0879/osm-mapnik-german_style&lonlats=14.042072,46.614043;14.313726,46.616313)
 
 ### Rückreise
 
@@ -76,6 +74,10 @@ Die Fahrt an dem Tag ist optional, da der Zug entgegen kommt und überall hält.
 
 ## Streckenzusammenfassung
 
-| Tag | Strecke               | Entfernung | Höhenmeter |
-| --- | --------------------- | ---------- | ---------- |
-|     |                       | **?**    | **?**   |
+| Tag | Strecke                  | Entfernung | Höhenmeter |
+| --- | ------------------------ | ---------- | ---------- |
+| 1   | Freilassing - Zeller See | 97         | 1435       |
+| 2   | Zeller See - Lienz       | 92         | 2390       |
+| 3   | Lienz - Tolmezzo         | 84         | 1196       |
+| 4   | Tolmezzo - Villach       | 97         | 928        |
+|     |                          | **370**    | **5949**   |
