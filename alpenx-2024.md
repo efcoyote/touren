@@ -1,10 +1,10 @@
-# Alpen-Cross 2023
+# Alpen-Cross 2024
 
 ## Übersicht
 
 ![Übersichtskarte]()
 
-## Donnerstag, 29. Juni
+## Donnerstag
 
 Freilassing - **Hirschbichl (1183 m)** - Zeller See
 
@@ -24,7 +24,7 @@ Freilassing - **Hirschbichl (1183 m)** - Zeller See
 ### Übernachtung
 
 
-## Freitag, 30. Juni
+## Freitag
 
 Zeller See - **Großglockner-Hochalpenstraße (2504 m)** - **Iselsbergpass (1204 m)** - Lienz
 
@@ -35,7 +35,7 @@ Zeller See - **Großglockner-Hochalpenstraße (2504 m)** - **Iselsbergpass (1204
 ### Übernachtung
 
 
-## Samstag, 1. Juli
+## Samstag
 
 Lienz - **Gailbergsattel (982 m)** - **Plöckenpass (1357 m)** - Tolmezzo
 
@@ -46,7 +46,7 @@ Lienz - **Gailbergsattel (982 m)** - **Plöckenpass (1357 m)** - Tolmezzo
 ### Übernachtung
 
 
-## Sonntag, 2. Juli
+## Sonntag
 
 Tolmezzo - Villach
 
@@ -57,7 +57,7 @@ Tolmezzo - Villach
 
 [Tag 4, 97 km, 928 Hm](http://brouter.de/brouter-web/#map=10/46.5659/13.4150/osm-mapnik-german_style&lonlats=13.014894,46.402489;13.800373,46.559801;13.819835,46.572316;13.827281,46.585545;13.833611,46.598609;13.850584,46.618288)
 
-## Montag, 3. Juli
+## Montag
 
 Es gibt in der Gegend viele Seen und man müsste ggf. vom See noch nach Villach oder einem anderen der vielen Haltepunkte des Zuges fahren.
 
