@@ -2,19 +2,98 @@
 
 ## Ausrüstung
 
-### Vorhanden
+### Obligatorisch
 
 - Fahrrad
+- Bremsbelege
+- Flickzeug (21g)
+- Reifenheber (22g)
+- Gewebeband (14g)
+- Luftpumpe
+- Öl/Lappen
+- Inbusschlüssel für Sattel/Lenker/Bremsbeläge
+- Fahrradschloss
+- Fahrrad-Vorderlicht (229)
+- Fahrrad-Rücklicht (33g)
+- Fahrradcomputer (40g)
+- Fahrradtrinkflasche
+- Lenkerrolle (250g)
+- Rahmentasche (180g)
+- Sattelrohrtasche (325g oder 350g)
+- Helm
+- Sonnenbrille
+- Fahrradhandschuhe
+- Fahrradschuhe
+- 2x Trikot
+- Kurze Radhose
+- Socken
+- Regenjacke
+- Regenhose
+- Armlinge (51g)
+- Tights (153g)
+- Unterhosen
+- T-Shirt
+- Fleecejacke (316g)
+- Handtuch (77g)
+- Zelt (930g, ohne Hülle 880g)
+- Schlafsack (1335g, ohne Hülle 1180g)
+- Isomatte (599g, ohne Hülle 560g)
+- Seideninlett (157g)
+- Zahnbürste
+- 2x Zahnpasta
+- Sonnencreme
+- Deo
+- 2x Duschbad/Waschmittel
+- Rasierer (36g)
+- Nagelknipser (21g)
+- Ohropax
+- Taschentücher
+- Toilettenpapier
+- Waschtasche (39g)
+- Taschenmesser (94g)
+- Müllbeutel
+- Portemonnaie
+- Handy (184g)
+- Handyladekabel
+- Schlüssel
 
+### Wahlobligatorisch
 
-### Kauf
+- Flip-Flops (127g)
+- Fleecekaputzenpullover (461g)
+- Badehose
+- Topf
+- Faltkanister
+- Kocher
+- Benzinflasche
+- Feuerzeug
+- Löffel
+- Salz
+- Spülmittel
+- Spüllappen
+- Unterbodenfolie
+
+### Erneuern
+
+- Schaltzüge
+- Sonnenbrille
+- Helm
+- Regenjacke
+- Regenhose
+- Fahrradhandschuhe
+
+### Zusätzlich
+
+- Rahmenschutzfolie
+- Plastiklöffel
+- Quetschbeutel
 
 ## Strecke
 
 ### Tag 1 - 28.05.
 
-| Abfahrt | Ankunft |
-| ------- | ------- |
+| Abfahrt                      | Ankunft                     |
+| ---------------------------- | --------------------------- |
 | Erlangen, **05:58**, Gleis 1 | Hamburg, 11:24, Gleis 5     |
 | Hamburg, 12:53, Gleis 11     | Odense, 16:19, Gleis 3      |
 | Odense, 16:43, Gleis 5       | Aalborg, **19:52**, Gleis 1 |
