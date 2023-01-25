@@ -44,6 +44,7 @@
 - Sonnencreme
 - Deo
 - 2x Duschbad/Waschmittel
+- Antibrumm
 - Rasierer (36g)
 - Nagelknipser (21g)
 - Ohropax
@@ -53,8 +54,13 @@
 - Taschenmesser (94g)
 - Müllbeutel
 - Portemonnaie
+- Personalausweis
+- Krankenkarte
+- Kreditkarte
+- Geld
 - Handy (184g)
 - Handyladekabel
+- Handy-Kopfhörer
 - Schlüssel
 
 ### Wahlobligatorisch
@@ -87,6 +93,7 @@
 - Rahmenschutzfolie
 - Plastiklöffel
 - Quetschbeutel
+- Roaming
 
 ## Strecke
 
