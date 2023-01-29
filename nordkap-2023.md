@@ -1,5 +1,9 @@
 # Nordkap 2023
 
+## Übersicht
+
+![Übersichtskarte](nordkap-2023.avif)
+
 ## Ausrüstung
 
 ### Obligatorisch
@@ -248,11 +252,10 @@
 ### Tag 27 - 21.06.
 ### Tag 28 - 22.06.
 ### Tag 29 - 23.06.
+### Tag 30 - 24.06.
 
 [Olderdalen - Alta - Nordkap](http://brouter.de/brouter-web/#map=8/70.018/23.774/osm-mapnik-german_style&lonlats=20.533104,69.601694;23.296959,69.977131;25.781736,71.168037)
 463,3 km / 3686 Hm
-
-### Tag 30 - 24.06.
 
 [Nordkap - Honningsvåg](http://brouter.de/brouter-web/#map=15/70.9830/25.9640/osm-mapnik-german_style&lonlats=25.781651,71.168037;25.968375,70.9996;25.968397,70.999317;25.9683,70.998552;25.968214,70.997165;25.969791,70.992333;25.965521,70.990205;25.966938,70.984396;25.970263,70.982071&profile=fastbike)
 34,8 km / 397 Hm
