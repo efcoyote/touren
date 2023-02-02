@@ -22,7 +22,7 @@ Ab Erlangen kostet das Ganze pro Person 32,90 € (23,90 € Super Sparpreis + 9
 
 [Tag 1, 84,7 km, 675 Hm](http://brouter.de/brouter-web/#map=11/47.5323/10.2599/osm-mapnik-german_style&lonlats=9.681015,47.543631;9.90778,47.65395;9.970264,47.646077;9.985714,47.621904;10.201321,47.563843;10.274663,47.501576;10.278912,47.511406)
 
-### Übernachtung
+### Übernachtung (Holger)
 
 - [Hotel Deutsches Haus](https://www.hotel-deutsches-haus-sonthofen.de/)
 - Schnitzer Str. 3, 87527 Sonthofen
@@ -39,8 +39,15 @@ Sonthofen - Bad Kohlgrub
 
 [Tag 2, 104 km, 971 Hm](http://brouter.de/brouter-web/#map=11/47.5656/10.8140/osm-mapnik-german_style&lonlats=10.278955,47.511576;10.337791,47.614437;10.394783,47.637423;10.461345,47.627712;10.504239,47.623195;10.579791,47.609541;10.58713,47.605534;10.590928,47.608175;10.61334,47.610865;10.636396,47.61145;10.702014,47.57143;10.736732,47.556511;10.843592,47.642836;10.922341,47.694046;10.962242,47.696137;10.960665,47.687084;11.046506,47.668277;11.050358,47.666918)
 
-### Übernachtung
+### Übernachtung (Torsten)
 
+- [Alpen Gästehaus Bad Kohlgrub](https://www.alpen-gaestehaus.de/)
+- Hauptstraße 18, 82433 Bad Kohlgrub
+- 0049 8845 476
+- 1 * EZ (54,50 €)
+- 1 * FamilyApartment (Doppelbett, 2 Einzelbetten in getrennten Räumen; 148,50 €)
+- inkl. Frühstück
+- Kein Storno ersichtlich, dafür günstiger als booking.com
 
 ## Samstag, 1. Juli
 
