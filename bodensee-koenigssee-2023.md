@@ -10,6 +10,8 @@ Lindau (Bodensee) - Sonthofen
 
 ### Anreise
 
+Ab Erlangen kostet das Ganze pro Person 32,90 € (23,90 € Super Sparpreis + 9,00 € Fahrrad).
+
 | Abfahrt             | Ankunft           |
 | ------------------- | ----------------- |
 | Erfurt, **06:31**   |                   |
@@ -31,6 +33,13 @@ Sonthofen - Bad Kohlgrub
 [Tag 2, 104 km, 971 Hm](http://brouter.de/brouter-web/#map=11/47.5656/10.8140/osm-mapnik-german_style&lonlats=10.278955,47.511576;10.337791,47.614437;10.394783,47.637423;10.461345,47.627712;10.504239,47.623195;10.579791,47.609541;10.58713,47.605534;10.590928,47.608175;10.61334,47.610865;10.636396,47.61145;10.702014,47.57143;10.736732,47.556511;10.843592,47.642836;10.922341,47.694046;10.962242,47.696137;10.960665,47.687084;11.046506,47.668277;11.050358,47.666918)
 
 ### Übernachtung
+
+- [Hotel Deutsches Haus](https://www.hotel-deutsches-haus-sonthofen.de/)
+- Schnitzer Str. 3, 87527 Sonthofen
+- 08321 780 98 50
+- 4x EZ (64 €)
+- inkl. Frühstück
+- kostenfreie Stornierung bis 26.06.2023 um 16:00 Uhr
 
 ## Samstag, 1. Juli
 
@@ -62,11 +71,13 @@ Teisendorf - Berchtesgaden
 
 ### Rückreise
 
+Bis Erlangen kostet das Ganze pro Person 32,90 € (23,90 € Super Sparpreis + 9,00 € Fahrrad).
+
 | Abfahrt                  | Ankunft             |
 | ------------------------ | ------------------- |
 | Berchtesgaden, **15:32** | Freilassing, 16:18  |
 | Freilassing, 16:24       | München, 18:06      |
-| München, 18:56           | Erlangen, **20:18** |
+| München, 18:56           | Erlangen, **20:16** |
 |                          | Erfurt, **21:26**   |
 
 ## Streckenzusammenfassung
