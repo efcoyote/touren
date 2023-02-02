@@ -24,6 +24,13 @@ Ab Erlangen kostet das Ganze pro Person 32,90 € (23,90 € Super Sparpreis + 9
 
 ### Übernachtung
 
+- [Hotel Deutsches Haus](https://www.hotel-deutsches-haus-sonthofen.de/)
+- Schnitzer Str. 3, 87527 Sonthofen
+- 08321 780 98 50
+- 4x EZ (64 €)
+- inkl. Frühstück
+- kostenfreie Stornierung bis 26.06.2023 um 16:00 Uhr
+
 ## Freitag, 30. Juni
 
 Sonthofen - Bad Kohlgrub
@@ -34,12 +41,6 @@ Sonthofen - Bad Kohlgrub
 
 ### Übernachtung
 
-- [Hotel Deutsches Haus](https://www.hotel-deutsches-haus-sonthofen.de/)
-- Schnitzer Str. 3, 87527 Sonthofen
-- 08321 780 98 50
-- 4x EZ (64 €)
-- inkl. Frühstück
-- kostenfreie Stornierung bis 26.06.2023 um 16:00 Uhr
 
 ## Samstag, 1. Juli
 
