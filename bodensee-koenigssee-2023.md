@@ -44,9 +44,9 @@ Sonthofen - Bad Kohlgrub
 - [Alpen Gästehaus Bad Kohlgrub](https://www.alpen-gaestehaus.de/)
 - Hauptstraße 18, 82433 Bad Kohlgrub
 - 0049 8845 476
-- 1 * EZ (54,50 €)
-- 1 * FamilyApartment (Doppelbett + 2 Einzelbetten; in getrennten Räumen; 148,50 €)
-- inkl. Frühstück
+- 1 * EZ (56,90 €)
+- 1 * FamilyApartment (Doppelbett + 2 Einzelbetten; in getrennten Räumen; 155,70 €)
+- inkl. Frühstück + Kurtaxe
 - Kein Storno ersichtlich, dafür günstiger als booking.com
 
 ## Samstag, 1. Juli
