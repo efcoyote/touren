@@ -45,7 +45,7 @@ Sonthofen - Bad Kohlgrub
 - Hauptstraße 18, 82433 Bad Kohlgrub
 - 0049 8845 476
 - 1 * EZ (54,50 €)
-- 1 * FamilyApartment (Doppelbett, 2 Einzelbetten in getrennten Räumen; 148,50 €)
+- 1 * FamilyApartment (Doppelbett + 2 Einzelbetten; in getrennten Räumen; 148,50 €)
 - inkl. Frühstück
 - Kein Storno ersichtlich, dafür günstiger als booking.com
 
