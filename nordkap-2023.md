@@ -62,6 +62,7 @@
 - Krankenkarte
 - Kreditkarte
 - Geld
+- Fahrradtickets, Fährticket
 - Handy (184g)
 - Handyladekabel
 - Handy-Kopfhörer
@@ -104,10 +105,11 @@
 
 ### Tag 1 - 27.05.
 
-| Abfahrt                      | Ankunft                     |
-| ---------------------------- | --------------------------- |
-| Erlangen, **08:18**, Gleis 1 | Hamburg, 13:24, Gleis 5     |
-| Hamburg, 14:53, Gleis 6      | Horsens, **18:50**, Gleis 2 |
+| Abfahrt                      | Ankunft                     | Infos       |
+| ---------------------------- | --------------------------- | ----------- |
+| Erlangen, **06:54**, Gleis 1 | Bamberg, 07:20, Gleis 4     | **gebucht** |
+| Bamberg, 07:42, Gleis 6      | Hamburg, 12:21, Gleis 5     | **gebucht** |
+| Hamburg, 14:53, Gleis 6      | Horsens, **18:50**, Gleis 2 | **gebucht** |
 
 ### Tag 2 - 28.05.
 
@@ -278,9 +280,8 @@
 
 | Typ | Abfahrt              | Ankunft             | Infos                      |
 | --- | -------------------- | ------------------- | -------------------------- |
-| Zug | Stockholm, **16:23** | Hamburg, 05:31      | https://www.snalltaget.se/ |
-| Zug | Hamburg, 06:34       | Erlangen, **11:36** |                            |
-| Zug | Hamburg, 08:34       | Erlangen, **13:36** |                            |
+| Zug | Stockholm, **16:23** | Berlin, 08:24       | https://www.snalltaget.se/ |
+| Zug | Berlin, 10:29        | Erlangen, **13:36** | **gebucht**                |
 
 ## Zusammenfassung
 
