@@ -95,11 +95,19 @@
 
 ### Zusätzlich
 
+- Lenkerrolle
+- Rahmentasche
+- Sattelrohrtasche
 - Rahmenschutzfolie
 - Spacer für Lenkerrolle
 - Plastiklöffel
 - Quetschbeutel
 - Datenvolumen
+
+## Hütten
+
+[Dänemark](https://udinaturen.dk/map-page?scIds=1150,1303,1153&ffId=2468)
+[Norwegen](https://www.google.com/maps/d/viewer?mid=1zqVpeAFh371N7jWLG8Gw9YMmAM-7vzPW&ll=65.40868103828358%2C17.97926260000002&z=5)
 
 ## Strecke
 
