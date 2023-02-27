@@ -6,16 +6,10 @@
 
 ## Ausrüstung
 
-### Obligatorisch
+### Fahrrad
 
 - Fahrrad
-- Bremsbelege
-- Flickzeug (21g)
-- Reifenheber (22g)
-- Gewebeband (14g)
 - Luftpumpe
-- Öl/Lappen
-- Inbusschlüssel für Sattel/Lenker/Bremsbeläge
 - Fahrradschloss
 - Fahrrad-Vorderlicht (229)
 - Fahrrad-Rücklicht (33g)
@@ -24,12 +18,24 @@
 - Lenkerrolle (250g)
 - Rahmentasche (180g)
 - Sattelrohrtasche (325g oder 350g)
+- Rahmenschutzfolie
+- Spacer für Lenkerrolle
 - Helm
 - Sonnenbrille
 - Fahrradhandschuhe
 - Fahrradschuhe
-- 2x Trikot
+- 1x Trikot
 - Kurze Radhose
+
+### Obligatorisch
+
+- Bremsbelege
+- Flickzeug (21g)
+- Reifenheber (22g)
+- Gewebeband (14g)
+- Öl/Lappen
+- Inbusschlüssel für Sattel/Lenker/Bremsbeläge
+- 1x Trikot
 - Socken
 - Regenjacke
 - Regenhose
@@ -47,7 +53,7 @@
 - 2x Zahnpasta
 - Sonnencreme
 - Deo
-- 2x Duschbad/Waschmittel
+- Biologisch-abbaubare Seife
 - Antibrumm
 - Rasierer (36g)
 - Nagelknipser (21g)
@@ -67,6 +73,7 @@
 - Handyladekabel
 - Handy-Kopfhörer
 - Schlüssel
+- Dampfsperrfolie (220 x 100)
 
 ### Wahlobligatorisch
 
@@ -82,7 +89,6 @@
 - Salz
 - Spülmittel
 - Spüllappen
-- Unterbodenfolie
 
 ### Erneuern
 
@@ -103,6 +109,7 @@
 - Plastiklöffel
 - Quetschbeutel
 - Datenvolumen
+- Biologisch-abbaubare Seife
 
 ## Hütten
 
