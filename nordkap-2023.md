@@ -98,6 +98,7 @@
 - Regenjacke
 - Regenhose
 - Fahrradhandschuhe
+- Fahrradschläuche
 
 ### Zusätzlich
 
@@ -286,17 +287,17 @@
 
 ### Tag 32 - 26.06.
 
-| Typ | Abfahrt           | Ankunft              | Infos                   |
-| --- | ----------------- | -------------------- | ----------------------- |
-| Bus | Tromsø, **10:30** | Narvik, 14:20        | https://snelandia.no/   |
-| Zug | Narvik, 15:11     | Stockholm, **09:26** | https://www.norrtag.se/ |
+| Typ | Abfahrt           | Ankunft              | Infos                 |
+| --- | ----------------- | -------------------- | --------------------- |
+| Bus | Tromsø, **10:30** | Narvik, 14:20        | https://snelandia.no/ |
+| Zug | Narvik, 15:11     | Stockholm, **09:26** | https://www.vy.se/    |
 
 ### Tag 33 - 27.06.
 
-| Typ | Abfahrt              | Ankunft             | Infos                      |
-| --- | -------------------- | ------------------- | -------------------------- |
-| Zug | Stockholm, **16:23** | Berlin, 08:24       | https://www.snalltaget.se/ |
-| Zug | Berlin, 10:29        | Erlangen, **13:36** | **gebucht**                |
+| Typ | Abfahrt              | Ankunft             | Infos                                   |
+| --- | -------------------- | ------------------- | --------------------------------------- |
+| Zug | Stockholm, **16:23** | Berlin, 08:24       | https://www.snalltaget.se/, **gebucht** |
+| Zug | Berlin, 10:29        | Erlangen, **13:36** | **gebucht**                             |
 
 ## Zusammenfassung
 
