@@ -50,6 +50,7 @@
 - Isomatte (599g, ohne Hülle 560g)
 - Seideninlett (157g)
 - Zahnbürste
+- Quetschbeutel
 - 2x Zahnpasta
 - Sonnencreme
 - Deo
@@ -89,28 +90,23 @@
 - Salz
 - Spülmittel
 - Spüllappen
+- Plastiklöffel
 
 ### Erneuern
 
 - Schaltzüge
 - Sonnenbrille
 - Helm
-- Regenjacke
 - Regenhose
-- Fahrradhandschuhe
 - Fahrradschläuche
 
 ### Zusätzlich
 
-- Lenkerrolle
-- Rahmentasche
-- Sattelrohrtasche
 - Rahmenschutzfolie
 - Spacer für Lenkerrolle
-- Plastiklöffel
-- Quetschbeutel
 - Datenvolumen
-- Biologisch-abbaubare Seife
+- Flaschenhalter seitlich
+- Aluprofile
 
 ## Hütten
 
