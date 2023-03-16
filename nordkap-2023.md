@@ -283,17 +283,23 @@
 
 ### Tag 32 - 26.06.
 
-| Typ | Abfahrt           | Ankunft              | Infos                 |
-| --- | ----------------- | -------------------- | --------------------- |
-| Bus | Tromsø, **10:30** | Narvik, 14:20        | https://snelandia.no/ |
-| Zug | Narvik, 15:11     | Stockholm, **09:26** | https://www.vy.se/    |
+| Typ | Abfahrt           | Ankunft              | Infos                           |
+| --- | ----------------- | -------------------- | ------------------------------- |
+| Bus | Tromsø, **10:30** | Narvik, 14:20        | https://snelandia.no/           |
+| Zug | Narvik, 15:11     | Stockholm, **09:26** | https://www.vy.se/, **gebucht** |
 
 ### Tag 33 - 27.06.
 
 | Typ | Abfahrt              | Ankunft             | Infos                                   |
 | --- | -------------------- | ------------------- | --------------------------------------- |
 | Zug | Stockholm, **16:23** | Berlin, 08:24       | https://www.snalltaget.se/, **gebucht** |
-| Zug | Berlin, 10:29        | Erlangen, **13:36** | **gebucht**                             |
+
+
+### Tag 34 - 28.06.
+
+| Typ | Abfahrt       | Ankunft             | Infos       |
+| --- | ------------- | ------------------- | ----------- |
+| Zug | Berlin, 10:29 | Erlangen, **13:36** | **gebucht** |
 
 ## Zusammenfassung
 
@@ -306,25 +312,3 @@
 | **Gesamt** |             | 2720,3  |
 
 Fahrzeit: 24,5d (111,0 km/d)
-
-## Notizen
-
-### Tag 3 - 31.05.
-
-[Stavanger - Lauvik](http://brouter.de/brouter-web/#map=11/58.9236/6.0693/osm-mapnik-german_style&lonlats=6.055269,58.894404;5.740099,58.971786)
-39,8 km / 205 Hm
-
-[Oanes - Hjelmeland](http://brouter.de/brouter-web/#map=10/58.9907/6.0768/osm-mapnik-german_style&lonlats=6.075439,58.905976;5.927124,59.047787;6.165605,59.23424)
-77,1 km / 1199 Hm
-
-[Skipavik - Eidssund](http://brouter.de/brouter-web/#map=11/59.2692/6.1585/osm-mapnik-german_style&lonlats=6.095138,59.25318;5.93854,59.235272)
-13 km / 337 Hm
-
-[Nedstrand - Buavåg](http://brouter.de/brouter-web/#map=11/59.4986/5.3483/osm-mapnik-german_style&lonlats=5.857601,59.34527;5.267687,59.413295;5.318456,59.59812)
-80,6 km / 0 Hm
-
-[Hovlandsvegen - Sandvikvåg](http://brouter.de/brouter-web/#map=11/59.6071/5.2810/osm-mapnik-german_style&lonlats=5.236444,59.607999;5.335836,59.89688;5.333701,59.968464)
-75,2 km / 0 Hm
-
-[Halhjem - Bergen](http://brouter.de/brouter-web/#map=12/60.2005/5.4544/osm-mapnik-german_style&lonlats=5.426517,60.145714;5.358925,60.257147;5.332747,60.390558)
-39,9 km / 0 Hm
