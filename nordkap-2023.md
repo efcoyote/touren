@@ -15,9 +15,10 @@
 - Fahrrad-Rücklicht (33g)
 - Fahrradcomputer (40g)
 - Fahrradtrinkflasche
-- Lenkerrolle (250g)
+- Lenkerrolle (275g)
 - Rahmentasche (180g)
-- Sattelrohrtasche (325g oder 350g)
+- Sattelrohrtasche (425g)
+- Oberrohrtasche (90g)
 - Rahmenschutzfolie
 - Spacer für Lenkerrolle
 - Helm
@@ -34,7 +35,8 @@
 - Reifenheber (22g)
 - Gewebeband (14g)
 - Öl/Lappen
-- Inbusschlüssel für Sattel/Lenker/Bremsbeläge
+- Latexhandschuhe
+- Inbusschlüssel für Sattel (Torx) / Lenker (4+5) / Bremsbeläge (3) / Pedale (6)
 - 1x Trikot
 - Socken
 - Regenjacke
@@ -43,12 +45,13 @@
 - Tights (153g)
 - Unterhosen
 - T-Shirt
-- Fleecejacke (316g)
+- Fleecekaputzenpullover (461g)
 - Handtuch (77g)
 - Zelt (930g, ohne Hülle 880g)
 - Schlafsack (1335g, ohne Hülle 1180g)
 - Isomatte (599g, ohne Hülle 560g)
 - Seideninlett (157g)
+- Dampfsperrfolie (220 x 100)
 - Zahnbürste
 - Quetschbeutel
 - 2x Zahnpasta
@@ -74,15 +77,9 @@
 - Handyladekabel
 - Handy-Kopfhörer
 - Schlüssel
-- Dampfsperrfolie (220 x 100)
-
-### Wahlobligatorisch
-
 - Flip-Flops (127g)
-- Fleecekaputzenpullover (461g)
 - Badehose
 - Topf
-- Faltkanister
 - Kocher
 - Benzinflasche
 - Feuerzeug
@@ -91,26 +88,25 @@
 - Spülmittel
 - Spüllappen
 - Plastiklöffel
+- Faltrucksack (Sea to Summit - Ultra-Sil Nano Daypack)
 
-### Erneuern
+### Ausstehend
 
 - Schaltzüge
 - Sonnenbrille
 - Helm
 - Regenhose
 - Fahrradschläuche
+- Aluprofil
 
-### Zusätzlich
+### Wahlobligatorisch
 
-- Rahmenschutzfolie
-- Spacer für Lenkerrolle
-- Datenvolumen
-- Flaschenhalter seitlich
-- Aluprofile
+- Faltkanister
+- Minischaufel (Vargo Dig Dig Tool)
 
 ## Hütten
 
-[Dänemark](https://udinaturen.dk/map-page?scIds=1150,1303,1153&ffId=2468)
+[Dänemark](https://udinaturen.dk/map-page?scIds=1150,1303,1153&ffId=2468)  
 [Norwegen](https://www.google.com/maps/d/viewer?mid=1zqVpeAFh371N7jWLG8Gw9YMmAM-7vzPW&ll=65.40868103828358%2C17.97926260000002&z=5)
 
 ## Strecke
