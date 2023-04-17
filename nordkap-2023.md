@@ -25,7 +25,7 @@
 - Sonnenbrille
 - Fahrradhandschuhe
 - Fahrradschuhe
-- 1x Trikot
+- 1 x Trikot
 - Kurze Radhose
 
 ### Obligatorisch
@@ -36,8 +36,8 @@
 - Gewebeband (14g)
 - Öl/Lappen
 - Latexhandschuhe
-- Inbusschlüssel für Sattel (Torx) / Lenker (4+5) / Bremsbeläge (3) / Pedale (6)
-- 1x Trikot
+- Inbusschlüssel für Sattel (Torx 25 + Verbinder) / Lenker (4+5) / Bremsbeläge (3) / Pedale (6)
+- 1 x Trikot
 - Socken
 - Regenjacke
 - Regenhose
@@ -54,7 +54,7 @@
 - Dampfsperrfolie (220 x 100)
 - Zahnbürste
 - Quetschbeutel
-- 2x Zahnpasta
+- 2 x Zahnpasta
 - Sonnencreme
 - Deo
 - Biologisch-abbaubare Seife
@@ -101,6 +101,7 @@
 
 ### Wahlobligatorisch
 
+- Langfinger-Handschuhe
 - Faltkanister
 - Minischaufel (Vargo Dig Dig Tool)
 
@@ -142,56 +143,56 @@
 ### Tag 6 - 01.05.
 
 [Bergen - Leirvåg](http://brouter.de/brouter-web/#map=12/60.3724/5.3150/osm-mapnik-german_style&lonlats=5.332553,60.390536;5.2826,60.445271;5.004959,60.814455)
-88,3 km / 0 Hm
+88,3 km / 1020 Hm
 
 [Sløvålg - Rutledal](http://brouter.de/brouter-web/#map=12/60.8740/5.0523/osm-mapnik-german_style&lonlats=5.063925,60.856784;5.182457,61.002246;5.035858,61.000069;5.189345,61.074304)
-64,6 km / 0 Hm
+64,6 km / 1020 Hm
 
 ### Tag 7 - 02.06.
 
 [Rysjedal - Fure](http://brouter.de/brouter-web/#map=10/61.2118/5.0784/osm-mapnik-german_style&lonlats=5.283587,61.114163;5.07225,61.242808;5.085511,61.29808)
-49 km / 0 Hm
+49 km / 580 Hm
 
 ### Tag 8 - 03.06.
 
 [Askvoll - Flora](http://brouter.de/brouter-web/#map=11/61.4642/5.3222/osm-mapnik-german_style&lonlats=5.064182,61.345251;5.027189,61.601192)
-130,7 km / 0 Hm
+130,7 km / 2800 Hm
 
 [Smørhamn - Oldeide](http://brouter.de/brouter-web/#map=11/61.8096/5.0043/osm-mapnik-german_style&lonlats=4.947227,61.779257;5.078173,61.879339)
-21,4 km / 0 Hm
+21,4 km / 390 Hm
 
 ### Tag 9 - 04.06.
 
 [Måløy - Koparnes](http://brouter.de/brouter-web/#map=13/61.9402/5.1571/osm-mapnik-german_style&lonlats=5.118771,61.938225;5.64369,62.16976)
-84,6 km / 0 Hm
+84,6 km / 1830 Hm
 
 [Årvika - Hareid](http://brouter.de/brouter-web/#map=11/62.2860/5.8324/osm-mapnik-german_style&lonlats=5.634345,62.19146;5.576355,62.216298;6.031076,62.370136)
-45 km / 0 Hm
+45 km / 880 Hm
 
 ### Tag 10 - 05.06.
 
 [Sulesund - Ålesund](http://brouter.de/brouter-web/#map=12/62.4672/6.1753/osm-mapnik-german_style&lonlats=6.164446,62.395023;6.263838,62.461286;6.183629,62.470444;6.154811,62.474977&profile=fastbike)
-28,1 km / 0 Hm
+28,1 km / 370 Hm
 
 [Hamnsund - Brattvåg](http://brouter.de/brouter-web/#map=14/62.5281/6.2976/osm-mapnik-german_style&lonlats=6.268044,62.533762;6.448631,62.607896)
-19,5 km / 0 Hm
+19,5 km / 200 Hm
 
 [Dryna - Solholmen](http://brouter.de/brouter-web/#map=15/62.7180/6.9378/osm-mapnik-german_style&lonlats=6.523004,62.639707;6.619391,62.687891;6.635056,62.689879;6.937866,62.719419)
-34,9 km / 0 Hm
+34,9 km / 640 Hm
 
 ### Tag 11 - 06.06.
 
 [Mordalsvågen - Bremsnes](http://brouter.de/brouter-web/#map=15/62.7289/7.0089/osm-mapnik-german_style&lonlats=6.986017,62.728958;6.914949,62.907436;7.407918,62.972877;7.716007,62.999534;7.636743,63.091787;7.631893,63.108058)
-133,7 km / 0 Hm
+133,7 km / 1120 Hm
 
 [Kristiansund - Seivikveien](http://brouter.de/brouter-web/#map=18/63.11196/7.87148/osm-mapnik-german_style&lonlats=7.726929,63.12529;7.870224,63.111853&profile=fastbike)
-9,2 km / 0 Hm
+9,2 km / 130 Hm
 
 ### Tag 12 - 07.06.
 ### Tag 13 - 08.06.
 
 [Tømmervåg - Trondheim](http://brouter.de/brouter-web/#map=10/63.3210/10.2159/osm-mapnik-german_style&lonlats=7.955132,63.15327;8.76709,63.421531;9.748049,63.277892;10.388517,63.400554;10.391929,63.412187;10.400963,63.429526;10.400963,63.438989&profile=fastbike)
-205,2 km / 272 Hm
+205,2 km / 3110 Hm
 
 ### Tag 14 - 09.06.
 ### Tag 15 - 10.06.
@@ -299,12 +300,12 @@
 
 ## Zusammenfassung
 
-| Start      | Ziel        | Strecke |
-| ---------- | ----------- | ------- |
-| Stavanger  | Bergen      | 325,6   |
-| Bergen     | Trondheim   | 914,2   |
-| Trondheim  | Nordkap     | 1771,5  |
-| Nordkap    | Honningsvåg | 34,6    |
-| **Gesamt** |             | 2720,3  |
+| Start      | Ziel        | Strecke | Höhenmeter |
+| ---------- | ----------- | ------- | ---------- |
+| Horsens    | Hirtshals   |   249,8 |        770 |
+| Bergen     | Trondheim   |   914,2 |     14.090 |
+| Trondheim  | Nordkap     | 1.771,5 |     11.881 |
+| Nordkap    | Honningsvåg |    34,6 |        397 |
+| **Gesamt** |             | 2.720,3 |     27.138 |
 
 Fahrzeit: 24,5d (111,0 km/d)
