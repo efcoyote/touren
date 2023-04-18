@@ -273,17 +273,20 @@
 
 ### Tag 31 - 25.06.
 
-| Typ | Abfahrt                | Ankunft           | Infos                 |
-| --- | ---------------------- | ----------------- | --------------------- |
-| Bus | Honningsvåg, **09:20** | Alta, 13:12       | https://snelandia.no/ |
-| Bus | Alta, 14:15            | Tromsø, **21:00** | https://snelandia.no/ |
+| Typ   | Abfahrt                                                 | Ankunft                                                 | Infos                                    |
+| ----- | ------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------- |
+| Bus   | Honningsvåg, **06:55**                                  | Alta sentrum, 10:37                                     | Linie **62**, https://snelandia.no/      |
+| Bus   | Alta sentrum, 10:55                                     | Olderdalen ferjekai (Gáivuotna-Kåfjord-Kaivuono), 14:55 | Linie **150**, https://snelandia.no/     |
+| Fähre | Olderdalen ferjekai (Gáivuotna-Kåfjord-Kaivuono), 15:10 | Lyngseidet ferjekai (Lyngen), 15:45                     | Linie **190**, https://snelandia.no/     |
+| Bus   | Lyngseidet ferjekai (Lyngen), 15:50                     | Nordkjosbotn (Balsfjord), 16:57                         | Linie **460**, https://snelandia.no/     |
+| Bus   | Nordkjosbotn (Balsfjord), 17:05                         | Narvik bussterminal (Narvik), **19:50**                 | Linie **100**, https://fylkestrafikk.no/ |
 
 ### Tag 32 - 26.06.
 
-| Typ | Abfahrt           | Ankunft              | Infos                           |
-| --- | ----------------- | -------------------- | ------------------------------- |
-| Bus | Tromsø, **10:30** | Narvik, 14:20        | https://snelandia.no/           |
-| Zug | Narvik, 15:11     | Stockholm, **09:26** | https://www.vy.se/, **gebucht** |
+| Typ | Abfahrt                             | Ankunft              | Infos                           |
+| --- | ----------------------------------- | -------------------- | ------------------------------- |
+| Bus | Nordkjosbotn (Balsfjord), **07:25** | Narvik, 10:10        | https://fylkestrafikk.no/       |
+| Zug | Narvik, 15:11                       | Stockholm, **09:26** | https://www.vy.se/, **gebucht** |
 
 ### Tag 33 - 27.06.
 
