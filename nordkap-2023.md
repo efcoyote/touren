@@ -83,11 +83,9 @@
 - Kocher
 - Benzinflasche
 - Feuerzeug
-- Löffel
-- Salz
-- Spülmittel
-- Spüllappen
 - Plastiklöffel
+- Salz
+- Spüllappen
 - Faltrucksack (Sea to Summit - Ultra-Sil Nano Daypack)
 
 ### Ausstehend
