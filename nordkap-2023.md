@@ -37,6 +37,7 @@
 - Öl/Lappen
 - Latexhandschuhe
 - Inbusschlüssel für Sattel (Torx 25 + Verbinder) / Lenker (4+5) / Bremsbeläge (3) / Pedale (6)
+- Schmierfett
 - 1 x Trikot
 - Socken
 - Regenjacke
@@ -85,8 +86,9 @@
 - Feuerzeug
 - Plastiklöffel
 - Salz
+- Teebeutel
 - Spüllappen
-- Faltrucksack (Sea to Summit - Ultra-Sil Nano Daypack)
+- Faltrucksack
 
 ### Ausstehend
 
@@ -94,6 +96,10 @@
 - Bremsbelege
 - Mäntel
 - Fahrradschläuche
+- Lenker anschrägen
+- Fahrradcomputerbatterie
+- Rücklichtbefestigung
+- Quetschbeutel
 - Sonnenbrille
 - Helm
 - Regenhose
@@ -101,6 +107,7 @@
 ### Wahlobligatorisch
 
 - Langfinger-Handschuhe
+- Powerbank + Ladekabel
 - Minischaufel (Vargo Dig Dig Tool)
 
 ## Hütten
@@ -271,15 +278,15 @@ siehe Tag 20
 
 ### Tag 26 - 21.06. (Mittwoch)
 
-siehe Tag 20
+siehe Tag 25
 
 ### Tag 28 - 22.06. (Donnerstag)
 
-siehe Tag 20
+siehe Tag 25
 
 ### Tag 29 - 23.06. (Freitag)
 
-siehe Tag 20
+siehe Tag 25
 
 ### Tag 30 - 24.06. (Samstag)
 
