@@ -19,7 +19,6 @@
 - Rahmentasche (180g)
 - Sattelrohrtasche (425g)
 - Oberrohrtasche (90g)
-- Rahmenschutzfolie
 - Spacer für Lenkerrolle
 - Helm
 - Sonnenbrille
@@ -30,14 +29,15 @@
 
 ### Obligatorisch
 
-- Bremsbelege
+- Bremsbelege (25g)
 - Flickzeug (21g)
 - Reifenheber (22g)
 - Gewebeband (14g)
-- Öl/Lappen
-- Latexhandschuhe
-- Inbusschlüssel für Sattel (Torx 25 + Verbinder) / Lenker (4+5) / Bremsbeläge (3) / Pedale (6)
-- Schmierfett
+- Öl/Lappen (97g)
+- Fahrradlappen (34g)
+- Latexhandschuhe (19g)
+- Inbusschlüssel für Sattel (Torx 25 + Verbinder) / Lenker (4+5) / Bremsbeläge (3) / Pedale (6) (101g)
+- Schmierfett (7g)
 - 1 x Trikot
 - Socken
 - Regenjacke
@@ -54,12 +54,11 @@
 - Seideninlett (157g)
 - Dampfsperrfolie (220 x 100)
 - Zahnbürste
-- Quetschbeutel
 - 2 x Zahnpasta
 - Sonnencreme
 - Deo
-- Biologisch-abbaubare Seife
-- Antibrumm
+- Biologisch-abbaubare Seife (Quetschbeutel)
+- Antibrumm (Quetschbeutel)
 - Rasierer (36g)
 - Nagelknipser (21g)
 - Ohropax
@@ -67,7 +66,7 @@
 - Toilettenpapier
 - Waschtasche (39g)
 - Taschenmesser (94g)
-- Müllbeutel
+- Müllbeutel (18g)
 - Portemonnaie
 - Personalausweis
 - Krankenkarte
@@ -79,33 +78,22 @@
 - Handy-Kopfhörer
 - Schlüssel
 - Flip-Flops (127g)
-- Badehose
-- Topf
-- Kocher
-- Benzinflasche
-- Feuerzeug
-- Plastiklöffel
-- Salz
+- Topf (289g)
+- Kocher (572g)
+- Benzinpumpe (106g)
+- Benzinflasche (512g)
+- Feuerzeug (23g)
+- Plastiklöffel (12g)
+- Salz (Quetschbeutel)
 - Teebeutel
-- Spüllappen
-- Faltrucksack
-
-### Ausstehend
-
-- Schaltzüge
-- Bremsbelege
-- Mäntel
-- Fahrradschläuche
-- Lenker anschrägen
-- Fahrradcomputerbatterie
-- Rücklichtbefestigung
-- Quetschbeutel
-- Sonnenbrille
-- Helm
-- Regenhose
+- Spüllappen (6g)
+- Reinigungslappen (6g)
+- Faltrucksack (29g)
+- Telefon-PIN
 
 ### Wahlobligatorisch
 
+- Badehose
 - Langfinger-Handschuhe
 - Powerbank + Ladekabel
 - Minischaufel (Vargo Dig Dig Tool)
