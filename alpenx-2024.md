@@ -4,7 +4,7 @@
 
 ## Übersicht
 
-![Übersichtskarte]()
+![Übersichtskarte](alpenx-2024-gesamt.jpg)
 
 ## Donnerstag 20.06.2024
 
