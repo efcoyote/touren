@@ -69,7 +69,8 @@ Es gibt in der Gegend viele Seen und man müsste ggf. vom See noch nach Villach 
 
 | Abfahrt | Ankunft |
 | ------- | ------- |
-| Klagenfurth, **10:27**, Gleis 3 | München, 15:41, Gleis ? |
+| Klagenfurth, **10:42**, Gleis 3 
+| Villach **11:16**, Gleis 4 | München, 15:41, Gleis ? |
 | München, 16:55, Gleis ? | Nürnberg, **18:04**, Gleis 6 |
 | | Erlangen, **18:18**, Gleis 1 |
 | | Erfurt, **19:26** |
