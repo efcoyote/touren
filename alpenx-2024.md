@@ -24,7 +24,7 @@ Freilassing - **Hirschbichl (1183 m)** - Zeller See
 [Tag 1, 97 km, 1435 Hm](http://brouter.de/brouter-web/#map=14/47.3976/12.8514/osm-mapnik-german_style&lonlats=12.977192,47.836234;12.901812,47.753218;12.879581,47.729771;12.874904,47.723736;12.874593,47.718128;12.89796,47.720127;12.901329,47.719275;13.001171,47.629899;12.770834,47.50594;12.847738,47.427114;12.853832,47.397649;12.815552,47.315436)
 
 ### Übernachtung
-
+* Verantwortlich: Sören
 
 ## Freitag 21.06.2024
 
@@ -35,7 +35,11 @@ Zeller See - **Großglockner-Hochalpenstraße (2504 m)** - **Iselsbergpass (1204
 [Tag 2, 92 km, 2390 Hm](http://brouter.de/brouter-web/#map=9/47.0675/12.7414/osm-mapnik-german_style&lonlats=12.816195,47.32635;12.768259,46.829605&profile=fastbike)
 
 ### Übernachtung
-
+*[Hotel Sonne Lienz](https://www.booking.com/hotel/at/best-western-sonne.de.html)
+* Südtiroler Platz 8, 9900 Lienz
+* Verantwortlich: Torsten
+* 2 DZ, 1 EZ
+* Ü/F
 
 ## Samstag 22.06.2024
 
@@ -46,14 +50,18 @@ Lienz - **Gailbergsattel (982 m)** - **Plöckenpass (1357 m)** - Tolmezzo
 [Tag 3, 84 km, 1196 Hm](http://brouter.de/brouter-web/#map=10/46.5972/13.0030/osm-mapnik-german_style&lonlats=12.770576,46.829429;12.945671,46.595395;13.010366,46.406128;13.014894,46.402489)  
 
 ### Übernachtung
-
+* [Albergo Roma](https://www.booking.com/hotel/it/albergo-roma-tolmezzo.de.html)
+* Piazza XX Settembre 14, 33028 Tolmezzo
+* Verantwortlich: Jan
+* 2 DZ, 1 EZ
+* Ü/F
 
 ## Sonntag 23.06.2024
 
 Tolmezzo - Villach
 
 ### Übernachtung
-
+* Verantwortlich: Eni
 
 ### Route
 
