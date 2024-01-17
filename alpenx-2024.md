@@ -35,7 +35,7 @@ Zeller See - **Großglockner-Hochalpenstraße (2504 m)** - **Iselsbergpass (1204
 [Tag 2, 92 km, 2390 Hm](http://brouter.de/brouter-web/#map=9/47.0675/12.7414/osm-mapnik-german_style&lonlats=12.816195,47.32635;12.768259,46.829605&profile=fastbike)
 
 ### Übernachtung
-*[Hotel Sonne Lienz](https://www.booking.com/hotel/at/best-western-sonne.de.html)
+* [Hotel Sonne Lienz](https://www.booking.com/hotel/at/best-western-sonne.de.html)
 * Südtiroler Platz 8, 9900 Lienz
 * Verantwortlich: Torsten
 * 2 DZ, 1 EZ
