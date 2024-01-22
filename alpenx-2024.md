@@ -24,7 +24,10 @@ Freilassing - **Hirschbichl (1183 m)** - Zeller See
 [Tag 1, 97 km, 1435 Hm](http://brouter.de/brouter-web/#map=14/47.3976/12.8514/osm-mapnik-german_style&lonlats=12.977192,47.836234;12.901812,47.753218;12.879581,47.729771;12.874904,47.723736;12.874593,47.718128;12.89796,47.720127;12.901329,47.719275;13.001171,47.629899;12.770834,47.50594;12.847738,47.427114;12.853832,47.397649;12.815552,47.315436)
 
 ### Übernachtung
+* [Hotel Traube](https://hotel-traube.name)
+* Seegasse 4, Zell am See
 * Verantwortlich: Sören
+* 2 DZ, 1 EZ
 
 ## Freitag 21.06.2024
 
@@ -61,6 +64,8 @@ Lienz - **Gailbergsattel (982 m)** - **Plöckenpass (1357 m)** - Tolmezzo
 Tolmezzo - Villach
 
 ### Übernachtung
+* [Seepension Smoley](https://www.smoley.at)
+* Peter-Melcher-Straße 15, 9524 St. Magdalen
 * Verantwortlich: Eni
 
 ### Route
