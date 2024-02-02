@@ -26,6 +26,7 @@
 - Fahrradschuhe
 - 1 x Trikot
 - Kurze Radhose
+- 1 x Radunterhose
 
 ### Obligatorisch
 
@@ -39,6 +40,7 @@
 - Inbusschlüssel für Sattel (Torx 25 + Verbinder) / Lenker (4+5) / Bremsbeläge (3) / Pedale (6) (101g)
 - Schmierfett (7g)
 - 1 x Trikot
+- 1 x Radunterhose
 - Socken
 - Regenjacke
 - Regenhose
