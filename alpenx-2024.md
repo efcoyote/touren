@@ -46,22 +46,22 @@ Zeller See - **Großglockner-Hochalpenstraße (2504 m)** - **Iselsbergpass (1204
 
 ## Samstag 22.06.2024
 
-Lienz - **Gailbergsattel (982 m)** - **Plöckenpass (1357 m)** - Tolmezzo
+Lienz - **Gailbergsattel (982 m)** - **Nassfeldpass (1530 m)** - Pontebbba
 
 ### Route
 
-[Tag 3, 84 km, 1196 Hm](http://brouter.de/brouter-web/#map=10/46.5972/13.0030/osm-mapnik-german_style&lonlats=12.770576,46.829429;12.945671,46.595395;13.010366,46.406128;13.014894,46.402489)  
+[Tag 3, 84 km, 1390 Hm](https://www.google.com/maps/place/B%26B+Ta+Famee/@46.507977,13.308466,17z/data=!3m1!4b1!4m9!3m8!1s0x477a11dc6a673001:0x7c449c3b1c3f0a05!5m2!4m1!1i2!8m2!3d46.507977!4d13.308466!16s%2Fg%2F11g__mlsm?entry=ttu)  
 
 ### Übernachtung
-* [Albergo Roma](https://www.booking.com/hotel/it/albergo-roma-tolmezzo.de.html)
-* Piazza XX Settembre 14, 33028 Tolmezzo
-* Verantwortlich: Jan
-* 2 DZ, 1 EZ
+* [B&B Ta Famee](https://www.booking.com/hotel/it/albergo-roma-tolmezzo.de.html)
+* Via della Chiesa, 22, 33016 Pontebba UD, Italien.  +39 340 562 1350
+* Verantwortlich: Jürgen
+* 3 Zimmer, 2 Bäder
 * Ü/F
 
 ## Sonntag 23.06.2024
 
-Tolmezzo - Villach
+Pontebbba - Villach
 
 ### Übernachtung
 * [Seepension Smoley](https://www.smoley.at)
@@ -70,7 +70,7 @@ Tolmezzo - Villach
 
 ### Route
 
-[Tag 4, 97 km, 928 Hm](http://brouter.de/brouter-web/#map=10/46.5659/13.4150/osm-mapnik-german_style&lonlats=13.014894,46.402489;13.800373,46.559801;13.819835,46.572316;13.827281,46.585545;13.833611,46.598609;13.850584,46.618288)
+[Tag 4, 93 km, 1260 Hm](https://www.komoot.com/de-de/tour/1629802362?share_token=arGNfXpIgzfSQtMRcjkbr39ykAuyYBnFZOXR82hmv4NzgA4ULj&ref=)
 
 ## Montag 24.06.2024
 
@@ -94,6 +94,6 @@ Es gibt in der Gegend viele Seen und man müsste ggf. vom See noch nach Villach 
 | --- | ------------------------ | ---------- | ---------- |
 | 1   | Freilassing - Zeller See | 97         | 1435       |
 | 2   | Zeller See - Lienz       | 92         | 2390       |
-| 3   | Lienz - Tolmezzo         | 84         | 1196       |
-| 4   | Tolmezzo - Villach       | 97         | 928        |
-|     |                          | **370**    | **5949**   |
+| 3   | Lienz - Pontebbba        | 84         | 1390       |
+| 4   | Pontebbba - Villach      | 93         | 1260       |
+|     |                          | **366**    | **6475**   |
