@@ -5,6 +5,7 @@
 ## Übersicht
 
 ![Übersichtskarte](alpenx-2024-gesamt.jpg)
+[Komoot Collection von Jürgen](https://www.komoot.com/de-de/collection/2814665/-24-gk-rr)
 
 ## Donnerstag 20.06.2024
 
@@ -19,9 +20,9 @@ Freilassing - **Hirschbichl (1183 m)** - Zeller See
 | Nürnberg, **08:12**, Gleis 8 | München Hbf, 9:17 |
 | München Hbf, 09:55 | Freilassing, **11:33**, Gleis 2 |
 
-### Route
-
-[Tag 1, 97 km, 1435 Hm](http://brouter.de/brouter-web/#map=14/47.3976/12.8514/osm-mapnik-german_style&lonlats=12.977192,47.836234;12.901812,47.753218;12.879581,47.729771;12.874904,47.723736;12.874593,47.718128;12.89796,47.720127;12.901329,47.719275;13.001171,47.629899;12.770834,47.50594;12.847738,47.427114;12.853832,47.397649;12.815552,47.315436)
+### Route Tag 1, 97 km, 1435 Hm
+[Brouter](http://brouter.de/brouter-web/#map=14/47.3976/12.8514/osm-mapnik-german_style&lonlats=12.977192,47.836234;12.901812,47.753218;12.879581,47.729771;12.874904,47.723736;12.874593,47.718128;12.89796,47.720127;12.901329,47.719275;13.001171,47.629899;12.770834,47.50594;12.847738,47.427114;12.853832,47.397649;12.815552,47.315436)
+[Komoot](https://www.komoot.com/de-de/tour/1627508399)
 
 ### Übernachtung
 * [Hotel Traube](https://hotel-traube.name)
@@ -33,9 +34,10 @@ Freilassing - **Hirschbichl (1183 m)** - Zeller See
 
 Zeller See - **Großglockner-Hochalpenstraße (2504 m)** - **Iselsbergpass (1204 m)** - Lienz
 
-### Route
+### Route Tag 2, 92 km, 2390 Hm
 
-[Tag 2, 92 km, 2390 Hm](http://brouter.de/brouter-web/#map=9/47.0675/12.7414/osm-mapnik-german_style&lonlats=12.816195,47.32635;12.768259,46.829605&profile=fastbike)
+[Brouter](http://brouter.de/brouter-web/#map=9/47.0675/12.7414/osm-mapnik-german_style&lonlats=12.816195,47.32635;12.768259,46.829605&profile=fastbike)
+[Komoot](https://www.komoot.com/de-de/tour/1627521004)
 
 ### Übernachtung
 * [Hotel Sonne Lienz](https://www.booking.com/hotel/at/best-western-sonne.de.html)
@@ -48,12 +50,12 @@ Zeller See - **Großglockner-Hochalpenstraße (2504 m)** - **Iselsbergpass (1204
 
 Lienz - **Gailbergsattel (982 m)** - **Nassfeldpass (1530 m)** - Pontebbba
 
-### Route
+### Route Tag 3, 84 km, 1390 Hm
 
-[Tag 3, 84 km, 1390 Hm](https://www.google.com/maps/place/B%26B+Ta+Famee/@46.507977,13.308466,17z/data=!3m1!4b1!4m9!3m8!1s0x477a11dc6a673001:0x7c449c3b1c3f0a05!5m2!4m1!1i2!8m2!3d46.507977!4d13.308466!16s%2Fg%2F11g__mlsm?entry=ttu)  
+[Komoot](https://www.komoot.com/de-de/tour/1629402087)  
 
 ### Übernachtung
-* [B&B Ta Famee](https://www.booking.com/hotel/it/albergo-roma-tolmezzo.de.html)
+* [B&B Ta Famee](https://www.google.com/maps/place/B%26B+Ta+Famee/@46.5079807,13.3058911,17z/data=!3m1!4b1!4m9!3m8!1s0x477a11dc6a673001:0x7c449c3b1c3f0a05!5m2!4m1!1i2!8m2!3d46.507977!4d13.308466!16s%2Fg%2F11g__mlsm?entry=ttu)
 * Via della Chiesa, 22, 33016 Pontebba UD, Italien.  +39 340 562 1350
 * Verantwortlich: Jürgen
 * 3 Zimmer, 2 Bäder
@@ -68,9 +70,9 @@ Pontebbba - Villach
 * Peter-Melcher-Straße 15, 9524 St. Magdalen
 * Verantwortlich: Eni
 
-### Route
+### Route Tag 4, 93 km, 1260 Hm
 
-[Tag 4, 93 km, 1260 Hm](https://www.komoot.com/de-de/tour/1629802362?share_token=arGNfXpIgzfSQtMRcjkbr39ykAuyYBnFZOXR82hmv4NzgA4ULj&ref=)
+[Komoot](https://www.komoot.com/de-de/tour/1629442134)
 
 ## Montag 24.06.2024
 
@@ -94,6 +96,6 @@ Es gibt in der Gegend viele Seen und man müsste ggf. vom See noch nach Villach 
 | --- | ------------------------ | ---------- | ---------- |
 | 1   | Freilassing - Zeller See | 97         | 1435       |
 | 2   | Zeller See - Lienz       | 92         | 2390       |
-| 3   | Lienz - Pontebbba        | 84         | 1390       |
-| 4   | Pontebbba - Villach      | 93         | 1260       |
-|     |                          | **366**    | **6475**   |
+| 3   | Lienz - Pontebbba        | 84         | 1530       |
+| 4   | Pontebbba - Villach      | 84         | 1150       |
+|     |                          | **357**    | **6505**   |
