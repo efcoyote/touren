@@ -39,6 +39,7 @@ Zeller See - **Großglockner-Hochalpenstraße (2504 m)** - **Iselsbergpass (1204
 [Brouter](http://brouter.de/brouter-web/#map=9/47.0675/12.7414/osm-mapnik-german_style&lonlats=12.816195,47.32635;12.768259,46.829605&profile=fastbike)
 [Komoot](https://www.komoot.com/de-de/tour/1627521004)
 
+[Alternative inkl. Edelweißspitze und Kaiser-Franz-Josef-Höhe, 110 km, 3040 Hm](https://www.komoot.com/de-de/tour/1656392893?share_token=a607Duy3Y2rmsaMk3bqzyuR8U8v48i0zW0UWnpou3TCTiJnLEz&ref)
 ### Übernachtung
 * [Hotel Sonne Lienz](https://www.booking.com/hotel/at/best-western-sonne.de.html)
 * Südtiroler Platz 8, 9900 Lienz
