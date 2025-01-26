@@ -57,7 +57,7 @@ Cinuos-chel - Grüsch
 - [Hotel Grüsch](https://www.hotelgruesch.ch)
 - Verantwortlich: Jürgen
 - Salätschisstrasse 22, 7214 Grüsch
-- inkl. Früstück 500 €
+- inkl. Früstück 462 €
 - 4 Doppelzimmer
 
 ## Sonntag, 29. Juni
