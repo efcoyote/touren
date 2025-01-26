@@ -18,7 +18,7 @@ Landeck - Stilfs
 
 ### Übernachtung
 
-- [Hotel Traube Stelvio](https://www.booking.com/hotel/it/restaurant-traube.de.html?label=stelvio-E*QFYFf0iNyPAIwzi5XnyAS221420629379%3Apl%3Ata%3Ap15%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-4231558161%3Alp9042729%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YUNMGHk8cZwooeZEiCfXj4k&sid=2baab6808f4afa254a96d0424566bebf&aid=301584)
+- [Hotel Traube Stelvio](https://www.hoteltraube.it/)
 - Verantwortlich: Torsten
 - Dorfstraße / Via del Paese 12, 39029 Stilfs
 - inkl. Frühstück + Gebühren € 582,40
@@ -57,6 +57,8 @@ Cinuos-chel - Grüsch
 - [Hotel Grüsch](https://www.hotelgruesch.ch)
 - Verantwortlich: Jürgen
 - Salätschisstrasse 22, 7214 Grüsch
+- inkl. Früstück 500 €
+- 4 Doppelzimmer
 
 ## Sonntag, 29. Juni
 
