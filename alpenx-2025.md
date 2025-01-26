@@ -6,7 +6,8 @@
 
 ## Donnerstag, 26. Juni
 
-Landeck - Stilfs
+Landeck - Stilfs  
+*Via Claudia Agusta - Norbertshöhe - Reschenpass - Südtirol*
 
 ### Anreise
 
@@ -28,7 +29,8 @@ Landeck - Stilfs
 
 ## Freitag, 27. Juni
 
-Stilfs - Cinuos-chel
+Stilfs - Cinuos-chel  
+*Stilfserjoch - Umbrailpass - Ofenpass - Ova Spin - Engadin*
 
 ### Route
 
@@ -46,7 +48,8 @@ Stilfs - Cinuos-chel
 
 ## Samstag, 28. Juni
 
-Cinuos-chel - Grüsch
+Cinuos-chel - Grüsch  
+*Albulapass - Landwasserviadukt Filsur (Glacier Express) - Lenzerheidepass*
 
 ### Route
 
@@ -63,7 +66,8 @@ Cinuos-chel - Grüsch
 
 ## Sonntag, 29. Juni
 
-Grüsch - Gaschurn
+Grüsch - Gaschurn  
+*Luzisteig - Rhein-, Ill-, Montafonradweg*
 
 ### Route
 
@@ -81,7 +85,8 @@ Grüsch - Gaschurn
 
 ## Montag, 30. Juni
 
-Gaschurn - Landeck
+Gaschurn - Landeck  
+*Silvretta-Hochalpenstraße*
 
 ### Route
 
