@@ -58,6 +58,7 @@ Cinuos-chel - Grüsch
 - Verantwortlich: Jürgen
 - Salätschisstrasse 22, 7214 Grüsch
 - inkl. Früstück 462 €
+- stornierbar bis 28. Mai 2025
 - 4 Doppelzimmer
 
 ## Sonntag, 29. Juni
@@ -74,6 +75,7 @@ Grüsch - Gaschurn
 - Verantwortlich: Sören
 - Dorfstraße 127b, 6793 Gaschurn, Österreich
 - inkl. Frühstück 500 €
+- ein Doppelzimmer stornierbar
 - 3 Doppelzimmer
 - 1 Einzelzimmer
 
