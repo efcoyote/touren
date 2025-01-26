@@ -46,33 +46,42 @@ Stilfs - Cinuos-chel
 
 ## Samstag, 28. Juni
 
-Cinuos-chel - Albulapass - irgendwas zwischen Chur und Feldkirch
+Cinuos-chel - Chur
 
 ### Route
 
-[Tag 3, ? km, ? Hm - BRouter]()  
+[Tag 3, 81 km, 1656 Hm - BRouter](http://brouter.de/brouter-web/#map=12/46.8469/9.5959/standard&lonlats=10.021752,46.63887;9.535232,46.680933;9.554071,46.766441;9.531734,46.851607;9.531283,46.85378&profile=fastbike)  
 
 ### Übernachtung
 
 ## Sonntag, 29. Juni
 
-irgendwas zwischen Chur und Feldkirch - vor oder nach Silvretta
+Chur - Gaschurn
+
+### Route
+
+[Tag 4, 102 km, 846 Hm - BRouter](http://brouter.de/brouter-web/#map=12/46.9851/9.7119/standard&lonlats=9.531283,46.85378;9.5436,46.896947;9.556732,46.944694;9.554222,46.956077;9.560686,46.971069;9.54066,46.994246;9.530189,47.004593;9.52064,47.045796;9.51283,47.051281;9.509525,47.062391;9.508216,47.073792;9.505663,47.080348;9.499762,47.151333;9.506038,47.154989;9.509311,47.170052;9.512444,47.172938;9.527614,47.203228;9.58437,47.237291;9.596198,47.236995;9.597126,47.236004;9.830811,47.140738;10.01907,46.99365)
 
 ### Übernachtung
 
-### Route
-
-[Tag 4, ? km, ? Hm - BRouter]()
+- [Explorer Hotel Montafon](https://www.explorer-hotels.com/montafon/)
+- Verantwortlich: Sören
+- Dorfstraße 127b, 6793 Gaschurn, Österreich
+- inkl. Frühstück 500 €
+- 3 Doppelzimmer
+- 1 Einzelzimmer
 
 ## Montag, 30. Juni
 
-vor oder nach Silvretta - Landeck
+Gaschurn - Landeck
 
 ### Route
 
-[Tag 5, ? km, ? Hm - BRouter]()
+[Tag 5, 68 km, 1238 Hm - BRouter](http://brouter.de/brouter-web/#map=11/46.9045/10.2798/standard&lonlats=10.018909,46.993712;10.08502,46.919523;10.564159,47.140307&profile=fastbike)
 
 ### Rückreise
+
+Mit dem Auto.
 
 ## Streckenzusammenfassung
 
@@ -80,7 +89,7 @@ vor oder nach Silvretta - Landeck
 | --- | --------------------- | ---------- | ---------- |
 | 1   | Landeck - Stilfs      | 97         | 1904       |
 | 2   | Stilfs - Cinuos-chel  | 82         | 2774       |
-| 3   | Cinuos-chel - ?       | ?          | ?          |
-| 4   | ? - ?                 | ?          | ?          |
-| 5   | ? - Landeck           | ?          | ?          |
-|     |                       | **?**    | **?**   |
+| 3   | Cinuos-chel - Chur    | 81         | 1656       |
+| 4   | Chur - Gaschurn       | 102        | 846        |
+| 5   | Gaschurn - Landeck    | 68         | 1238       |
+|     |                       | **430**    | **8418**   |
