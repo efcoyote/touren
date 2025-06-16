@@ -22,10 +22,9 @@ Landeck - Stilfs
 - [Hotel Traube Stelvio](https://www.hoteltraube.it/)
 - Verantwortlich: Torsten
 - Dorfstraße / Via del Paese 12, 39029 Stilfs
-- inkl. Frühstück + Gebühren € 582,40
+- inkl. Frühstück € 480 + Gebühren
 - stornierbar bis 18. Juni 2025
-- 2 Doppelzimmer
-- 1 Dreierzimmer
+- 2 Dreierzimmer
 
 ## Freitag, 27. Juni
 
