@@ -11,7 +11,8 @@ Landeck - Stilfs
 
 ### Anreise
 
-2x Auto
+1x VW Caddy
+1x VW Bus + Anhänger
 
 ### Route
 
