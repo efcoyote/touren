@@ -22,7 +22,7 @@ Landeck - Stilfs
 - [Hotel Traube Stelvio](https://www.hoteltraube.it/)
 - Verantwortlich: Torsten
 - Dorfstraße / Via del Paese 12, 39029 Stilfs
-- inkl. Frühstück € 480 + Gebühren
+- inkl. Frühstück 480 € + Gebühren
 - stornierbar bis 18. Juni 2025
 - 2 Dreierzimmer
 
@@ -40,10 +40,11 @@ Stilfs - Cinuos-chel
 - [Hotel Veduta](https://veduta.ch/)
 - Verantwortlich: Holger
 - Via Chantunela 61, 7526 Cinuos-Chel, Schweiz
-- inkl. Frühstück 620 CHF
+- inkl. Frühstück 574 CHF
 - stornierbar bis 19. Juni 2025
 - 2 Doppelzimmer
-- 1 Familienzimmer
+- 1 Familienzimmer für 2 Personen
+- Abendessen im Restaurant reserviert von 18:00 - 21:00 Uhr
 
 ## Samstag, 28. Juni
 
@@ -61,7 +62,8 @@ Cinuos-chel - Grüsch
 - Salätschisstrasse 22, 7214 Grüsch
 - inkl. Früstück 462 €
 - stornierbar bis 28. Mai 2025
-- 4 Doppelzimmer
+- 2 Doppelzimmer
+- 2 Einzelzimmer
 
 ## Sonntag, 29. Juni
 
@@ -79,8 +81,8 @@ Grüsch - Gaschurn
 - Dorfstraße 127b, 6793 Gaschurn, Österreich
 - inkl. Frühstück 500 €
 - ein Doppelzimmer stornierbar
-- 3 Doppelzimmer
-- 1 Einzelzimmer
+- 2 Doppelzimmer
+- 2 Einzelzimmer
 
 ## Montag, 30. Juni
 
