@@ -12,7 +12,7 @@
 - ✔  Fahrrad-Vorderlicht (229g)
 - ✔  Fahrrad-Rücklicht (33g)
 - ✔  Fahrradcomputer (40g)
-- 🚨  2x Fahrradtrinkflasche (172g)
+- ✔  2x Fahrradtrinkflasche (172g)
 - ✔  Lenkerrolle (275g)
 - ✔  Zusatztasche für Lenkerrolle
 - ✔  Rahmentasche (180g)
@@ -21,12 +21,12 @@
 - ✔  Spacer für Lenkerrolle
 - ✔  Helm (309g)
 - ✔  Fahrradbrille (26g)
-- 🚨  Fahrradhandschuhe (44g)
+- ✔  Fahrradhandschuhe (44g)
 - ✔  Fahrradschuhe (33g)
 - ✔  1 x Trikot
 - ✔  Kurze Radhose
 - ✔  1 x Radunterhose
-- 🚨  1 x Socken
+- ✔  1 x Socken
 
 ### Obligatorisch
 
@@ -40,9 +40,9 @@
 - ✔  Latexhandschuhe (19g)
 - ✔  Inbusschlüssel für Bremsbeläge (3) / Lenker (4) / Sattel (5) / Pedale (6) (83g)
 - ✔  Sonnenbrillengläser (20g)
-- 🚨  1 x Trikot
+- ✔  1 x Trikot
 - ✔  1 x Radunterhose
-- 🚨  1 x Socken
+- ✔  1 x Socken
 - ✔  Regenjacke (321g)
 - ✔  Regenhose (198g)
 - ✔  Dieselhandschuhe (3g)
@@ -53,6 +53,7 @@
 - ✔  T-Shirt (153g)
 - ✔  Daunenjacke (237g)
 - ✔  Handtuch (77g)
+- ✔  Badehose
 - ✔  Zelt (880g)
 - ✔  Schlafsack (854g)
 - ✔  Isomatte (560g)
@@ -60,12 +61,12 @@
 - ✔  Dampfsperrfolie (315g)
 - 🚨  Zahnbürste (17g)
 - ✔  2 x Zahnpasta (102g)
-- 🚨  Sonnencreme (54g)
+- ✔  Sonnencreme (54g)
 - ✔  Biologisch-abbaubare Seife (73g)
 - ✔  Deo (33g)
 - ✔  Antibrumm (92g)
-- 🚨  Rasierer (36g)
-- 🚨  Nagelknipser (21g)
+- ✔  Rasierer (36g)
+- ✔  Nagelknipser (21g)
 - ✔  Ohropax
 - ✔  Pflaster
 - ✔  Taschentücher
@@ -74,14 +75,15 @@
 - ✔  Taschenmesser (94g)
 - ✔  Plastikbeutel
 - ✔  Portemonnaie (55g)
-- 🚨  Führerschein
-- 🚨  Krankenkarte
-- 🚨  Kreditkarte
-- 🚨  Zweite Kreditkarte
-- 🚨  Geld
+- ✔  Ausweis
+- ✔  Führerschein
+- ✔  Krankenkarte
+- ✔  Kreditkarte
+- ✔  Zweite Kreditkarte
+- ✔  Geld
 - 🚨  Handy (184g)
 - 🚨  Handyladekabel (19g)
-- 🚨  Handy-Kopfhörer (18g)
+- ✔  Handy-Kopfhörer (18g)
 - ✔  Powerbank (249g)
 - ✔  Fahrradlicht-Ladekabel
 - ✔  Flip-Flops (139g)
@@ -114,7 +116,7 @@
 
 ### Karlsruhe - Besançon
 
-[331 km / 607 Hm](http://brouter.de/brouter-web/#map=10/47.1135/6.4792/standard&lonlats=8.401921,48.991885;8.222569,48.866119;8.218439,48.864299;8.21448,48.860925;8.212591,48.859851;8.209459,48.858864;8.204899,48.855313;7.998819,48.71917;7.865921,48.599381;7.762324,48.568521;7.750361,48.560308;7.550056,48.189415;7.533961,48.090346;7.537651,48.058578;7.534819,48.028122;7.52888,48.018255;7.438947,47.802721;6.451378,47.360018;6.339154,47.339345;6.036108,47.231424)
+[333 km / 617 Hm](https://brouter.de/brouter-web/#map=11/48.6526/8.0633/standard&lonlats=8.401921,48.991885;8.33004,48.893129;8.32341,48.890186;8.222569,48.866119;8.218439,48.864299;8.21448,48.860925;8.212591,48.859851;8.209459,48.858864;8.204899,48.855313;7.998819,48.71917;7.865921,48.599381;7.762324,48.568521;7.750361,48.560308;7.550056,48.189415;7.533961,48.090346;7.537651,48.058578;7.534819,48.028122;7.52888,48.018255;7.438947,47.802721;6.451378,47.360018;6.339154,47.339345;6.036108,47.231424)
 
 ### Besançon - Aurillac
 
@@ -156,7 +158,7 @@
 
 | Start      | Ziel      | Strecke (km) | Höhenmeter (m) |
 | ---------- | --------- | ------------ | -------------- |
-| Karlsruhe  | Besançon  |          331 |            607 |
+| Karlsruhe  | Besançon  |          333 |            617 |
 | Besançon   | Aurillac  |          528 |           4239 |
 | Aurillac   | Bordeaux  |          310 |           1627 |
 | Bordeaux   | Donostia  |          291 |            880 |
