@@ -6,97 +6,98 @@
 
 ### Fahrrad
 
-- ✔  Fahrrad
-- ✔  Luftpumpe
-- ✔  Fahrradschloss
-- ✔  Fahrrad-Vorderlicht (229g)
-- ✔  Fahrrad-Rücklicht (33g)
-- ✔  Fahrradcomputer (40g)
-- ✔  2x Fahrradtrinkflasche (172g)
-- ✔  Lenkerrolle (275g)
-- ✔  Zusatztasche für Lenkerrolle
-- ✔  Rahmentasche (180g)
-- ✔  Sattelrohrtasche (425g)
-- ✔  Oberrohrtasche (90g)
-- ✔  Spacer für Lenkerrolle
-- ✔  Helm (309g)
-- ✔  Fahrradbrille (26g)
-- ✔  Fahrradhandschuhe (44g)
-- ✔  Fahrradschuhe (33g)
-- ✔  1 x Trikot
-- ✔  Kurze Radhose
-- ✔  1 x Radunterhose
-- ✔  1 x Socken
+- Fahrrad
+- Luftpumpe
+- Fahrradschloss
+- Fahrrad-Vorderlicht (229g)
+- Fahrrad-Rücklicht (33g)
+- Fahrradcomputer (40g)
+- 2x Fahrradtrinkflasche (172g)
+- Lenkerrolle (275g)
+- Zusatztasche für Lenkerrolle
+- Rahmentasche (180g)
+- Sattelrohrtasche (425g)
+- Oberrohrtasche (90g)
+- Spacer für Lenkerrolle
+- Helm (309g)
+- Fahrradbrille (26g)
+- Fahrradhandschuhe (44g)
+- Fahrradschuhe (33g)
+- 1 x Trikot
+- Kurze Radhose
+- 1 x Radunterhose
+- 1 x Socken
 
 ### Obligatorisch
 
-- ✔  Flickzeug (21g)
-- ✔  Reifenheber (25g)
-- ✔  Ventilverlängerung (4g)
-- ✔  Gewebeband (14g)
-- ✔  Klebeband (31g)
-- ✔  Öl (59g)
-- ✔  Fahrradlappen (34g)
-- ✔  Latexhandschuhe (19g)
-- ✔  Inbusschlüssel für Bremsbeläge (3) / Lenker (4) / Sattel (5) / Pedale (6) (83g)
-- ✔  Sonnenbrillengläser (20g)
-- ✔  1 x Trikot
-- ✔  1 x Radunterhose
-- ✔  1 x Socken
-- ✔  Regenjacke (321g)
-- ✔  Regenhose (198g)
-- ✔  Dieselhandschuhe (3g)
-- ✔  Armlinge (51g)
-- ✔  Buff (35g)
-- ✔  Tights (153g)
-- ✔  Unterhose (66g)
-- ✔  T-Shirt (153g)
-- ✔  Daunenjacke (237g)
-- ✔  Handtuch (77g)
-- ✔  Badehose
-- ✔  Zelt (880g)
-- ✔  Schlafsack (854g)
-- ✔  Isomatte (560g)
-- ✔  Seideninlett (157g)
-- ✔  Dampfsperrfolie (315g)
-- 🚨  Zahnbürste (17g)
-- ✔  2 x Zahnpasta (102g)
-- ✔  Sonnencreme (54g)
-- ✔  Biologisch-abbaubare Seife (73g)
-- ✔  Deo (33g)
-- ✔  Antibrumm (92g)
-- ✔  Rasierer (36g)
-- ✔  Nagelknipser (21g)
-- ✔  Ohropax
-- ✔  Pflaster
-- ✔  Taschentücher
-- ✔  Toilettenpapier (54g)
-- ✔  Waschtasche (39g)
-- ✔  Taschenmesser (94g)
-- ✔  Plastikbeutel
-- ✔  Portemonnaie (55g)
-- ✔  Ausweis
-- ✔  Führerschein
-- ✔  Krankenkarte
-- ✔  Kreditkarte
-- ✔  Zweite Kreditkarte
-- ✔  Geld
-- 🚨  Handy (184g)
-- 🚨  Handyladekabel (19g)
-- ✔  Handy-Kopfhörer (18g)
-- ✔  Powerbank (249g)
-- ✔  Fahrradlicht-Ladekabel
-- ✔  Flip-Flops (139g)
-- ✔  Topf (289g)
-- ✔  Gaskocher + Box (105g)
-- ✔  Gaskartusche
-- ✔  Feuerzeug + Streichhölzer (23g)
-- ✔  Plastiklöffel (12g)
-- ✔  Salz (88g)
-- ✔  Spüllappen (6g)
-- ✔  Reinigungslappen (6g)
-- ✔  Faltrucksack (29g)
-- ✔  Kabelbinder
+- Flickzeug (21g)
+- Reifenheber (25g)
+- Ventilverlängerung (4g)
+- Gewebeband (14g)
+- Klebeband (31g)
+- Öl (59g)
+- Fahrradlappen (34g)
+- Latexhandschuhe (19g)
+- Inbusschlüssel für Bremsbeläge (3) / Lenker (4) / Sattel (5) / Pedale (6) (83g)
+- Sonnenbrillengläser (20g)
+- 1 x Trikot
+- 1 x Radunterhose
+- 1 x Socken
+- Regenjacke (321g)
+- Regenhose (198g)
+- Dieselhandschuhe (3g)
+- Armlinge (51g)
+- Buff (35g)
+- Tights (153g)
+- Unterhose (66g)
+- T-Shirt (153g)
+- Daunenjacke (237g)
+- Handtuch (77g)
+- Badehose
+- Zelt (880g)
+- Schlafsack (854g)
+- Isomatte (560g)
+- Seideninlett (157g)
+- Dampfsperrfolie (315g)
+- Zahnbürste (17g)
+- 2 x Zahnpasta (102g)
+- Sonnencreme (54g)
+- Biologisch-abbaubare Seife (73g)
+- Deo (33g)
+- Antibrumm (92g)
+- Rasierer (36g)
+- Nagelknipser (21g)
+- Ohropax
+- Pflaster
+- Taschentücher
+- Toilettenpapier (54g)
+- Waschtasche (39g)
+- Taschenmesser (94g)
+- Plastikbeutel
+- Portemonnaie (55g)
+- Ausweis
+- Führerschein
+- Krankenkarte
+- Kreditkarte
+- Zweite Kreditkarte
+- Geld
+- Handy (184g)
+- Handyladekabel (19g)
+- Handy-Kopfhörer (18g)
+- Powerbank (249g)
+- Fahrradlicht-Ladekabel
+- Flip-Flops (139g)
+- Topf (289g)
+- Gaskocher + Box (105g)
+- Gaskartusche
+- Feuerzeug + Streichhölzer (23g)
+- Plastiklöffel (12g)
+- Salz (88g)
+- Spüllappen (6g)
+- Reinigungslappen (6g)
+- Faltrucksack (29g)
+- Kabelbinder
+- Stift
 
 ### Wahlobligatorisch
 
