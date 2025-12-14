@@ -4,7 +4,7 @@
 
 ![Übersichtskarte](slowenien-2026-gesamt.avif)
 
-## Donnerstag, X
+## Freitag, 26.06.2026
 
 Villach - Bovec  
 *Wurzenpass - Vršičpass - Soča-Tal*
@@ -30,7 +30,7 @@ Villach - Bovec
 - stornierbar bis X 2026
 - 1x Zwölfbettzimmer
 
-## Freitag, X
+## Samstag, 27.06.2026
 
 Bovec - Bohinjska Bistrica  
 *Soča-Tal - Bohinjska sedlo*
@@ -42,7 +42,7 @@ Bovec - Bohinjska Bistrica
 ### Übernachtung
 
 
-## Samstag, X
+## Sonntag, 28.06.2026
 
 Bohinjska Bistrica - Ljubljana  
 *Bohinjsko jezero - Blejsko jezero - Ljubljana*
@@ -54,7 +54,7 @@ Bohinjska Bistrica - Ljubljana
 ### Übernachtung
 
 
-## Sonntag, X
+## Montag, 29.06.2026
 
 Ljubljana - Klagenfurt  
 *Seebergsattel*
@@ -66,7 +66,7 @@ Ljubljana - Klagenfurt
 ### Übernachtung
 
 
-## Montag, X
+## Dienstag, 30.06.2026
 
 ### Rückreise
 
