@@ -72,8 +72,8 @@ Ljubljana - Klagenfurt
 
 | Abfahrt                            | Ankunft                          | Zug
 | ---------------------------------- | -------------------------------- | -----
-| Klagenfurt Hbf, **10:50**, Gleis 3 | München Hbf, **15:42**, Gleis 12 | ICE 118
-| München Hbf, **16:47**, Gleis 20   | Erlangen, 18:17, Gleis 1         | ICE 504
+| Klagenfurt Hbf, **10:50**, Gleis 3 | München Hbf, **15:42**, Gleis 12 | ICE 116
+| München Hbf, **16:47**, Gleis 20   | Erlangen, 18:17, Gleis 1         | ICE 502
 |                                    | Bamberg, 18:40, Gleis 6          |
 |                                    | Erfurt, 19:23                    |
 
