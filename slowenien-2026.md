@@ -11,11 +11,11 @@ Villach - Bovec
 
 ### Anreise
 
-| Abfahrt                          | Ankunft                         |
-| -------------------------------- | ------------------------------- |
-| Erlangen, **06:03**, Gleis 4     | Nürnberg Hbf, **6:19**, Gleis 4 |
-| Nürnberg Hbf, **6:30**, Gleis 9  | München Hbf, **7:50**, Gleis 19 |
-| München Hbf, **08:15**, Gleis 12 | Villach Hbf, **12:32**          |
+| Abfahrt                          | Ankunft                         | Zug 
+| -------------------------------- | ------------------------------- | -----
+| Erfurt, **06:24**                |                                 | ICE 501
+| Erlangen, **07:51**, Gleis 4     | München Hbf, **9:31**, Gleis 20 | EC 115
+| München Hbf, **10:16**, Gleis 11 | Villach Hbf, **14:32**, Gleis 2 |
 
 ### Route
 
@@ -70,12 +70,12 @@ Ljubljana - Klagenfurt
 
 ### Rückreise
 
-| Abfahrt                          | Ankunft                          |
-| -------------------------------- | -------------------------------- |
-| Klagenfurt Hbf, **10:50**        | München Hbf, **15:41**, Gleis 12 |
-| München Hbf, **16:47**, Gleis 20 | Erlangen, 18:17, Gleis 1         |
-|                                  | Bamberg, 18:40, Gleis 6          |
-|                                  | Erfurt, 19:23                    |
+| Abfahrt                            | Ankunft                          | Zug
+| ---------------------------------- | -------------------------------- | -----
+| Klagenfurt Hbf, **10:50**, Gleis 3 | München Hbf, **15:42**, Gleis 12 | ICE 118
+| München Hbf, **16:47**, Gleis 20   | Erlangen, 18:17, Gleis 1         | ICE 504
+|                                    | Bamberg, 18:40, Gleis 6          |
+|                                    | Erfurt, 19:23                    |
 
 ## Streckenzusammenfassung
 
