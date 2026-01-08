@@ -23,12 +23,11 @@ Villach - Bovec
 
 ### Übernachtung
 
-- [Hotel X]()
-- Verantwortlich: 
-- Dorfstraße 42, 12345 Musterhausen
-- inkl. Frühstück 42 €
-- stornierbar bis X 2026
-- 1x Zwölfbettzimmer
+- Pension Panorama
+- Verantwortlich: Holger
+- 32 Brdo, 5230 Bovec
+- stornierbar bis 26. Mai 2026
+- 4x DZ
 
 ## Samstag, 27.06.2026
 
