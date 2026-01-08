@@ -26,6 +26,7 @@ Villach - Bovec
 - Pension Panorama
 - Verantwortlich: Holger
 - 32 Brdo, 5230 Bovec
+- 415 € (ohne Frühstück)
 - stornierbar bis 26. Mai 2026
 - 4x DZ
 
