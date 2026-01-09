@@ -41,6 +41,12 @@ Bovec - Bohinjska Bistrica
 
 ### Übernachtung
 
+- [Pr’ Pristavc](https://www.prpristavc.com/)
+- Verantwortlich: Eni
+- Polje 18, si-4264 Bohinjska Bistrica, Bohinj
+- 421 € (inkl. Frühstück)
+- stornierbar bis 19. Juni 2026
+- 1x EZ, 3x DZ
 
 ## Sonntag, 28.06.2026
 
