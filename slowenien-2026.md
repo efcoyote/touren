@@ -14,8 +14,8 @@ Villach - Bovec
 | Abfahrt                          | Ankunft                         | Zug 
 | -------------------------------- | ------------------------------- | -----
 | Erfurt, **06:24**                |                                 | ICE 501
-| Erlangen, **07:51**, Gleis 4     | München Hbf, **9:31**, Gleis 20 | EC 115
-| München Hbf, **10:16**, Gleis 11 | Villach Hbf, **14:32**, Gleis 2 |
+| Erlangen, **07:51**, Gleis 4     | München Hbf, **9:31**, Gleis 20 | 
+| München Hbf, **10:16**, Gleis 11 | Villach Hbf, **14:32**, Gleis 2 | EC 115
 
 ### Route
 
