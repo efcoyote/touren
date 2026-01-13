@@ -102,16 +102,29 @@
 
 ## Strecke
 
+### Erlangen - Aalborg
+
+| Abfahrt                      | Ankunft
+| ---------------------------- | -------
+| Erlangen, **05:55**, Gleis 1 | Berlin, 09:29
+| Berlin, 10:34                | Odense, 16:24, Gleis 3
+| Odense, 17:06, Gleis 5       | Aalborg, **19:53**, Gleis 1
+
 ### Aalborg - Hirtshals
 
 [66 km / 135 Hm](https://brouter.de/brouter-web/#map=10/57.3554/10.1459/standard&lonlats=9.965179,57.590952;9.954686,57.585961;9.943829,57.540292;9.952605,57.472962;9.985971,57.462935;9.991379,57.459887;9.979706,57.345931;9.962196,57.215901;9.969406,57.132888;9.917479,57.043391)
 
+### Hirtshals
+
+[Camping Hirtshals](https://hirtshals-camping.dk/de/willkommen/) (gebucht, bezahlt)
+
 ### (Hirtshals - Kristiansand)
 
-[Fähre Fjördline](https://fjordline.com/de)  
-- 09:45 - 12:10
-- 16:15 - 18:40
-- 22:50 - 01:15
+[Fähre Fjördline](https://fjordline.com/de) (gebucht, bezahlt)
+
+| Abfahrt              | Ankunft
+| -------------------- | -------
+| Hirtshals, **09:45** | Kristiansand, **12:10**
 
 ### Kristiansand - Oslo
 
@@ -159,11 +172,11 @@
 
 ### (Kristiansand - Hirtshals)
 
-[Fähre Fjördline](https://fjordline.com/de)  
-- 06:30 - 08:55
-- 13:00 - 15:25
-- 14:30 - 18:25
-- 19:45 - 22:10
+[Fähre Fjördline](https://fjordline.com/de) (gebucht, bezahlt)
+
+| Abfahrt                 | Ankunft
+| ----------------------- | -------
+| Kristiansand, **13:00** | Hirtshals, **15:25**
 
 ### Hirtshals - Aalborg
 
