@@ -59,7 +59,7 @@ Bohinjska Bistrica - Ljubljana
 
 ### Übernachtung
 
-- [City Central Ljubljana]
+- City Central Ljubljana
 - Verantwortlich: Jan
 - 10 Dalmatinova ulica, 1000 Ljubljana
 - 357,03 €
