@@ -39,7 +39,6 @@
 - Klebeband (31g)
 - Öl (59g)
 - Fahrradlappen (34g)
-- Latexhandschuhe (19g)
 - Inbusschlüssel für Bremsbeläge (3) (?g)
 - Sekundenkleber
 - Sonnenbrillengläser (20g)
@@ -57,7 +56,7 @@
 - Handtuch (77g)
 - Zelt (880g)
 - Schlafsack (854g)
-- Isomatte (560g)
+- Isomatte (458g)
 - Seideninlett (157g)
 - Dampfsperrfolie (315g)
 - Zahnbürste (17g)
@@ -84,13 +83,11 @@
 - Geld
 - Handy (184g)
 - Handyladekabel (19g)
-- Handy-Kopfhörer (18g)
 - Powerbank (249g)
 - Fahrradlicht-Ladekabel
 - Flip-Flops (139g)
 - Topf (289g)
 - Gaskocher + Box (105g)
-- Gaskartusche
 - Feuerzeug + Streichhölzer (23g)
 - Plastiklöffel (12g)
 - Salz (88g)
@@ -100,19 +97,20 @@
 - Kabelbinder
 - Stift
 
+### Fehlend
+- Handy-Kopfhörer (18g)
+- Gaskartusche
+
+
 ## Strecke
 
-### Erlangen - Aalborg
+### Erlangen - Tornby
 
-| Abfahrt                      | Ankunft
-| ---------------------------- | -------
-| Erlangen, **05:55**, Gleis 1 | Berlin, 09:29
-| Berlin, 10:34                | Odense, 16:24, Gleis 3
-| Odense, 17:06, Gleis 5       | Aalborg, **19:53**, Gleis 1
+1103 km
 
-### Aalborg - Hirtshals
+### Tornby - Hirtshals
 
-[66 km / 135 Hm](https://brouter.de/brouter-web/#map=10/57.3554/10.1459/standard&lonlats=9.965179,57.590952;9.954686,57.585961;9.943829,57.540292;9.952605,57.472962;9.985971,57.462935;9.991379,57.459887;9.979706,57.345931;9.962196,57.215901;9.969406,57.132888;9.917479,57.043391)
+[7 km / 1 Hm](https://brouter.de/brouter-web/#map=13/57.5570/9.9661/standard&lonlats=9.946251,57.538996;9.954686,57.585961;9.965179,57.590952)
 
 ### Hirtshals
 
@@ -122,9 +120,9 @@
 
 [Fähre Fjördline](https://fjordline.com/de) (gebucht, bezahlt)
 
-| Abfahrt              | Ankunft
-| -------------------- | -------
-| Hirtshals, **09:45** | Kristiansand, **12:10**
+| Abfahrt                           | Ankunft
+| --------------------------------- | -------
+| Hirtshals, **09:45 (03.07.2026)** | Kristiansand, **12:10 (03.07.2026)**
 
 ### Kristiansand - Oslo
 
@@ -154,13 +152,53 @@
 
 [Fähre](https://www.fergeruter.info/fahrplan/lavik-oppedal)
 
-### Oppedal - Bergen
+### Oppedal - Duesund
 
-[123 km / 1.820 Hm](https://brouter.de/brouter-web/#map=9/60.6409/5.3860/standard&lonlats=5.504837,61.053965;5.493464,61.02371;5.486469,61.013665;5.497885,60.936063;5.300249,60.798682;5.478315,60.669584;5.377893,60.568922;5.323434,60.558397;5.312104,60.556287;5.279531,60.462994;5.284595,60.434335;5.325451,60.394695)
+[37 km / 496 Hm](https://brouter.de/brouter-web/#map=9/60.7761/5.9251/standard&lonlats=5.504837,61.053965;5.493464,61.02371;5.486469,61.013665;5.497885,60.936063;5.308499,60.807627)
 
-### Bergen - Solbakk
+### (Duesund - Masfjordnes)
 
-[314 km / 2.602 Hm](https://brouter.de/brouter-web/#map=13/59.0488/5.9616/standard&lonlats=5.324979,60.394862;5.322651,60.391385;5.328144,60.389439;5.342864,60.364185;5.335793,60.302427;5.468297,60.185505;5.498775,59.780741;5.205545,59.71015;5.268974,59.420015;5.30292,59.412966;5.530243,59.431564;5.972958,59.243155;6.162171,59.231496;5.972142,59.068868;5.942016,59.060065;5.928712,59.049184;5.935332,59.036448)
+[Fähre](https://www.fergeruter.info/fahrplan/duesund-masfjordnes)
+
+### Masfjordnes - Bergen
+
+[85 km / 1.190 Hm](https://brouter.de/brouter-web/#map=9/60.5728/5.7101/standard&lonlats=5.304455,60.800887;5.478315,60.669584;5.377893,60.568922;5.323434,60.558397;5.312104,60.556287;5.279531,60.462994;5.284595,60.434335;5.325451,60.394695)
+
+### Bergen - Halhjem
+
+[43 km / 282 Hm](https://brouter.de/brouter-web/#map=15/60.1494/5.4268/standard&lonlats=5.324979,60.394862;5.322651,60.391385;5.328144,60.389439;5.342864,60.364185;5.335793,60.302427;5.468297,60.185505;5.42628,60.145696)
+
+### (Halhjem - Sandvikvåg)
+
+[Fähre](https://www.fergeruter.info/fahrplan/halhjem-sandvikvag)
+
+### Sandvikvåg - Langevåg
+
+[83 km / 923 Hm](https://brouter.de/brouter-web/#map=17/59.60826/5.23507/standard&lonlats=5.333626,59.968212;5.498775,59.780741;5.205545,59.71015;5.236616,59.608148)
+
+### (Langevåg - Buavåg)
+
+[Fähre](https://www.fergeruter.info/fahrplan/langevag-buavag)
+
+### Buavåg - Nedstrand
+
+[77 km / 765 Hm](https://brouter.de/brouter-web/#map=9/59.3675/5.2213/standard&lonlats=5.318348,59.598056;5.268974,59.420015;5.30292,59.412966;5.530243,59.431564;5.857558,59.345424)
+
+### (Nedstrand - Eidssund)
+
+[Fähre](https://www.kolumbus.no/en/travel/timetables/boats-and-ferries/ryfylke/)
+
+### Eidssund - Skipavik
+
+[13 km / 352 Hm](https://brouter.de/brouter-web/#map=11/59.2945/5.7465/standard&lonlats=5.938454,59.234997;5.972958,59.243155;6.095052,59.25298)
+
+### (Skipavik - Hjelmeland)
+
+[Fähre](https://www.fergeruter.info/fahrplan/skipavik-hjelmeland)
+
+### Hjelmeland - Solbakk
+
+[53 km / 659 Hm](https://brouter.de/brouter-web/#map=10/59.0896/5.9738/standard&lonlats=6.165369,59.233879;5.972142,59.068868;5.942016,59.060065;5.928712,59.049184;5.935332,59.036448)
 
 ### (Solbakk - Hundvåg)
 
@@ -174,13 +212,13 @@
 
 [Fähre Fjördline](https://fjordline.com/de) (gebucht, bezahlt)
 
-| Abfahrt                 | Ankunft
-| ----------------------- | -------
-| Kristiansand, **13:00** | Hirtshals, **15:25**
+| Abfahrt                              | Ankunft
+| ------------------------------------ | -------
+| Kristiansand, **13:00 (18.07.2026)** | Hirtshals, **15:25 (18.07.2026)**
 
-### Hirtshals - Aalborg
+### Hirtshals - Tornby
 
-[66 km / 135 Hm](https://brouter.de/brouter-web/#map=10/57.3554/10.1459/standard&lonlats=9.965179,57.590952;9.954686,57.585961;9.943829,57.540292;9.952605,57.472962;9.985971,57.462935;9.991379,57.459887;9.979706,57.345931;9.962196,57.215901;9.969406,57.132888;9.917479,57.043391)
+[7 km / 1 Hm](https://brouter.de/brouter-web/#map=13/57.5570/9.9661/standard&lonlats=9.965179,57.590952;9.954686,57.585961;9.946251,57.538996)
 
 ## Tunnelstatus für Radfahrer
 
@@ -190,13 +228,18 @@
 
 | Start        | Ziel         | Strecke (km) | Höhenmeter (m) |
 | ------------ | ------------ | ------------ | -------------- |
-| Aalborg      | Hirtshals    |           66 |            135 |
+| Tornby       | Hirtshals    |            7 |              1 |
 | Kristiansand | Oslo         |          435 |          3.245 |
 | Oslo         | Flåm         |          372 |          4.660 |
 | Balestrand   | Låne         |           35 |            340 |
 | Høyanger     | Lavik        |           53 |            720 |
-| Oppedal      | Bergen       |          123 |          1.820 |
-| Bergen       | Solbakk      |          314 |          2.602 |
+| Oppedal      | Duesund      |           37 |            496 |
+| Masfjordnes  | Bergen       |           85 |          1.190 |
+| Bergen       | Halhjem      |           43 |            282 |
+| Sandvikvåg   | Langevåg     |           83 |            923 |
+| Buavåg       | Nedstrand    |           77 |            765 |
+| Eidssund     | Skipavik     |           13 |            352 |
+| Hjelmeland   | Solbakk      |           53 |            659 |
 | Hundvåg      | Kristiansand |          358 |          4.692 |
-| Hirtshals    | Aalborg      |           66 |            135 |
-| **Gesamt**   |              |    **1.822** |     **18.349** |
+| Hirtshals    | Tornby       |            7 |              1 |
+| **Gesamt**   |              |    **1.658** |     **18.325** |
